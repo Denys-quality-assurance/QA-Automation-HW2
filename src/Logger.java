@@ -25,7 +25,7 @@ public class Logger {
                     String line = null;													//line in which the line-by-line reading from the files is stored
                     while ((line = reader.readLine()) != null) {						//until found the zero line (to the end of the file)
                     		if (line.contains(":  ")){   
-                    			date = format.parse(line.substring(0,14));				//translate the first 15 characters of the line to the date
+                    			date = format.parse(line.substring(0,15));				//translate the first 15 characters of the line to the date
                              	logID = line.substring(line.indexOf(":  ")+3).replaceAll(System.getProperty("line.separator"),"");      //from line we leave everything from the third character after ":" and remove a new line character
                              																//The Map.entrySet method returns a collection-view of the map, whose elements are of this class.
                              	for(Map.Entry<Date, String> item : newLog.entrySet()){		//entrySet() method is used to return a Set view of the mappings contained in this map. The set's iterator returns the entries in ascending key order 
