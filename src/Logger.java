@@ -54,7 +54,7 @@ public class Logger {
 
        try {
         BufferedWriter writer;
-        writer = new BufferedWriter(new FileWriter(to, true));					//BufferedWriter - class of record of a stream, Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written.
+        writer = new BufferedWriter(new FileWriter(to));					//BufferedWriter - class of record of a stream, Constructs a FileWriter object given a file name with a boolean indicating whether or not to append the data written.
         for(Map.Entry<Date, String> item : newLog.entrySet()){					//The entrySet() method is used to return a Set view of the mappings contained in this map. The set's iterator returns the entries in ascending key order. 
         writer.write(format.format(item.getKey())+" : "+ item.getValue() + System.getProperty("line.separator")); //System.getProperty("line.separator") returns the OS dependent line separator
         }			
