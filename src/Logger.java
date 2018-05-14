@@ -63,7 +63,7 @@ public class Logger {
 		e.printStackTrace();
 	}	
        System.out.println("==================================================");
-       System.out.println("Proces is done!");   
+       System.out.println("Process is done!");
         
     }
 }

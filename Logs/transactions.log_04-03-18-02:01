@@ -1,0 +1,2106 @@
+Mar  4 01:01:09 gw2-nc-caparks transaction0: Log time: Sun, 04 Mar 2018 01:01:08 GMT
+Mar  4 01:01:09 gw2-nc-caparks transaction1: Log time: Sun, 04 Mar 2018 01:01:08 GMT
+Mar  4 01:01:10 gw2-nc-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:01:08 GMT
+Mar  4 01:01:10 gw2-nc-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:01:08 GMT
+Mar  4 01:01:12 gw2-or-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:01:08 GMT
+Mar  4 01:01:12 gw2-or-homeaway transaction0: Asset id: 811
+Mar  4 01:01:12 gw2-or-homeaway transaction0: Captured transactions: 
+Mar  4 01:01:12 gw2-or-homeaway transaction0:  SForce-1,SForce-1002,SForce-11,SForce-12,SForce-121,SForce-123,SForce-124,SForce-1283,SForce-1284,SForce-13,SForce-1372,SForce-14,SForce-1466,SForce-1483,SForce-15,SForce-1520,SForce-16,SForce-17,SForce-19,SForce-2,SForce-23,SForce-3,SForce-4,SForce-42,SForce-44,SForce-69,SForce-70,SForce-73,SForce-86,SForce-861,SForce-862,SForce-863,SForce-87
+Mar  4 01:01:12 gw2-or-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:01:08 GMT
+Mar  4 01:01:12 gw2-or-homeaway transaction1: Asset id: 811
+Mar  4 01:01:12 gw2-or-homeaway transaction1: Captured transactions: 
+Mar  4 01:01:12 gw2-or-homeaway transaction1:  SForce-1,SForce-1002,SForce-12,SForce-120,SForce-123,SForce-124,SForce-1283,SForce-1284,SForce-1372,SForce-14,SForce-1466,SForce-1483,SForce-15,SForce-1520,SForce-16,SForce-17,SForce-19,SForce-2,SForce-23,SForce-3,SForce-4,SForce-42,SForce-44,SForce-69,SForce-72,SForce-86,SForce-861,SForce-862,SForce-87,SForce-89
+Mar  4 01:01:13 gw2-nc-marketaxess transaction0: Log time: Sun, 04 Mar 2018 01:01:09 GMT
+Mar  4 01:01:13 gw2-nc-marketaxess transaction1: Log time: Sun, 04 Mar 2018 01:01:09 GMT
+Mar  4 01:01:15 gw3-ir-sareb transaction0: Log time: Sun, 04 Mar 2018 01:01:09 GMT
+Mar  4 01:01:15 gw3-ir-sareb transaction1: Log time: Sun, 04 Mar 2018 01:01:09 GMT
+Mar  4 01:01:15 gw2-ir-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:01:06 GMT
+Mar  4 01:01:15 gw2-ir-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:01:06 GMT
+Mar  4 01:01:15 gw3-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:14 GMT
+Mar  4 01:01:15 gw3-nc-umg transaction0: Asset id: 105
+Mar  4 01:01:15 gw3-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:15 gw3-nc-umg transaction0: Captured transactions: None
+Mar  4 01:01:15 gw3-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:14 GMT
+Mar  4 01:01:15 gw3-nc-umg transaction1: Asset id: 105
+Mar  4 01:01:15 gw3-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:15 gw3-nc-umg transaction1: Captured transactions: None
+Mar  4 01:01:16 gw2-nc-pivotalventures transaction0: Log time: Sun, 04 Mar 2018 01:01:07 GMT
+Mar  4 01:01:16 gw2-nc-pivotalventures transaction1: Log time: Sun, 04 Mar 2018 01:01:07 GMT
+Mar  4 01:01:15 gw2-nc-cityofla transaction0: Log time: Sun, 04 Mar 2018 01:01:13 GMT
+Mar  4 01:01:15 gw2-nc-cityofla transaction1: Log time: Sun, 04 Mar 2018 01:01:13 GMT
+Mar  4 01:01:14 gw2-nc-sos-prod transaction0: Log time: Sun, 04 Mar 2018 01:01:13 GMT
+Mar  4 01:01:14 gw2-nc-sos-prod transaction0: Asset id: 323
+Mar  4 01:01:14 gw2-nc-sos-prod transaction0: Captured transactions: 
+Mar  4 01:01:14 gw2-nc-sos-prod transaction0:  Skyfence-1,Skyfence-166,Skyfence-3,Skyfence-4
+Mar  4 01:01:14 gw2-nc-sos-prod transaction1: Log time: Sun, 04 Mar 2018 01:01:13 GMT
+Mar  4 01:01:14 gw2-nc-sos-prod transaction1: Asset id: 323
+Mar  4 01:01:14 gw2-nc-sos-prod transaction1: Captured transactions: 
+Mar  4 01:01:14 gw2-nc-sos-prod transaction1:  Skyfence-1,Skyfence-166,Skyfence-3,Skyfence-4,Skyfence-43,Skyfence-45,Skyfence-9
+Mar  4 01:01:15 gw2-nc-cawildlife transaction0: Log time: Sun, 04 Mar 2018 01:01:13 GMT
+Mar  4 01:01:15 gw2-nc-cawildlife transaction0: Asset id: 4279
+Mar  4 01:01:15 gw2-nc-cawildlife transaction0: Captured transactions: 
+Mar  4 01:01:15 gw2-nc-cawildlife transaction0:  O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:01:15 gw2-nc-cawildlife transaction1: Log time: Sun, 04 Mar 2018 01:01:13 GMT
+Mar  4 01:01:15 gw2-nc-cawildlife transaction1: Asset id: 4279
+Mar  4 01:01:15 gw2-nc-cawildlife transaction1: Captured transactions: 
+Mar  4 01:01:15 gw2-nc-cawildlife transaction1:  O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:01:17 gw2-nc-cascade transaction0: Log time: Sun, 04 Mar 2018 01:01:15 GMT
+Mar  4 01:01:17 gw2-nc-cascade transaction0: Asset id: 6514
+Mar  4 01:01:17 gw2-nc-cascade transaction0: Captured transactions: 
+Mar  4 01:01:17 gw2-nc-cascade transaction0:  O365-1174,O365-1249,O365-1263,O365-1264,O365-1325,O365-43,O365-44,O365-445,O365-480,O365-507,O365-52,O365-53,O365-600,O365-934,O365-974
+Mar  4 01:01:17 gw2-nc-cascade transaction1: Log time: Sun, 04 Mar 2018 01:01:15 GMT
+Mar  4 01:01:17 gw2-nc-cascade transaction1: Asset id: 6514
+Mar  4 01:01:17 gw2-nc-cascade transaction1: Captured transactions: 
+Mar  4 01:01:17 gw2-nc-cascade transaction1:  O365-1174,O365-1249,O365-1263,O365-1325,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-52,O365-53,O365-600,O365-934,O365-974
+Mar  4 01:01:18 gw2-nv-jennison transaction0: Log time: Sun, 04 Mar 2018 01:01:11 GMT
+Mar  4 01:01:18 gw2-nv-jennison transaction0: Asset id: 9777
+Mar  4 01:01:18 gw2-nv-jennison transaction0: Captured transactions: 
+Mar  4 01:01:18 gw2-nv-jennison transaction0:  SForce-1,SForce-2
+Mar  4 01:01:18 gw2-nv-jennison transaction1: Log time: Sun, 04 Mar 2018 01:01:11 GMT
+Mar  4 01:01:18 gw2-nv-jennison transaction1: Asset id: 9777
+Mar  4 01:01:18 gw2-nv-jennison transaction1: Captured transactions: 
+Mar  4 01:01:18 gw2-nv-jennison transaction1:  SForce-1,SForce-2
+Mar  3 17:01:18 gw2-nc-biva transaction0: Log time: Sun, 04 Mar 2018 01:01:15 GMT
+Mar  3 17:01:18 gw2-nc-biva transaction0: Asset id: 3886
+Mar  3 17:01:18 gw2-nc-biva transaction0: Captured transactions: 
+Mar  3 17:01:18 gw2-nc-biva transaction0:  O365-1249,O365-1325,O365-273,O365-43,O365-44,O365-445,O365-480,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  3 17:01:18 gw2-nc-biva transaction0: Asset id: 3888
+Mar  3 17:01:18 gw2-nc-biva transaction0: Captured transactions: 
+Mar  3 17:01:18 gw2-nc-biva transaction0:  Google-1,Google-2,Google-3,Google-64
+Mar  3 17:01:18 gw2-nc-biva transaction1: Log time: Sun, 04 Mar 2018 01:01:15 GMT
+Mar  3 17:01:18 gw2-nc-biva transaction1: Asset id: 3886
+Mar  3 17:01:18 gw2-nc-biva transaction1: Captured transactions: 
+Mar  3 17:01:18 gw2-nc-biva transaction1:  O365-1249,O365-1325,O365-273,O365-43,O365-44,O365-445,O365-480,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  3 17:01:18 gw2-nc-biva transaction1: Asset id: 3888
+Mar  3 17:01:18 gw2-nc-biva transaction1: Captured transactions: 
+Mar  3 17:01:18 gw2-nc-biva transaction1:  Google-1,Google-2,Google-3,Google-64
+Mar  3 17:01:18 gw2-nc-biva transaction1: Asset id: 5153
+Mar  3 17:01:18 gw2-nc-biva transaction1: Captured transactions: 
+Mar  3 17:01:18 gw2-nc-biva transaction1:  slack-65
+Mar  4 01:01:19 gw2-ir-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:01:17 GMT
+Mar  4 01:01:19 gw2-ir-homeaway transaction0: Asset id: 811
+Mar  4 01:01:19 gw2-ir-homeaway transaction0: Captured transactions: 
+Mar  4 01:01:19 gw2-ir-homeaway transaction0:  SForce-1,SForce-1002,SForce-1284,SForce-1372,SForce-1483,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69,SForce-87
+Mar  4 01:01:19 gw2-ir-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:01:17 GMT
+Mar  4 01:01:19 gw2-ir-homeaway transaction1: Asset id: 811
+Mar  4 01:01:19 gw2-ir-homeaway transaction1: Captured transactions: 
+Mar  4 01:01:19 gw2-ir-homeaway transaction1:  SForce-1,SForce-1002,SForce-1284,SForce-1372,SForce-1483,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69
+Mar  4 01:01:20 gw2-ir-imperva transaction0: Log time: Sun, 04 Mar 2018 01:01:15 GMT
+Mar  4 01:01:20 gw2-ir-imperva transaction0: Asset id: 1722
+Mar  4 01:01:20 gw2-ir-imperva transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:20 gw2-ir-imperva transaction0: Captured transactions: 
+Mar  4 01:01:20 gw2-ir-imperva transaction0:  SForce-1,SForce-121,SForce-124,SForce-1284,SForce-16,SForce-17,SForce-2,SForce-3,SForce-4,SForce-85
+Mar  4 01:01:20 gw2-ir-imperva transaction1: Log time: Sun, 04 Mar 2018 01:01:15 GMT
+Mar  4 01:01:20 gw2-ir-imperva transaction1: Asset id: 1722
+Mar  4 01:01:20 gw2-ir-imperva transaction1: Captured transactions: 
+Mar  4 01:01:20 gw2-ir-imperva transaction1:  SForce-1,SForce-11,SForce-123,SForce-1284,SForce-13,SForce-1466,SForce-16,SForce-17,SForce-2,SForce-863
+Mar  4 01:01:23 gw2-nc-medix transaction0: Log time: Sun, 04 Mar 2018 01:01:21 GMT
+Mar  4 01:01:23 gw2-nc-medix transaction1: Log time: Sun, 04 Mar 2018 01:01:21 GMT
+Mar  4 01:01:21 gw2-sp-localiza transaction0: Log time: Sun, 04 Mar 2018 01:01:16 GMT
+Mar  4 01:01:21 gw2-sp-localiza transaction1: Log time: Sun, 04 Mar 2018 01:01:16 GMT
+Mar  4 01:01:22 gw3-nc-cawater transaction1: Log time: Sun, 04 Mar 2018 01:01:22 GMT
+Mar  4 01:01:22 gw2-nc-fhlbsf transaction0: Log time: Sun, 04 Mar 2018 01:01:21 GMT
+Mar  4 01:01:22 gw2-nc-fhlbsf transaction1: Log time: Sun, 04 Mar 2018 01:01:21 GMT
+Mar  4 01:01:23 gw2-mu-nalg transaction0: Log time: Sun, 04 Mar 2018 01:01:17 GMT
+Mar  4 01:01:23 gw2-ir-umg-sp transaction0: Log time: Sun, 04 Mar 2018 01:01:15 GMT
+Mar  4 01:01:23 gw2-ir-umg-sp transaction1: Log time: Sun, 04 Mar 2018 01:01:15 GMT
+Mar  4 01:01:23 gw2-mu-nalg transaction1: Log time: Sun, 04 Mar 2018 01:01:17 GMT
+Mar  4 01:01:24 gw4-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:17 GMT
+Mar  4 01:01:24 gw4-nc-umg transaction0: Asset id: 105
+Mar  4 01:01:24 gw4-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:24 gw4-nc-umg transaction0: Captured transactions: None
+Mar  4 01:01:24 gw4-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:17 GMT
+Mar  4 01:01:24 gw4-nc-umg transaction1: Asset id: 105
+Mar  4 01:01:24 gw4-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:24 gw4-nc-umg transaction1: Captured transactions: None
+Mar  4 01:01:25 gw2-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:18 GMT
+Mar  4 01:01:25 gw2-ir-umg transaction0: Asset id: 105
+Mar  4 01:01:25 gw2-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:25 gw2-ir-umg transaction0: Captured transactions: None
+Mar  4 01:01:25 gw2-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:18 GMT
+Mar  4 01:01:25 gw2-ir-umg transaction1: Asset id: 105
+Mar  4 01:01:25 gw2-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:25 gw2-ir-umg transaction1: Captured transactions: None
+Mar  4 01:01:25 gw2-or-vista transaction0: Log time: Sun, 04 Mar 2018 01:01:19 GMT
+Mar  4 01:01:25 gw2-or-vista transaction1: Log time: Sun, 04 Mar 2018 01:01:19 GMT
+Mar  4 01:01:26 gw2-nv-progentrix transaction0: Log time: Sun, 04 Mar 2018 01:01:17 GMT
+Mar  4 01:01:26 gw2-nv-progentrix transaction1: Log time: Sun, 04 Mar 2018 01:01:17 GMT
+Mar  4 01:01:26 gw2-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:24 GMT
+Mar  4 01:01:26 gw2-nc-umg transaction0: Asset id: 105
+Mar  4 01:01:26 gw2-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:26 gw2-nc-umg transaction0: Captured transactions: None
+Mar  4 01:01:26 gw2-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:24 GMT
+Mar  4 01:01:26 gw2-nc-umg transaction1: Asset id: 105
+Mar  4 01:01:26 gw2-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:26 gw2-nc-umg transaction1: Captured transactions: None
+Mar  4 01:01:27 gw5-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:18 GMT
+Mar  4 01:01:27 gw5-nc-umg transaction0: Asset id: 105
+Mar  4 01:01:27 gw5-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:27 gw5-nc-umg transaction0: Captured transactions: None
+Mar  4 01:01:27 gw5-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:18 GMT
+Mar  4 01:01:27 gw5-nc-umg transaction1: Asset id: 105
+Mar  4 01:01:27 gw5-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:27 gw5-nc-umg transaction1: Captured transactions: None
+Mar  4 01:01:27 gw2-nc-barton transaction0: Log time: Sun, 04 Mar 2018 01:01:22 GMT
+Mar  4 01:01:27 gw2-nc-barton transaction1: Log time: Sun, 04 Mar 2018 01:01:22 GMT
+Mar  4 01:01:29 gw2-ir-sareb transaction0: Log time: Sun, 04 Mar 2018 01:01:19 GMT
+Mar  4 01:01:29 gw2-ir-sareb transaction1: Log time: Sun, 04 Mar 2018 01:01:19 GMT
+Mar  4 01:01:30 gw8-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:22 GMT
+Mar  4 01:01:30 gw8-ir-umg transaction0: Asset id: 105
+Mar  4 01:01:30 gw8-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:30 gw8-ir-umg transaction0: Captured transactions: None
+Mar  4 01:01:30 gw8-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:22 GMT
+Mar  4 01:01:30 gw8-ir-umg transaction1: Asset id: 105
+Mar  4 01:01:30 gw8-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:30 gw8-ir-umg transaction1: Captured transactions: None
+Mar  4 01:01:29 gw2-nv-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:01:23 GMT
+Mar  4 01:01:29 gw2-nv-vanguard transaction0: Asset id: 5513
+Mar  4 01:01:29 gw2-nv-vanguard transaction0: Captured transactions: 
+Mar  4 01:01:29 gw2-nv-vanguard transaction0:  SForce-1,SForce-2
+Mar  4 01:01:29 gw2-nv-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:01:23 GMT
+Mar  4 01:01:29 gw2-nv-vanguard transaction1: Asset id: 5513
+Mar  4 01:01:29 gw2-nv-vanguard transaction1: Captured transactions: 
+Mar  4 01:01:29 gw2-nv-vanguard transaction1:  SForce-1,SForce-2
+Mar  4 01:01:31 gw2-nc-nutanix transaction0: Log time: Sun, 04 Mar 2018 01:01:28 GMT
+Mar  4 01:01:31 gw2-nc-nutanix transaction1: Log time: Sun, 04 Mar 2018 01:01:28 GMT
+Mar  4 01:01:32 gw3-nc-cawater transaction0: Log time: Sun, 04 Mar 2018 01:01:22 GMT
+Mar  4 01:01:34 gw2-nv-verisk transaction0: Log time: Sun, 04 Mar 2018 01:01:30 GMT
+Mar  4 01:01:34 gw2-nv-verisk transaction0: Asset id: 18
+Mar  4 01:01:34 gw2-nv-verisk transaction0: Captured transactions: 
+Mar  4 01:01:34 gw2-nv-verisk transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:01:34 gw2-nv-verisk transaction1: Log time: Sun, 04 Mar 2018 01:01:30 GMT
+Mar  4 01:01:34 gw2-nv-verisk transaction1: Asset id: 18
+Mar  4 01:01:34 gw2-nv-verisk transaction1: Captured transactions: 
+Mar  4 01:01:34 gw2-nv-verisk transaction1:  O365-1377,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-61,O365-934
+Mar  4 01:01:34 gw2-nc-cawater transaction0: Log time: Sun, 04 Mar 2018 01:01:27 GMT
+Mar  4 01:01:34 gw2-nc-cawater transaction1: Log time: Sun, 04 Mar 2018 01:01:27 GMT
+Mar  4 01:01:35 gw2-sy-sportsbet transaction0: Log time: Sun, 04 Mar 2018 01:01:27 GMT
+Mar  4 01:01:35 gw2-sy-sportsbet transaction1: Log time: Sun, 04 Mar 2018 01:01:27 GMT
+Mar  4 01:01:38 gw2-nc-imperva transaction0: Log time: Sun, 04 Mar 2018 01:01:36 GMT
+Mar  4 01:01:38 gw2-nc-imperva transaction0: Asset id: 1722
+Mar  4 01:01:38 gw2-nc-imperva transaction0: Captured transactions: 
+Mar  4 01:01:38 gw2-nc-imperva transaction0:  SForce-1,SForce-1284,SForce-1372,SForce-1466,SForce-1483,SForce-2,SForce-861,SForce-862
+Mar  4 01:01:38 gw2-nc-imperva transaction1: Log time: Sun, 04 Mar 2018 01:01:36 GMT
+Mar  4 01:01:38 gw2-nc-imperva transaction1: Asset id: 1722
+Mar  4 01:01:38 gw2-nc-imperva transaction1: Captured transactions: 
+Mar  4 01:01:38 gw2-nc-imperva transaction1:  SForce-1,SForce-1284,SForce-1372,SForce-1483,SForce-2,SForce-861,SForce-862
+Mar  4 01:01:40 gw3-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:37 GMT
+Mar  4 01:01:40 gw3-ir-umg transaction0: Asset id: 105
+Mar  4 01:01:40 gw3-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:40 gw3-ir-umg transaction0: Captured transactions: None
+Mar  4 01:01:40 gw3-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:37 GMT
+Mar  4 01:01:40 gw3-ir-umg transaction1: Asset id: 105
+Mar  4 01:01:40 gw3-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:40 gw3-ir-umg transaction1: Captured transactions: None
+Mar  4 01:01:40 gw4-nv-verisk transaction0: Log time: Sun, 04 Mar 2018 01:01:34 GMT
+Mar  4 01:01:40 gw4-nv-verisk transaction0: Asset id: 18
+Mar  4 01:01:40 gw4-nv-verisk transaction0: Captured transactions: 
+Mar  4 01:01:40 gw4-nv-verisk transaction0:  O365-1377,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-61,O365-934
+Mar  4 01:01:40 gw4-nv-verisk transaction1: Log time: Sun, 04 Mar 2018 01:01:34 GMT
+Mar  4 01:01:40 gw4-nv-verisk transaction1: Asset id: 18
+Mar  4 01:01:40 gw4-nv-verisk transaction1: Captured transactions: 
+Mar  4 01:01:40 gw4-nv-verisk transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:01:42 gw5-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:38 GMT
+Mar  4 01:01:42 gw5-ir-umg transaction0: Asset id: 105
+Mar  4 01:01:42 gw5-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:42 gw5-ir-umg transaction0: Captured transactions: None
+Mar  4 01:01:42 gw5-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:38 GMT
+Mar  4 01:01:42 gw5-ir-umg transaction1: Asset id: 105
+Mar  4 01:01:42 gw5-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:42 gw5-ir-umg transaction1: Captured transactions: None
+Mar  4 01:01:46 gw7-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:44 GMT
+Mar  4 01:01:46 gw7-ir-umg transaction0: Asset id: 105
+Mar  4 01:01:46 gw7-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:46 gw7-ir-umg transaction0: Captured transactions: None
+Mar  4 01:01:46 gw7-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:44 GMT
+Mar  4 01:01:46 gw7-ir-umg transaction1: Asset id: 105
+Mar  4 01:01:46 gw7-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:46 gw7-ir-umg transaction1: Captured transactions: None
+Mar  4 01:01:48 gw4-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:01:40 GMT
+Mar  4 01:01:48 gw4-ir-umg transaction0: Asset id: 105
+Mar  4 01:01:48 gw4-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:48 gw4-ir-umg transaction0: Captured transactions: None
+Mar  4 01:01:48 gw4-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:01:40 GMT
+Mar  4 01:01:48 gw4-ir-umg transaction1: Asset id: 105
+Mar  4 01:01:48 gw4-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:01:48 gw4-ir-umg transaction1: Captured transactions: None
+Mar  4 01:02:06 gw1-sp-nfr50 transaction0: Log time: Sun, 04 Mar 2018 01:01:57 GMT
+Mar  4 01:02:06 gw1-sp-nfr50 transaction1: Log time: Sun, 04 Mar 2018 01:01:57 GMT
+Mar  4 01:02:01 gw3-nv-verisk transaction0: Log time: Sun, 04 Mar 2018 01:01:52 GMT
+Mar  4 01:02:01 gw3-nv-verisk transaction0: Asset id: 18
+Mar  4 01:02:01 gw3-nv-verisk transaction0: Captured transactions: 
+Mar  4 01:02:01 gw3-nv-verisk transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:02:01 gw3-nv-verisk transaction1: Log time: Sun, 04 Mar 2018 01:01:52 GMT
+Mar  4 01:02:01 gw3-nv-verisk transaction1: Asset id: 18
+Mar  4 01:02:01 gw3-nv-verisk transaction1: Captured transactions: 
+Mar  4 01:02:01 gw3-nv-verisk transaction1:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:05:27 gw1-ir-frc transaction0: Log time: Sun, 04 Mar 2018 01:05:27 GMT
+Mar  4 01:05:27 gw1-ir-frc transaction0: Asset id: 141
+Mar  4 01:05:27 gw1-ir-frc transaction0: Captured transactions: 
+Mar  4 01:05:27 gw1-ir-frc transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:05:27 gw1-ir-frc transaction1: Log time: Sun, 04 Mar 2018 01:05:27 GMT
+Mar  4 01:05:27 gw1-ir-frc transaction1: Asset id: 141
+Mar  4 01:05:27 gw1-ir-frc transaction1: Captured transactions: 
+Mar  4 01:05:27 gw1-ir-frc transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:06:14 gw1-nc-Automation3 transaction0: Log time: Sun, 04 Mar 2018 01:06:07 GMT
+Mar  4 01:06:14 gw1-nc-Automation3 transaction1: Log time: Sun, 04 Mar 2018 01:06:07 GMT
+Mar  4 01:06:36 gw1-nc-rpx transaction0: Log time: Sun, 04 Mar 2018 01:06:35 GMT
+Mar  4 01:06:36 gw1-nc-rpx transaction0: Asset id: 4525
+Mar  4 01:06:36 gw1-nc-rpx transaction0: Captured transactions: 
+Mar  4 01:06:36 gw1-nc-rpx transaction0:  O365-11,O365-1252,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:06:36 gw1-nc-rpx transaction1: Log time: Sun, 04 Mar 2018 01:06:35 GMT
+Mar  4 01:06:36 gw1-nc-rpx transaction1: Asset id: 4525
+Mar  4 01:06:36 gw1-nc-rpx transaction1: Captured transactions: 
+Mar  4 01:06:36 gw1-nc-rpx transaction1:  O365-1252,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:07:26 gw1-ir-metrobank-test transaction0: Log time: Sun, 04 Mar 2018 01:07:25 GMT
+Mar  4 01:07:26 gw1-ir-metrobank-test transaction1: Log time: Sun, 04 Mar 2018 01:07:25 GMT
+Mar  4 01:07:56 gw1-nc-nc19 transaction0: Log time: Sun, 04 Mar 2018 01:07:55 GMT
+Mar  4 01:07:56 gw1-nc-nc19 transaction1: Log time: Sun, 04 Mar 2018 01:07:55 GMT
+Mar  4 01:08:25 gw1-ir-metrobank transaction0: Log time: Sun, 04 Mar 2018 01:08:24 GMT
+Mar  4 01:08:25 gw1-ir-metrobank transaction0: Asset id: 789
+Mar  4 01:08:25 gw1-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:08:25 gw1-ir-metrobank transaction0: Captured transactions: None
+Mar  4 01:08:25 gw1-ir-metrobank transaction0: Asset id: 5901
+Mar  4 01:08:25 gw1-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:08:25 gw1-ir-metrobank transaction0:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-60,Metro-Retail-61,Metro-Retail-63,Metro-Retail-64,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-75,Metro-Retail-76
+Mar  4 01:08:25 gw1-ir-metrobank transaction0: Asset id: 7552
+Mar  4 01:08:25 gw1-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:08:25 gw1-ir-metrobank transaction0:  Metro-CAO-1
+Mar  4 01:08:25 gw1-ir-metrobank transaction1: Log time: Sun, 04 Mar 2018 01:08:24 GMT
+Mar  4 01:08:25 gw1-ir-metrobank transaction1: Asset id: 789
+Mar  4 01:08:25 gw1-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:08:25 gw1-ir-metrobank transaction1: Captured transactions: None
+Mar  4 01:08:25 gw1-ir-metrobank transaction1: Asset id: 5901
+Mar  4 01:08:25 gw1-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:08:25 gw1-ir-metrobank transaction1:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-16,Metro-Retail-2,Metro-Retail-20,Metro-Retail-22,Metro-Retail-27,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-60,Metro-Retail-61,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-71,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74
+Mar  4 01:08:25 gw1-ir-metrobank transaction1: Asset id: 7552
+Mar  4 01:08:25 gw1-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:08:25 gw1-ir-metrobank transaction1:  Metro-CAO-1
+Mar  4 01:08:33 gw3-ir-metrobank transaction0: Log time: Sun, 04 Mar 2018 01:08:25 GMT
+Mar  4 01:08:33 gw3-ir-metrobank transaction0: Asset id: 789
+Mar  4 01:08:33 gw3-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:08:33 gw3-ir-metrobank transaction0: Captured transactions: None
+Mar  4 01:08:33 gw3-ir-metrobank transaction0: Asset id: 5901
+Mar  4 01:08:33 gw3-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:08:33 gw3-ir-metrobank transaction0:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-59,Metro-Retail-60,Metro-Retail-61,Metro-Retail-62,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-75,Metro-Retail-76
+Mar  4 01:08:33 gw3-ir-metrobank transaction0: Asset id: 7552
+Mar  4 01:08:33 gw3-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:08:33 gw3-ir-metrobank transaction0:  Metro-CAO-1
+Mar  4 01:08:33 gw3-ir-metrobank transaction1: Log time: Sun, 04 Mar 2018 01:08:25 GMT
+Mar  4 01:08:33 gw3-ir-metrobank transaction1: Asset id: 789
+Mar  4 01:08:33 gw3-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:08:33 gw3-ir-metrobank transaction1: Captured transactions: None
+Mar  4 01:08:33 gw3-ir-metrobank transaction1: Asset id: 5901
+Mar  4 01:08:33 gw3-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:08:33 gw3-ir-metrobank transaction1:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-60,Metro-Retail-61,Metro-Retail-62,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74
+Mar  4 01:08:33 gw3-ir-metrobank transaction1: Asset id: 7552
+Mar  4 01:08:33 gw3-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:08:33 gw3-ir-metrobank transaction1:  Metro-CAO-1
+Mar  4 01:08:45 gw1-nc-web-integration transaction0: Log time: Sun, 04 Mar 2018 01:08:36 GMT
+Mar  4 01:08:45 gw1-nc-web-integration transaction1: Log time: Sun, 04 Mar 2018 01:08:36 GMT
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Log time: Sun, 04 Mar 2018 01:09:27 GMT
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Asset id: 789
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Captured transactions: None
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Asset id: 5901
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:09:34 gw4-ir-metrobank transaction0:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-56,Metro-Retail-57,Metro-Retail-59,Metro-Retail-60,Metro-Retail-61,Metro-Retail-62,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-75,Metro-Retail-76
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Asset id: 7552
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:09:34 gw4-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:09:34 gw4-ir-metrobank transaction0:  Metro-CAO-1,Metro-CAO-2
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Log time: Sun, 04 Mar 2018 01:09:27 GMT
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Asset id: 789
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Captured transactions: None
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Asset id: 5901
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:09:34 gw4-ir-metrobank transaction1:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-60,Metro-Retail-61,Metro-Retail-62,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-75,Metro-Retail-76
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Asset id: 7552
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:09:34 gw4-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:09:34 gw4-ir-metrobank transaction1:  Metro-CAO-1,Metro-CAO-2,Metro-CAO-3,Metro-CAO-4
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Log time: Sun, 04 Mar 2018 01:09:27 GMT
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Asset id: 789
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Captured transactions: None
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Asset id: 5901
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:09:33 gw2-ir-metrobank transaction0:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-60,Metro-Retail-61,Metro-Retail-62,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-75,Metro-Retail-76,Metro-Retail-78,Metro-Retail-79
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Asset id: 7552
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:09:33 gw2-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:09:33 gw2-ir-metrobank transaction0:  Metro-CAO-1,Metro-CAO-2,Metro-CAO-3,Metro-CAO-4
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Log time: Sun, 04 Mar 2018 01:09:27 GMT
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Asset id: 789
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Captured transactions: None
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Asset id: 5901
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:09:33 gw2-ir-metrobank transaction1:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-59,Metro-Retail-60,Metro-Retail-61,Metro-Retail-62,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-75,Metro-Retail-76
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Asset id: 7552
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:09:33 gw2-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:09:33 gw2-ir-metrobank transaction1:  Metro-CAO-1,Metro-CAO-2,Metro-CAO-5,Metro-CAO-6,Metro-CAO-8,Metro-CAO-9
+Mar  4 01:09:38 gw2-ir-frc transaction0: Log time: Sun, 04 Mar 2018 01:09:30 GMT
+Mar  4 01:09:38 gw2-ir-frc transaction0: Asset id: 141
+Mar  4 01:09:38 gw2-ir-frc transaction0: Captured transactions: 
+Mar  4 01:09:38 gw2-ir-frc transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:09:38 gw2-ir-frc transaction1: Log time: Sun, 04 Mar 2018 01:09:30 GMT
+Mar  4 01:09:38 gw2-ir-frc transaction1: Asset id: 141
+Mar  4 01:09:38 gw2-ir-frc transaction1: Captured transactions: 
+Mar  4 01:09:38 gw2-ir-frc transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:11:23 gw2-nv-watermark transaction0: Log time: Sun, 04 Mar 2018 01:11:16 GMT
+Mar  4 01:11:23 gw2-nv-watermark transaction0: Asset id: 283
+Mar  4 01:11:23 gw2-nv-watermark transaction0: Captured transactions: 
+Mar  4 01:11:23 gw2-nv-watermark transaction0:  O365-1031,O365-121,O365-1249,O365-1325,O365-1328,O365-1377,O365-14,O365-140,O365-1414,O365-273,O365-294,O365-31,O365-43,O365-44,O365-445,O365-448,O365-480,O365-507,O365-508,O365-51,O365-510,O365-511,O365-52,O365-53,O365-542,O365-543,O365-545,O365-546,O365-600,O365-61,O365-74,O365-75,O365-934,O365-973,O365-974,O365-992
+Mar  4 01:11:23 gw2-nv-watermark transaction1: Log time: Sun, 04 Mar 2018 01:11:16 GMT
+Mar  4 01:11:23 gw2-nv-watermark transaction1: Asset id: 283
+Mar  4 01:11:23 gw2-nv-watermark transaction1: Captured transactions: 
+Mar  4 01:11:23 gw2-nv-watermark transaction1:  O365-1031,O365-1249,O365-1325,O365-1328,O365-14,O365-140,O365-273,O365-294,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-508,O365-51,O365-510,O365-511,O365-52,O365-53,O365-542,O365-543,O365-544,O365-545,O365-546,O365-600,O365-74,O365-75,O365-934,O365-973,O365-974,O365-992
+Mar  4 01:12:19 gw1-nv-watermark transaction0: Log time: Sun, 04 Mar 2018 01:12:15 GMT
+Mar  4 01:12:19 gw1-nv-watermark transaction0: Asset id: 283
+Mar  4 01:12:19 gw1-nv-watermark transaction0: Captured transactions: 
+Mar  4 01:12:19 gw1-nv-watermark transaction0:  O365-121,O365-1249,O365-1325,O365-1328,O365-14,O365-273,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-508,O365-51,O365-510,O365-52,O365-53,O365-542,O365-545,O365-600,O365-74,O365-934,O365-973,O365-974,O365-992
+Mar  4 01:12:19 gw1-nv-watermark transaction1: Log time: Sun, 04 Mar 2018 01:12:15 GMT
+Mar  4 01:12:19 gw1-nv-watermark transaction1: Asset id: 283
+Mar  4 01:12:19 gw1-nv-watermark transaction1: Captured transactions: 
+Mar  4 01:12:19 gw1-nv-watermark transaction1:  O365-1249,O365-1325,O365-1328,O365-14,O365-1506,O365-273,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-510,O365-52,O365-53,O365-542,O365-545,O365-600,O365-934,O365-973,O365-974,O365-992
+Mar  4 01:13:15 gw1-nv-nfr1 transaction0: Log time: Sun, 04 Mar 2018 01:13:10 GMT
+Mar  4 01:13:15 gw1-nv-nfr1 transaction1: Log time: Sun, 04 Mar 2018 01:13:10 GMT
+Mar  4 01:15:11 gw2-sy-adani transaction0: Log time: Sun, 04 Mar 2018 01:15:03 GMT
+Mar  4 01:15:11 gw2-sy-adani transaction0: Asset id: 9501
+Mar  4 01:15:11 gw2-sy-adani transaction0: Captured transactions: 
+Mar  4 01:15:11 gw2-sy-adani transaction0:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:15:11 gw2-sy-adani transaction1: Log time: Sun, 04 Mar 2018 01:15:04 GMT
+Mar  4 01:15:11 gw2-sy-adani transaction1: Asset id: 9501
+Mar  4 01:15:11 gw2-sy-adani transaction1: Captured transactions: 
+Mar  4 01:15:11 gw2-sy-adani transaction1:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:15:31 gw1-nv-nfr37 transaction0: Log time: Sun, 04 Mar 2018 01:15:25 GMT
+Mar  4 01:15:31 gw1-nv-nfr37 transaction1: Log time: Sun, 04 Mar 2018 01:15:25 GMT
+Mar  4 01:15:40 gw1-or-ntta transaction0: Log time: Sun, 04 Mar 2018 01:15:30 GMT
+Mar  4 01:15:40 gw1-or-ntta transaction0: Asset id: 51
+Mar  4 01:15:40 gw1-or-ntta transaction0: Captured transactions: 
+Mar  4 01:15:40 gw1-or-ntta transaction0:  O365-1294,O365-1325,O365-1328,O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:15:40 gw1-or-ntta transaction0: Asset id: 1451
+Mar  4 01:15:40 gw1-or-ntta transaction0: Captured transactions: 
+Mar  4 01:15:40 gw1-or-ntta transaction0:  Servi-1
+Mar  4 01:15:40 gw1-or-ntta transaction1: Log time: Sun, 04 Mar 2018 01:15:30 GMT
+Mar  4 01:15:40 gw1-or-ntta transaction1: Asset id: 51
+Mar  4 01:15:40 gw1-or-ntta transaction1: Captured transactions: 
+Mar  4 01:15:40 gw1-or-ntta transaction1:  O365-1294,O365-1325,O365-1328,O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:15:40 gw1-or-ntta transaction1: Asset id: 1451
+Mar  4 01:15:40 gw1-or-ntta transaction1: Captured transactions: 
+Mar  4 01:15:40 gw1-or-ntta transaction1:  Servi-1
+Mar  4 01:15:47 gw1-fr-fr transaction0: Log time: Sun, 04 Mar 2018 01:15:45 GMT
+Mar  4 01:15:47 gw1-fr-fr transaction1: Log time: Sun, 04 Mar 2018 01:15:45 GMT
+Mar  4 01:16:17 gw2-nv-versartis transaction0: Log time: Sun, 04 Mar 2018 01:16:11 GMT
+Mar  4 01:16:17 gw2-nv-versartis transaction1: Log time: Sun, 04 Mar 2018 01:16:11 GMT
+Mar  4 01:16:26 gw3-nv-watermark transaction0: Log time: Sun, 04 Mar 2018 01:16:22 GMT
+Mar  4 01:16:26 gw3-nv-watermark transaction0: Asset id: 283
+Mar  4 01:16:26 gw3-nv-watermark transaction0: Captured transactions: 
+Mar  4 01:16:26 gw3-nv-watermark transaction0:  O365-1249,O365-1325,O365-1329,O365-14,O365-140,O365-193,O365-273,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-510,O365-511,O365-52,O365-53,O365-542,O365-545,O365-548,O365-600,O365-82,O365-932,O365-934,O365-973,O365-974,O365-992
+Mar  4 01:16:26 gw3-nv-watermark transaction1: Log time: Sun, 04 Mar 2018 01:16:22 GMT
+Mar  4 01:16:26 gw3-nv-watermark transaction1: Asset id: 283
+Mar  4 01:16:26 gw3-nv-watermark transaction1: Captured transactions: 
+Mar  4 01:16:26 gw3-nv-watermark transaction1:  O365-111,O365-1244,O365-1249,O365-1325,O365-1328,O365-1329,O365-14,O365-140,O365-193,O365-273,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-510,O365-511,O365-52,O365-53,O365-542,O365-545,O365-548,O365-600,O365-67,O365-934,O365-973,O365-974,O365-992
+Mar  4 01:18:13 gw1-nv-cyberark transaction0: Log time: Sun, 04 Mar 2018 01:18:06 GMT
+Mar  4 01:18:13 gw1-nv-cyberark transaction0: Asset id: 52
+Mar  4 01:18:13 gw1-nv-cyberark transaction0: Captured transactions: 
+Mar  4 01:18:13 gw1-nv-cyberark transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:18:13 gw1-nv-cyberark transaction1: Log time: Sun, 04 Mar 2018 01:18:06 GMT
+Mar  4 01:18:13 gw1-nv-cyberark transaction1: Asset id: 52
+Mar  4 01:18:13 gw1-nv-cyberark transaction1: Captured transactions: 
+Mar  4 01:18:13 gw1-nv-cyberark transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:18:14 gw1-ir-cyberark transaction0: Log time: Sun, 04 Mar 2018 01:18:07 GMT
+Mar  4 01:18:14 gw1-ir-cyberark transaction0: Asset id: 52
+Mar  4 01:18:14 gw1-ir-cyberark transaction0: Captured transactions: 
+Mar  4 01:18:14 gw1-ir-cyberark transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:18:14 gw1-ir-cyberark transaction1: Log time: Sun, 04 Mar 2018 01:18:07 GMT
+Mar  4 01:18:14 gw1-ir-cyberark transaction1: Asset id: 52
+Mar  4 01:18:14 gw1-ir-cyberark transaction1: Captured transactions: 
+Mar  4 01:18:14 gw1-ir-cyberark transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:19:13 gw1-sy-adani transaction0: Log time: Sun, 04 Mar 2018 01:19:06 GMT
+Mar  4 01:19:13 gw1-sy-adani transaction0: Asset id: 9501
+Mar  4 01:19:13 gw1-sy-adani transaction0: Captured transactions: 
+Mar  4 01:19:13 gw1-sy-adani transaction0:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:19:13 gw1-sy-adani transaction1: Log time: Sun, 04 Mar 2018 01:19:06 GMT
+Mar  4 01:19:13 gw1-sy-adani transaction1: Asset id: 9501
+Mar  4 01:19:13 gw1-sy-adani transaction1: Captured transactions: 
+Mar  4 01:19:13 gw1-sy-adani transaction1:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:19:22 gw2-nc-rpx transaction0: Log time: Sun, 04 Mar 2018 01:19:15 GMT
+Mar  4 01:19:22 gw2-nc-rpx transaction0: Asset id: 4525
+Mar  4 01:19:22 gw2-nc-rpx transaction0: Captured transactions: 
+Mar  4 01:19:22 gw2-nc-rpx transaction0:  O365-10,O365-1252,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:19:22 gw2-nc-rpx transaction1: Log time: Sun, 04 Mar 2018 01:19:15 GMT
+Mar  4 01:19:22 gw2-nc-rpx transaction1: Asset id: 4525
+Mar  4 01:19:22 gw2-nc-rpx transaction1: Captured transactions: 
+Mar  4 01:19:22 gw2-nc-rpx transaction1:  O365-1252,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:19:43 gw1-ir-web-integration transaction0: Log time: Sun, 04 Mar 2018 01:19:41 GMT
+Mar  4 01:19:43 gw1-ir-web-integration transaction1: Log time: Sun, 04 Mar 2018 01:19:41 GMT
+Mar  4 01:19:47 gw1-nc-Automation2 transaction0: Log time: Sun, 04 Mar 2018 01:19:42 GMT
+Mar  4 01:19:47 gw1-nc-Automation2 transaction1: Log time: Sun, 04 Mar 2018 01:19:42 GMT
+Mar  4 01:19:48 gw1-nv-customer3 transaction0: Log time: Sun, 04 Mar 2018 01:19:42 GMT
+Mar  4 01:19:48 gw1-nv-customer3 transaction1: Log time: Sun, 04 Mar 2018 01:19:42 GMT
+Mar  4 01:19:49 gw1-or-customer4 transaction0: Log time: Sun, 04 Mar 2018 01:19:45 GMT
+Mar  4 01:19:49 gw1-or-customer4 transaction1: Log time: Sun, 04 Mar 2018 01:19:45 GMT
+Mar  4 01:19:49 gw1-nv-skyokta transaction0: Log time: Sun, 04 Mar 2018 01:19:42 GMT
+Mar  4 01:19:49 gw1-nv-skyokta transaction1: Log time: Sun, 04 Mar 2018 01:19:42 GMT
+Mar  4 01:19:51 gw1-ir-customer1 transaction0: Log time: Sun, 04 Mar 2018 01:19:44 GMT
+Mar  4 01:19:51 gw1-ir-customer1 transaction1: Log time: Sun, 04 Mar 2018 01:19:44 GMT
+Mar  4 01:19:51 gw1-ir-customer2 transaction0: Log time: Sun, 04 Mar 2018 01:19:43 GMT
+Mar  4 01:19:51 gw1-ir-customer2 transaction1: Log time: Sun, 04 Mar 2018 01:19:43 GMT
+Mar  4 01:21:16 gw1-mu-rategain transaction0: Log time: Sun, 04 Mar 2018 01:21:07 GMT
+Mar  4 01:21:16 gw1-mu-rategain transaction0: Asset id: 7143
+Mar  4 01:21:16 gw1-mu-rategain transaction0: Captured transactions: 
+Mar  4 01:21:16 gw1-mu-rategain transaction0:  O365-1294,O365-1325,O365-1328,O365-273,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-508,O365-52,O365-53,O365-542,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:21:16 gw1-mu-rategain transaction1: Log time: Sun, 04 Mar 2018 01:21:07 GMT
+Mar  4 01:21:16 gw1-mu-rategain transaction1: Asset id: 7143
+Mar  4 01:21:16 gw1-mu-rategain transaction1: Captured transactions: 
+Mar  4 01:21:16 gw1-mu-rategain transaction1:  O365-1294,O365-1325,O365-1328,O365-20,O365-273,O365-31,O365-43,O365-44,O365-445,O365-474,O365-480,O365-507,O365-52,O365-53,O365-600,O365-67,O365-934,O365-973,O365-974
+Mar  4 01:21:15 gw1-nv-nv17 transaction0: Log time: Sun, 04 Mar 2018 01:21:11 GMT
+Mar  4 01:21:15 gw1-nv-nv17 transaction1: Log time: Sun, 04 Mar 2018 01:21:11 GMT
+Mar  4 01:21:28 gw1-ir-metroperf transaction0: Log time: Sun, 04 Mar 2018 01:21:27 GMT
+Mar  4 01:21:28 gw1-ir-metroperf transaction1: Log time: Sun, 04 Mar 2018 01:21:27 GMT
+Mar  4 01:22:02 gw2-ir-customer1 transaction0: Log time: Sun, 04 Mar 2018 01:21:59 GMT
+Mar  4 01:22:02 gw2-ir-customer1 transaction1: Log time: Sun, 04 Mar 2018 01:21:59 GMT
+Mar  4 01:22:10 gw2-ir-web-integration transaction0: Log time: Sun, 04 Mar 2018 01:22:04 GMT
+Mar  4 01:22:10 gw2-ir-web-integration transaction1: Log time: Sun, 04 Mar 2018 01:22:04 GMT
+Mar  4 01:22:33 gw6-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:22:27 GMT
+Mar  4 01:22:33 gw6-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:22:27 GMT
+Mar  4 01:22:33 gw2-mu-rategain transaction0: Log time: Sun, 04 Mar 2018 01:22:23 GMT
+Mar  4 01:22:33 gw2-mu-rategain transaction1: Log time: Sun, 04 Mar 2018 01:22:23 GMT
+Mar  4 01:23:07 gw1-ir-sundaysky transaction0: Log time: Sun, 04 Mar 2018 01:23:05 GMT
+Mar  4 01:23:07 gw1-ir-sundaysky transaction1: Log time: Sun, 04 Mar 2018 01:23:05 GMT
+Mar  4 01:23:14 gw1-or-zions transaction0: Log time: Sun, 04 Mar 2018 01:23:04 GMT
+Mar  4 01:23:14 gw1-or-zions transaction1: Log time: Sun, 04 Mar 2018 01:23:04 GMT
+Mar  4 01:23:33 gw1-nc-sundaysky transaction0: Log time: Sun, 04 Mar 2018 01:23:23 GMT
+Mar  4 01:23:33 gw1-nc-sundaysky transaction1: Log time: Sun, 04 Mar 2018 01:23:23 GMT
+Mar  4 01:24:06 gw1-ir-ir12 transaction0: Log time: Sun, 04 Mar 2018 01:24:04 GMT
+Mar  4 01:24:06 gw1-ir-ir12 transaction1: Log time: Sun, 04 Mar 2018 01:24:04 GMT
+Mar  4 01:24:20 gw1-nv-qmassociates transaction0: Log time: Sun, 04 Mar 2018 01:24:11 GMT
+Mar  4 01:24:20 gw1-nv-qmassociates transaction1: Log time: Sun, 04 Mar 2018 01:24:11 GMT
+Mar  4 01:25:13 gw2-ir-metroperf transaction0: Log time: Sun, 04 Mar 2018 01:25:07 GMT
+Mar  4 01:25:13 gw2-ir-metroperf transaction1: Log time: Sun, 04 Mar 2018 01:25:07 GMT
+Mar  4 01:26:10 gw1-ir-esc transaction0: Log time: Sun, 04 Mar 2018 01:26:07 GMT
+Mar  4 01:26:10 gw1-ir-esc transaction1: Log time: Sun, 04 Mar 2018 01:26:07 GMT
+Mar  4 01:27:39 gw2-or-zions transaction0: Log time: Sun, 04 Mar 2018 01:27:30 GMT
+Mar  4 01:27:39 gw2-or-zions transaction1: Log time: Sun, 04 Mar 2018 01:27:30 GMT
+Mar  4 01:28:23 gw2-nv-qmassociates transaction0: Log time: Sun, 04 Mar 2018 01:28:15 GMT
+Mar  4 01:28:23 gw2-nv-qmassociates transaction1: Log time: Sun, 04 Mar 2018 01:28:15 GMT
+Mar  4 01:28:45 gw1-nv-nv12 transaction0: Log time: Sun, 04 Mar 2018 01:28:43 GMT
+Mar  4 01:28:45 gw1-nv-nv12 transaction1: Log time: Sun, 04 Mar 2018 01:28:43 GMT
+Mar  4 01:28:48 gw1-sin-nfr16 transaction0: Log time: Sun, 04 Mar 2018 01:28:47 GMT
+Mar  4 01:28:48 gw1-sin-nfr16 transaction1: Log time: Sun, 04 Mar 2018 01:28:47 GMT
+Mar  4 01:28:51 gw1-ca-ca2 transaction0: Log time: Sun, 04 Mar 2018 01:28:50 GMT
+Mar  4 01:28:51 gw1-ca-ca2 transaction1: Log time: Sun, 04 Mar 2018 01:28:50 GMT
+Mar  4 01:28:51 gw1-fr-nfr15 transaction0: Log time: Sun, 04 Mar 2018 01:28:46 GMT
+Mar  4 01:28:51 gw1-fr-nfr15 transaction1: Log time: Sun, 04 Mar 2018 01:28:46 GMT
+Mar  4 01:28:52 gw1-ca-ca1 transaction0: Log time: Sun, 04 Mar 2018 01:28:49 GMT
+Mar  4 01:28:52 gw1-ca-ca1 transaction1: Log time: Sun, 04 Mar 2018 01:28:49 GMT
+Mar  4 01:28:53 gw1-ir-nfr7 transaction0: Log time: Sun, 04 Mar 2018 01:28:47 GMT
+Mar  4 01:28:53 gw1-ir-nfr7 transaction1: Log time: Sun, 04 Mar 2018 01:28:47 GMT
+Mar  4 01:28:52 gw1-ir-ir11 transaction0: Log time: Sun, 04 Mar 2018 01:28:52 GMT
+Mar  4 01:28:52 gw1-ir-ir11 transaction1: Log time: Sun, 04 Mar 2018 01:28:52 GMT
+Mar  4 01:28:54 gw1-sin-nfr54 transaction0: Log time: Sun, 04 Mar 2018 01:28:50 GMT
+Mar  4 01:28:54 gw1-sin-nfr54 transaction1: Log time: Sun, 04 Mar 2018 01:28:50 GMT
+Mar  4 01:28:54 gw1-ir-ir3 transaction0: Log time: Sun, 04 Mar 2018 01:28:46 GMT
+Mar  4 01:28:54 gw1-ir-ir3 transaction1: Log time: Sun, 04 Mar 2018 01:28:46 GMT
+Mar  4 01:28:54 gw1-nc-nutanix transaction0: Log time: Sun, 04 Mar 2018 01:28:52 GMT
+Mar  4 01:28:54 gw1-nc-nutanix transaction1: Log time: Sun, 04 Mar 2018 01:28:52 GMT
+Mar  4 01:28:55 gw1-sin-nfr42 transaction0: Log time: Sun, 04 Mar 2018 01:28:50 GMT
+Mar  4 01:28:55 gw1-sin-nfr42 transaction1: Log time: Sun, 04 Mar 2018 01:28:50 GMT
+Mar  4 01:28:55 gw1-sp-nfr36 transaction0: Log time: Sun, 04 Mar 2018 01:28:51 GMT
+Mar  4 01:28:55 gw1-sp-nfr36 transaction1: Log time: Sun, 04 Mar 2018 01:28:51 GMT
+Mar  4 01:28:57 gw1-nv-nv19 transaction0: Log time: Sun, 04 Mar 2018 01:28:47 GMT
+Mar  4 01:28:57 gw1-nv-nv19 transaction1: Log time: Sun, 04 Mar 2018 01:28:47 GMT
+Mar  4 01:28:56 gw1-or-fpps transaction0: Log time: Sun, 04 Mar 2018 01:28:54 GMT
+Mar  4 01:28:56 gw1-or-fpps transaction1: Log time: Sun, 04 Mar 2018 01:28:54 GMT
+Mar  4 01:28:58 gw1-nv-nfr12 transaction0: Log time: Sun, 04 Mar 2018 01:28:48 GMT
+Mar  4 01:28:58 gw1-nv-nfr12 transaction1: Log time: Sun, 04 Mar 2018 01:28:48 GMT
+Mar  4 01:28:59 gw1-fr-nfr41 transaction0: Log time: Sun, 04 Mar 2018 01:28:59 GMT
+Mar  4 01:28:59 gw1-fr-nfr41 transaction1: Log time: Sun, 04 Mar 2018 01:28:59 GMT
+Mar  4 01:29:01 gw1-ir-ir7 transaction0: Log time: Sun, 04 Mar 2018 01:28:52 GMT
+Mar  4 01:29:01 gw1-ir-ir7 transaction1: Log time: Sun, 04 Mar 2018 01:28:52 GMT
+Mar  4 01:29:01 gw1-mu-mu4 transaction0: Log time: Sun, 04 Mar 2018 01:28:59 GMT
+Mar  4 01:29:01 gw1-mu-mu4 transaction1: Log time: Sun, 04 Mar 2018 01:28:59 GMT
+Mar  4 01:29:02 gw1-nc-medix transaction0: Log time: Sun, 04 Mar 2018 01:28:57 GMT
+Mar  4 01:29:02 gw1-nc-medix transaction0: Asset id: 7005
+Mar  4 01:29:02 gw1-nc-medix transaction0: Captured transactions: 
+Mar  4 01:29:02 gw1-nc-medix transaction0:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:02 gw1-nc-medix transaction1: Log time: Sun, 04 Mar 2018 01:28:57 GMT
+Mar  4 01:29:02 gw1-nc-medix transaction1: Asset id: 7005
+Mar  4 01:29:02 gw1-nc-medix transaction1: Captured transactions: 
+Mar  4 01:29:02 gw1-nc-medix transaction1:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:04 gw1-ir-nv8 transaction0: Log time: Sun, 04 Mar 2018 01:28:54 GMT
+Mar  4 01:29:04 gw1-ir-nv8 transaction1: Log time: Sun, 04 Mar 2018 01:28:54 GMT
+Mar  4 01:29:05 gw1-nc-nc21 transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:05 gw1-nc-nc21 transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:06 gw1-ir-sup3 transaction0: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:06 gw1-ir-sup3 transaction1: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:06 gw1-or-nfr44 transaction0: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:06 gw1-or-nfr44 transaction1: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:07 gw1-nc-nfr18 transaction0: Log time: Sun, 04 Mar 2018 01:28:59 GMT
+Mar  4 01:29:07 gw1-nc-nfr18 transaction0: Asset id: 11176
+Mar  4 01:29:07 gw1-nc-nfr18 transaction0: Captured transactions: 
+Mar  4 01:29:07 gw1-nc-nfr18 transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:07 gw1-nc-nfr18 transaction1: Log time: Sun, 04 Mar 2018 01:28:59 GMT
+Mar  4 01:29:07 gw1-nc-nfr18 transaction1: Asset id: 11176
+Mar  4 01:29:07 gw1-nc-nfr18 transaction1: Captured transactions: 
+Mar  4 01:29:07 gw1-nc-nfr18 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:07 gw1-nc-nfr33 transaction0: Log time: Sun, 04 Mar 2018 01:29:03 GMT
+Mar  4 01:29:07 gw1-nc-nfr33 transaction1: Log time: Sun, 04 Mar 2018 01:29:03 GMT
+Mar  4 01:29:07 gw1-fr-nfr4 transaction0: Log time: Sun, 04 Mar 2018 01:29:01 GMT
+Mar  4 01:29:07 gw1-fr-nfr4 transaction1: Log time: Sun, 04 Mar 2018 01:29:01 GMT
+Mar  4 01:29:08 gw1-sy-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:08 gw1-nc-my-qa transaction0: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:08 gw1-nc-my-qa transaction1: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:08 gw1-ir-ir2 transaction0: Log time: Sun, 04 Mar 2018 01:29:02 GMT
+Mar  4 01:29:08 gw1-ir-ir2 transaction1: Log time: Sun, 04 Mar 2018 01:29:02 GMT
+Mar  4 01:29:08 gw1-sp-localiza transaction0: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:08 gw1-sp-localiza transaction1: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:08 gw1-fr-nfr27 transaction0: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:08 gw1-fr-nfr27 transaction0: Asset id: 6740
+Mar  4 01:29:08 gw1-fr-nfr27 transaction0: Captured transactions: 
+Mar  4 01:29:08 gw1-fr-nfr27 transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973
+Mar  4 01:29:09 gw1-fr-nfr20 transaction0: Log time: Sun, 04 Mar 2018 01:29:02 GMT
+Mar  4 01:29:09 gw1-fr-nfr20 transaction1: Log time: Sun, 04 Mar 2018 01:29:02 GMT
+Mar  4 01:29:08 gw1-fr-nfr27 transaction1: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:08 gw1-fr-nfr27 transaction1: Asset id: 6740
+Mar  4 01:29:08 gw1-fr-nfr27 transaction1: Captured transactions: 
+Mar  4 01:29:08 gw1-fr-nfr27 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973
+Mar  3 17:29:09 gw1-nc-biva transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  3 17:29:09 gw1-nc-biva transaction0: Asset id: 3886
+Mar  3 17:29:09 gw1-nc-biva transaction0: Captured transactions: 
+Mar  3 17:29:09 gw1-nc-biva transaction0:  O365-111,O365-112,O365-1244,O365-1249,O365-1324,O365-1325,O365-1454,O365-273,O365-43,O365-44,O365-445,O365-446,O365-448,O365-507,O365-52,O365-53,O365-542,O365-600,O365-82,O365-932,O365-934,O365-973,O365-974
+Mar  3 17:29:09 gw1-nc-biva transaction0: Asset id: 3888
+Mar  3 17:29:09 gw1-nc-biva transaction0: Captured transactions: 
+Mar  3 17:29:09 gw1-nc-biva transaction0:  Google-1,Google-2,Google-3,Google-378,Google-64,Google-65
+Mar  3 17:29:09 gw1-nc-biva transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  3 17:29:09 gw1-nc-biva transaction1: Asset id: 3886
+Mar  3 17:29:09 gw1-nc-biva transaction1: Captured transactions: 
+Mar  3 17:29:09 gw1-nc-biva transaction1:  O365-111,O365-1244,O365-1249,O365-1325,O365-1328,O365-273,O365-4,O365-43,O365-44,O365-445,O365-5,O365-507,O365-52,O365-53,O365-542,O365-600,O365-82,O365-932,O365-934,O365-973,O365-974
+Mar  3 17:29:09 gw1-nc-biva transaction1: Asset id: 3888
+Mar  3 17:29:09 gw1-nc-biva transaction1: Captured transactions: 
+Mar  3 17:29:09 gw1-nc-biva transaction1:  Google-1,Google-2,Google-3,Google-378,Google-64,Google-65
+Mar  4 01:29:09 gw1-ir-nfr40 transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:09 gw1-ir-nfr40 transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:09 gw1-ir-fpre3 transaction0: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:09 gw1-nc-nc20 transaction0: Log time: Sun, 04 Mar 2018 01:29:07 GMT
+Mar  4 01:29:09 gw1-nc-nc20 transaction1: Log time: Sun, 04 Mar 2018 01:29:07 GMT
+Mar  4 01:29:09 gw1-ir-fpre3 transaction1: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:10 gw1-nc-nc16 transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:10 gw1-nc-nc16 transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:10 gw1-ir-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:29:07 GMT
+Mar  4 01:29:10 gw1-ir-homeaway transaction0: Asset id: 811
+Mar  4 01:29:10 gw1-ir-homeaway transaction0: Captured transactions: 
+Mar  4 01:29:10 gw1-ir-homeaway transaction0:  SForce-1,SForce-1002,SForce-1284,SForce-1372,SForce-1483,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69,SForce-87
+Mar  4 01:29:11 gw1-nv-nv18 transaction0: Log time: Sun, 04 Mar 2018 01:29:01 GMT
+Mar  4 01:29:11 gw1-nv-nv18 transaction1: Log time: Sun, 04 Mar 2018 01:29:01 GMT
+Mar  4 01:29:10 gw1-ir-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:29:07 GMT
+Mar  4 01:29:10 gw1-ir-homeaway transaction1: Asset id: 811
+Mar  4 01:29:10 gw1-ir-homeaway transaction1: Captured transactions: 
+Mar  4 01:29:10 gw1-ir-homeaway transaction1:  SForce-1,SForce-1002,SForce-1284,SForce-1372,SForce-1483,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69,SForce-87
+Mar  4 01:29:10 gw1-ir-fpsd transaction0: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:10 gw1-ir-fpsd transaction0: Asset id: 9636
+Mar  4 01:29:10 gw1-ir-fpsd transaction0: Captured transactions: 
+Mar  4 01:29:10 gw1-ir-fpsd transaction0:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:29:10 gw1-ir-fpsd transaction0: Asset id: 10928
+Mar  4 01:29:10 gw1-ir-fpsd transaction0: Captured transactions: 
+Mar  4 01:29:10 gw1-ir-fpsd transaction0:  Google-1,Google-2,Google-3,Google-64
+Mar  4 01:29:11 gw1-nc-cascade transaction0: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:11 gw1-nc-cascade transaction0: Asset id: 6514
+Mar  4 01:29:11 gw1-nc-cascade transaction0: Captured transactions: 
+Mar  4 01:29:11 gw1-nc-cascade transaction0:  O365-1249,O365-1263,O365-1264,O365-157,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-52,O365-53,O365-557,O365-600,O365-934,O365-971,O365-974
+Mar  4 01:29:11 gw1-nc-cascade transaction1: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:11 gw1-nc-cascade transaction1: Asset id: 6514
+Mar  4 01:29:11 gw1-nc-cascade transaction1: Captured transactions: 
+Mar  4 01:29:11 gw1-nc-cascade transaction1:  O365-1249,O365-1263,O365-1264,O365-157,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-52,O365-53,O365-557,O365-600,O365-934,O365-971,O365-974
+Mar  4 01:29:11 gw1-nc-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:29:03 GMT
+Mar  4 01:29:11 gw1-nc-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:29:03 GMT
+Mar  4 01:29:10 gw1-ir-fpsd transaction1: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:10 gw1-ir-fpsd transaction1: Asset id: 9636
+Mar  4 01:29:10 gw1-ir-fpsd transaction1: Captured transactions: 
+Mar  4 01:29:10 gw1-ir-fpsd transaction1:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:29:10 gw1-ir-fpsd transaction1: Asset id: 10928
+Mar  4 01:29:10 gw1-ir-fpsd transaction1: Captured transactions: 
+Mar  4 01:29:10 gw1-ir-fpsd transaction1:  Google-1,Google-2,Google-3,Google-64
+Mar  4 01:29:10 gw1-ir-fpsd transaction1: Asset id: 10929
+Mar  4 01:29:10 gw1-ir-fpsd transaction1: Captured transactions: 
+Mar  4 01:29:10 gw1-ir-fpsd transaction1:  linke-1,linke-2
+Mar  4 01:29:11 gw1-nc-nfr17 transaction0: Log time: Sun, 04 Mar 2018 01:29:07 GMT
+Mar  4 01:29:11 gw1-nc-nfr17 transaction0: Asset id: 11423
+Mar  4 01:29:11 gw1-nc-nfr17 transaction0: Captured transactions: 
+Mar  4 01:29:11 gw1-nc-nfr17 transaction0:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:29:11 gw1-nc-nfr17 transaction1: Log time: Sun, 04 Mar 2018 01:29:07 GMT
+Mar  4 01:29:11 gw1-nc-nfr17 transaction1: Asset id: 11423
+Mar  4 01:29:11 gw1-nc-nfr17 transaction1: Captured transactions: 
+Mar  4 01:29:11 gw1-nc-nfr17 transaction1:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:29:11 gw1-nc-nfr48 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:11 gw1-nc-nfr48 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:12 gw1-sp-nfr59 transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:12 gw1-sp-nfr59 transaction0: Asset id: 10182
+Mar  4 01:29:12 gw1-sp-nfr59 transaction0: Captured transactions: 
+Mar  4 01:29:12 gw1-sp-nfr59 transaction0:  O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:12 gw1-sp-nfr59 transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:12 gw1-sp-nfr59 transaction1: Asset id: 10182
+Mar  4 01:29:12 gw1-sp-nfr59 transaction1: Captured transactions: 
+Mar  4 01:29:12 gw1-sp-nfr59 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:12 gw1-nc-nfr31 transaction0: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:12 gw1-nc-nfr31 transaction1: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:11 gw1-nv-nv13 transaction0: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:11 gw1-nv-nv13 transaction1: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:12 gw1-sin-nfr22 transaction0: Log time: Sun, 04 Mar 2018 01:29:02 GMT
+Mar  4 01:29:12 gw1-sin-nfr22 transaction1: Log time: Sun, 04 Mar 2018 01:29:02 GMT
+Mar  4 01:29:11 gw1-nv-progentrix transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:11 gw1-nv-progentrix transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:12 gw1-nc-sos-prod transaction0: Log time: Sun, 04 Mar 2018 01:29:03 GMT
+Mar  4 01:29:12 gw1-nc-sos-prod transaction0: Asset id: 323
+Mar  4 01:29:12 gw1-nc-sos-prod transaction0: Captured transactions: 
+Mar  4 01:29:12 gw1-nc-sos-prod transaction0:  Skyfence-1,Skyfence-166,Skyfence-45,Skyfence-9
+Mar  4 01:29:12 gw1-nc-sos-prod transaction1: Log time: Sun, 04 Mar 2018 01:29:03 GMT
+Mar  4 01:29:12 gw1-nc-sos-prod transaction1: Asset id: 323
+Mar  4 01:29:12 gw1-nc-sos-prod transaction1: Captured transactions: 
+Mar  4 01:29:12 gw1-nc-sos-prod transaction1:  Skyfence-1,Skyfence-166,Skyfence-3,Skyfence-4,Skyfence-43,Skyfence-45,Skyfence-9
+Mar  4 01:29:12 gw1-nv-nv3 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:12 gw1-nv-nv3 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:11 gw4-sp-arcor transaction0: Log time: Sun, 04 Mar 2018 01:29:03 GMT
+Mar  4 01:29:11 gw4-sp-arcor transaction0: Asset id: 6063
+Mar  4 01:29:11 gw4-sp-arcor transaction0: Captured transactions: 
+Mar  4 01:29:11 gw4-sp-arcor transaction0:  O365-1377,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-61,O365-934
+Mar  4 01:29:11 gw4-sp-arcor transaction1: Log time: Sun, 04 Mar 2018 01:29:03 GMT
+Mar  4 01:29:11 gw4-sp-arcor transaction1: Asset id: 6063
+Mar  4 01:29:11 gw4-sp-arcor transaction1: Captured transactions: 
+Mar  4 01:29:11 gw4-sp-arcor transaction1:  O365-1377,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-61,O365-934
+Mar  4 01:29:13 gw1-sp-nfr57 transaction0: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:13 gw1-sp-nfr57 transaction1: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:12 gw1-ir-fpre2 transaction0: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:13 gw1-mu-mu3 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:13 gw1-mu-mu3 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:13 gw1-nc-marketaxess transaction0: Log time: Sun, 04 Mar 2018 01:29:11 GMT
+Mar  4 01:29:13 gw1-nc-marketaxess transaction1: Log time: Sun, 04 Mar 2018 01:29:11 GMT
+Mar  4 01:29:12 gw1-ir-fpre2 transaction1: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:13 gw1-nc-nfr11 transaction0: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:13 gw1-nc-nfr11 transaction1: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:13 gw1-ir-fpre1 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:13 gw1-ir-fpre1 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:13 gw1-mu-mu2 transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:13 gw1-mu-mu2 transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:13 gw1-nc-nc13 transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:13 gw1-nc-nc13 transaction0: Asset id: 10042
+Mar  4 01:29:13 gw1-nc-nc13 transaction0: Captured transactions: 
+Mar  4 01:29:13 gw1-nc-nc13 transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:13 gw1-nc-nc13 transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:14 gw1-nc-nfr43 transaction0: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:14 gw1-nc-nfr43 transaction1: Log time: Sun, 04 Mar 2018 01:29:04 GMT
+Mar  4 01:29:14 gw1-nc-nc7 transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:14 gw1-nc-nc7 transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:14 gw1-nc-nc24 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:14 gw1-nc-nc24 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:13 gw1-nv-nv15 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:13 gw1-nv-nv15 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:14 gw1-mu-mu1 transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:14 gw1-mu-mu1 transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:14 gw1-nc-sup1 transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:14 gw1-nc-sup1 transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:14 gw1-nc-nc9 transaction0: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:14 gw1-nc-nc9 transaction1: Log time: Sun, 04 Mar 2018 01:29:05 GMT
+Mar  4 01:29:15 gw1-fr-nfr29 transaction0: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:15 gw1-fr-nfr29 transaction1: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:15 gw1-fr-nfr29 transaction1: Asset id: 6930
+Mar  4 01:29:15 gw1-fr-nfr29 transaction1: Captured transactions: 
+Mar  4 01:29:15 gw1-fr-nfr29 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:14 gw1-fr-nfr21 transaction0: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:14 gw1-fr-nfr21 transaction1: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:15 gw1-nc-fp transaction0: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:15 gw1-nc-fp transaction1: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:16 gw1-mu-nfr55 transaction0: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:16 gw1-mu-nfr55 transaction1: Log time: Sun, 04 Mar 2018 01:29:06 GMT
+Mar  4 01:29:15 gw1-nv-nfr38 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:15 gw1-nv-nfr38 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:14 gw1-ir-ir6 transaction0: Log time: Sun, 04 Mar 2018 01:29:13 GMT
+Mar  4 01:29:14 gw1-ir-ir6 transaction1: Log time: Sun, 04 Mar 2018 01:29:13 GMT
+Mar  4 01:29:15 gw1-nc-nfr32 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:15 gw1-nc-nfr32 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:18 gw1-nc-nc17 transaction0: Log time: Sun, 04 Mar 2018 01:29:17 GMT
+Mar  4 01:29:18 gw1-nc-nc17 transaction1: Log time: Sun, 04 Mar 2018 01:29:17 GMT
+Mar  4 01:29:16 gw1-nc-nc10 transaction0: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:16 gw1-nc-nc10 transaction1: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:16 gw1-nv-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:16 gw1-nv-vanguard transaction0: Asset id: 5513
+Mar  4 01:29:16 gw1-nv-vanguard transaction0: Captured transactions: 
+Mar  4 01:29:16 gw1-nv-vanguard transaction0:  SForce-1,SForce-2
+Mar  4 01:29:16 gw1-fr-nfr56 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:16 gw1-fr-nfr56 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:16 gw1-nv-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:16 gw1-nv-vanguard transaction1: Asset id: 5513
+Mar  4 01:29:16 gw1-nv-vanguard transaction1: Captured transactions: 
+Mar  4 01:29:16 gw1-nv-vanguard transaction1:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:29:17 gw1-nc-nfr39 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:17 gw1-nc-nfr39 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:16 gw1-nc-pivotalventures transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:16 gw1-nc-pivotalventures transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:16 gw1-sin-nfr3 transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:16 gw1-sin-nfr3 transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:18 gw1-sy-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:29:08 GMT
+Mar  4 01:29:15 gw1-ir-nfr35 transaction0: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:15 gw1-ir-nfr35 transaction1: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:17 gw1-nv-nv7 transaction0: Log time: Sun, 04 Mar 2018 01:29:07 GMT
+Mar  4 01:29:17 gw1-nv-nv7 transaction1: Log time: Sun, 04 Mar 2018 01:29:07 GMT
+Mar  4 01:29:17 gw1-nc-nc18 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:17 gw1-nc-nc18 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:20 gw1-ir-nfr49 transaction0: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:20 gw1-ir-nfr49 transaction1: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:18 gw1-nv-nv10 transaction0: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:18 gw1-nv-nv10 transaction1: Log time: Sun, 04 Mar 2018 01:29:09 GMT
+Mar  4 01:29:17 gw1-nc-nc15 transaction0: Log time: Sun, 04 Mar 2018 01:29:11 GMT
+Mar  4 01:29:17 gw1-nc-nc15 transaction1: Log time: Sun, 04 Mar 2018 01:29:11 GMT
+Mar  4 01:29:21 gw1-ir transaction0: Log time: Sun, 04 Mar 2018 01:29:14 GMT
+Mar  4 01:29:21 gw1-ir transaction1: Log time: Sun, 04 Mar 2018 01:29:14 GMT
+Mar  4 01:29:16 gw1-ir-nfr8 transaction0: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:16 gw1-ir-nfr8 transaction1: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:18 gw1-or-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:18 gw1-or-homeaway transaction0: Asset id: 811
+Mar  4 01:29:18 gw1-or-homeaway transaction0: Captured transactions: 
+Mar  4 01:29:18 gw1-or-homeaway transaction0:  SForce-1,SForce-1002,SForce-123,SForce-124,SForce-1284,SForce-1372,SForce-1483,SForce-1494,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69,SForce-70,SForce-72,SForce-73,SForce-861,SForce-862,SForce-87
+Mar  4 01:29:18 gw1-or-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:18 gw1-or-homeaway transaction1: Asset id: 811
+Mar  4 01:29:18 gw1-or-homeaway transaction1: Captured transactions: 
+Mar  4 01:29:18 gw1-or-homeaway transaction1:  SForce-1,SForce-1002,SForce-12,SForce-120,SForce-121,SForce-123,SForce-1284,SForce-1372,SForce-14,SForce-1466,SForce-1483,SForce-1494,SForce-15,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69,SForce-70,SForce-72,SForce-73,SForce-861,SForce-862,SForce-87
+Mar  4 01:29:18 gw1-ir-digitalrealty transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:18 gw1-ir-digitalrealty transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:21 gw1-sp-bancolombia transaction0: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:21 gw1-sp-bancolombia transaction1: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:21 gw1-nc-nfr28 transaction0: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:21 gw1-nc-nfr28 transaction1: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:18 gw1-ir-ir1 transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:18 gw1-ir-ir1 transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:21 gw1-ir-nfr53 transaction0: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:21 gw1-ir-nfr53 transaction1: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:18 gw1-nc-nc22 transaction0: Log time: Sun, 04 Mar 2018 01:29:14 GMT
+Mar  4 01:29:18 gw1-nc-nc22 transaction1: Log time: Sun, 04 Mar 2018 01:29:14 GMT
+Mar  4 01:29:18 gw1-ir-ir8 transaction0: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:18 gw1-ir-ir8 transaction1: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:20 gw1-ir-fpsd3 transaction0: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:20 gw1-ir-fpsd3 transaction1: Log time: Sun, 04 Mar 2018 01:29:10 GMT
+Mar  4 01:29:20 gw1-sp-nfr30 transaction0: Log time: Sun, 04 Mar 2018 01:29:11 GMT
+Mar  4 01:29:20 gw1-sp-nfr30 transaction1: Log time: Sun, 04 Mar 2018 01:29:11 GMT
+Mar  4 01:29:19 gw1-ir-hbo transaction0: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:19 gw1-ir-hbo transaction0: Asset id: 4181
+Mar  4 01:29:19 gw1-ir-hbo transaction0: Captured transactions: 
+Mar  4 01:29:19 gw1-ir-hbo transaction0:  Workd-1,Workd-2
+Mar  4 01:29:19 gw1-ir-hbo transaction1: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:19 gw1-ir-hbo transaction1: Asset id: 4181
+Mar  4 01:29:19 gw1-ir-hbo transaction1: Captured transactions: 
+Mar  4 01:29:19 gw1-ir-hbo transaction1:  Workd-1,Workd-2
+Mar  4 01:29:20 gw1-ir-automation transaction0: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:20 gw1-ir-automation transaction1: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:22 gw1-fr-nfr26 transaction0: Log time: Sun, 04 Mar 2018 01:29:13 GMT
+Mar  4 01:29:22 gw1-fr-nfr26 transaction1: Log time: Sun, 04 Mar 2018 01:29:13 GMT
+Mar  4 01:29:22 gw1-nv-nv1 transaction0: Log time: Sun, 04 Mar 2018 01:29:18 GMT
+Mar  4 01:29:22 gw1-nv-nv1 transaction1: Log time: Sun, 04 Mar 2018 01:29:18 GMT
+Mar  4 01:29:22 gw1-nc-se-0365-nc1 transaction0: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:22 gw1-nc-se-0365-nc1 transaction1: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:23 gw1-or-or1 transaction0: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:23 gw1-or-or1 transaction1: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:23 gw1-sy-nfr23 transaction0: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:23 gw1-sy-nfr23 transaction1: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:23 gw1-nc-nc5 transaction0: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:23 gw1-nc-nc5 transaction1: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:22 gw1-sin-nfr10 transaction0: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:22 gw1-sin-nfr10 transaction0: Asset id: 10022
+Mar  4 01:29:22 gw1-sin-nfr10 transaction0: Captured transactions: 
+Mar  4 01:29:22 gw1-sin-nfr10 transaction0:  O365-31,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:22 gw1-sin-nfr10 transaction1: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:22 gw1-sin-nfr10 transaction1: Asset id: 10022
+Mar  4 01:29:22 gw1-sin-nfr10 transaction1: Captured transactions: 
+Mar  4 01:29:22 gw1-sin-nfr10 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:29:22 gw1-nc-nfr47 transaction0: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:22 gw1-nc-nfr47 transaction1: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:23 gw1-nv-nv16 transaction0: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:23 gw1-nv-nv16 transaction1: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:24 gw1-nv-nfr24 transaction0: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:24 gw1-nv-nfr24 transaction1: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:25 gw1-nc-caparks transaction0: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:25 gw1-nc-caparks transaction1: Log time: Sun, 04 Mar 2018 01:29:15 GMT
+Mar  4 01:29:25 gw1-mu-nalg transaction0: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:25 gw1-mu-nalg transaction1: Log time: Sun, 04 Mar 2018 01:29:16 GMT
+Mar  4 01:29:25 gw1-nc-nc1 transaction0: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:25 gw1-nc-nc1 transaction0: Asset id: 9640
+Mar  4 01:29:25 gw1-nc-nc1 transaction0: Captured transactions: 
+Mar  4 01:29:25 gw1-nc-nc1 transaction0:  Google-1,Google-2,Google-3,Google-64,Google-65
+Mar  4 01:29:25 gw1-nc-nc1 transaction1: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:25 gw1-nc-nc1 transaction1: Asset id: 9640
+Mar  4 01:29:25 gw1-nc-nc1 transaction1: Captured transactions: 
+Mar  4 01:29:25 gw1-nc-nc1 transaction1:  Google-1,Google-2,Google-3,Google-63,Google-64,Google-65
+Mar  4 01:29:24 gw1-to-nfr60 transaction0: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:24 gw1-to-nfr60 transaction1: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:25 gw1-ir-ir4 transaction0: Log time: Sun, 04 Mar 2018 01:29:22 GMT
+Mar  4 01:29:25 gw1-ir-ir4 transaction1: Log time: Sun, 04 Mar 2018 01:29:22 GMT
+Mar  4 01:29:25 gw1-nc-nc11 transaction0: Log time: Sun, 04 Mar 2018 01:29:18 GMT
+Mar  4 01:29:25 gw1-nc-nc11 transaction1: Log time: Sun, 04 Mar 2018 01:29:18 GMT
+Mar  4 01:29:25 gw1-nv-nfr6 transaction0: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:25 gw1-nv-nfr6 transaction1: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:26 gw1-nv-verisk-dev transaction0: Log time: Sun, 04 Mar 2018 01:29:22 GMT
+Mar  4 01:29:26 gw1-nv-verisk-dev transaction1: Log time: Sun, 04 Mar 2018 01:29:22 GMT
+Mar  4 01:29:26 gw1-nv-nv8 transaction0: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:26 gw1-nv-nv8 transaction1: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:27 gw1-nc-cawater transaction0: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:27 gw1-nc-cawater transaction1: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:26 gw1-nc-nc23 transaction0: Log time: Sun, 04 Mar 2018 01:29:24 GMT
+Mar  4 01:29:26 gw1-nc-nc23 transaction1: Log time: Sun, 04 Mar 2018 01:29:24 GMT
+Mar  4 01:29:26 gw1-nc-se-o365-nc2 transaction0: Log time: Sun, 04 Mar 2018 01:29:24 GMT
+Mar  4 01:29:26 gw1-nc-se-o365-nc2 transaction1: Log time: Sun, 04 Mar 2018 01:29:24 GMT
+Mar  4 01:29:26 gw1-nv-nv4 transaction0: Log time: Sun, 04 Mar 2018 01:29:18 GMT
+Mar  4 01:29:26 gw1-nv-nv4 transaction1: Log time: Sun, 04 Mar 2018 01:29:18 GMT
+Mar  4 01:29:27 gw1-sin-nfr13 transaction0: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:27 gw1-sin-nfr13 transaction1: Log time: Sun, 04 Mar 2018 01:29:21 GMT
+Mar  4 01:29:27 gw1-fr-nfr52 transaction0: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:27 gw1-fr-nfr52 transaction1: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:27 gw1-ir-nfr51 transaction0: Log time: Sun, 04 Mar 2018 01:29:18 GMT
+Mar  4 01:29:27 gw1-ir-nfr51 transaction1: Log time: Sun, 04 Mar 2018 01:29:18 GMT
+Mar  4 01:29:28 gw1-nv-nv2 transaction0: Log time: Sun, 04 Mar 2018 01:29:26 GMT
+Mar  4 01:29:28 gw1-nv-nv2 transaction1: Log time: Sun, 04 Mar 2018 01:29:26 GMT
+Mar  4 01:29:28 gw1-nc-nc4 transaction0: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:28 gw1-nc-nc4 transaction1: Log time: Sun, 04 Mar 2018 01:29:19 GMT
+Mar  4 01:29:27 gw1-nc-nc14 transaction0: Log time: Sun, 04 Mar 2018 01:29:26 GMT
+Mar  4 01:29:27 gw1-nc-nc14 transaction1: Log time: Sun, 04 Mar 2018 01:29:26 GMT
+Mar  4 01:29:28 gw1-nc-emf transaction0: Log time: Sun, 04 Mar 2018 01:29:22 GMT
+Mar  4 01:29:28 gw1-nc-emf transaction1: Log time: Sun, 04 Mar 2018 01:29:22 GMT
+Mar  4 01:29:29 gw1-nc-imperva transaction0: Log time: Sun, 04 Mar 2018 01:29:28 GMT
+Mar  4 01:29:29 gw1-nc-imperva transaction0: Asset id: 1722
+Mar  4 01:29:29 gw1-nc-imperva transaction0: Captured transactions: 
+Mar  4 01:29:29 gw1-nc-imperva transaction0:  SForce-1,SForce-1284,SForce-1466,SForce-1520,SForce-2,SForce-59
+Mar  4 01:29:29 gw1-nc-imperva transaction1: Log time: Sun, 04 Mar 2018 01:29:28 GMT
+Mar  4 01:29:29 gw1-nc-imperva transaction1: Asset id: 1722
+Mar  4 01:29:29 gw1-nc-imperva transaction1: Captured transactions: 
+Mar  4 01:29:29 gw1-nc-imperva transaction1:  SForce-1,SForce-123,SForce-1284,SForce-1466,SForce-1520,SForce-2
+Mar  4 01:29:29 gw1-nv-watermark-dev transaction0: Log time: Sun, 04 Mar 2018 01:29:24 GMT
+Mar  4 01:29:29 gw1-nv-watermark-dev transaction1: Log time: Sun, 04 Mar 2018 01:29:24 GMT
+Mar  4 01:29:30 gw1-ir-sup2 transaction0: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:30 gw1-ir-sup2 transaction0: Asset id: 916
+Mar  4 01:29:30 gw1-ir-sup2 transaction0: Captured transactions: 
+Mar  4 01:29:30 gw1-ir-sup2 transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:29:30 gw1-ir-sup2 transaction1: Log time: Sun, 04 Mar 2018 01:29:20 GMT
+Mar  4 01:29:30 gw1-nc-arcor-dev transaction0: Log time: Sun, 04 Mar 2018 01:29:24 GMT
+Mar  4 01:29:30 gw1-nc-arcor-dev transaction1: Log time: Sun, 04 Mar 2018 01:29:24 GMT
+Mar  4 01:29:30 gw1-ir-umg-sp transaction0: Log time: Sun, 04 Mar 2018 01:29:26 GMT
+Mar  4 01:29:30 gw1-ir-umg-sp transaction1: Log time: Sun, 04 Mar 2018 01:29:26 GMT
+Mar  4 01:29:31 gw1-sin-nfr34 transaction0: Log time: Sun, 04 Mar 2018 01:29:27 GMT
+Mar  4 01:29:31 gw1-sin-nfr34 transaction1: Log time: Sun, 04 Mar 2018 01:29:27 GMT
+Mar  4 01:29:32 gw1-nv-nv9 transaction0: Log time: Sun, 04 Mar 2018 01:29:22 GMT
+Mar  4 01:29:32 gw1-nv-nv9 transaction0: Asset id: 10731
+Mar  4 01:29:32 gw1-nv-nv9 transaction0: Captured transactions: 
+Mar  4 01:29:32 gw1-nv-nv9 transaction0:  Google-1,Google-136,Google-2,Google-20,Google-3,Google-47,Google-64,Google-65
+Mar  4 01:29:32 gw1-nv-nv9 transaction1: Log time: Sun, 04 Mar 2018 01:29:22 GMT
+Mar  4 01:29:32 gw1-nv-nv9 transaction1: Asset id: 10731
+Mar  4 01:29:32 gw1-nv-nv9 transaction1: Captured transactions: 
+Mar  4 01:29:32 gw1-nv-nv9 transaction1:  Google-1,Google-136,Google-2,Google-20,Google-3,Google-47,Google-64,Google-65
+Mar  4 01:29:32 gw1-ir-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:29:27 GMT
+Mar  4 01:29:32 gw1-ir-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:29:27 GMT
+Mar  4 01:29:33 gw1-ir-fp transaction0: Log time: Sun, 04 Mar 2018 01:29:25 GMT
+Mar  4 01:29:33 gw1-ir-fp transaction1: Log time: Sun, 04 Mar 2018 01:29:25 GMT
+Mar  4 01:29:33 gw1-sin-nfr46 transaction0: Log time: Sun, 04 Mar 2018 01:29:28 GMT
+Mar  4 01:29:33 gw1-sin-nfr46 transaction1: Log time: Sun, 04 Mar 2018 01:29:28 GMT
+Mar  4 01:29:38 gw1-nv-versartis transaction0: Log time: Sun, 04 Mar 2018 01:29:29 GMT
+Mar  4 01:29:38 gw1-nv-versartis transaction0: Asset id: 223
+Mar  4 01:29:38 gw1-nv-versartis transaction0: Captured transactions: 
+Mar  4 01:29:38 gw1-nv-versartis transaction0:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:29:38 gw1-nv-versartis transaction1: Log time: Sun, 04 Mar 2018 01:29:29 GMT
+Mar  4 01:29:38 gw1-nv-versartis transaction1: Asset id: 223
+Mar  4 01:29:38 gw1-nv-versartis transaction1: Captured transactions: 
+Mar  4 01:29:38 gw1-nv-versartis transaction1:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973
+Mar  4 01:29:37 gw1-nc-autodisc transaction0: Log time: Sun, 04 Mar 2018 01:29:32 GMT
+Mar  4 01:29:37 gw1-nc-autodisc transaction1: Log time: Sun, 04 Mar 2018 01:29:32 GMT
+Mar  4 01:29:39 gw1-ir-sareb transaction0: Log time: Sun, 04 Mar 2018 01:29:31 GMT
+Mar  4 01:29:39 gw1-ir-sareb transaction1: Log time: Sun, 04 Mar 2018 01:29:31 GMT
+Mar  4 01:29:40 gw1-to-poc2 transaction0: Log time: Sun, 04 Mar 2018 01:29:40 GMT
+Mar  4 01:29:40 gw1-to-poc2 transaction1: Log time: Sun, 04 Mar 2018 01:29:40 GMT
+Mar  4 01:29:45 gw1-nc-fhlbsf transaction0: Log time: Sun, 04 Mar 2018 01:29:39 GMT
+Mar  4 01:29:45 gw1-nc-fhlbsf transaction1: Log time: Sun, 04 Mar 2018 01:29:39 GMT
+Mar  4 01:29:45 gw1-sin-sin1 transaction0: Log time: Sun, 04 Mar 2018 01:29:40 GMT
+Mar  4 01:29:45 gw1-sin-sin1 transaction1: Log time: Sun, 04 Mar 2018 01:29:40 GMT
+Mar  4 01:29:47 gw1-to-to3 transaction0: Log time: Sun, 04 Mar 2018 01:29:37 GMT
+Mar  4 01:29:47 gw1-to-to3 transaction1: Log time: Sun, 04 Mar 2018 01:29:37 GMT
+Mar  4 01:29:58 gw1-ir-imperva transaction0: Log time: Sun, 04 Mar 2018 01:29:48 GMT
+Mar  4 01:29:58 gw1-ir-imperva transaction0: Asset id: 499
+Mar  4 01:29:58 gw1-ir-imperva transaction0: Captured transactions: 
+Mar  4 01:29:58 gw1-ir-imperva transaction0:  Google-1,Google-2,Google-3,Google-64
+Mar  4 01:29:58 gw1-ir-imperva transaction0: Asset id: 1722
+Mar  4 01:29:58 gw1-ir-imperva transaction0: Captured transactions: 
+Mar  4 01:29:58 gw1-ir-imperva transaction0:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:29:58 gw1-ir-imperva transaction1: Log time: Sun, 04 Mar 2018 01:29:48 GMT
+Mar  4 01:29:58 gw1-ir-imperva transaction1: Asset id: 499
+Mar  4 01:29:58 gw1-ir-imperva transaction1: Captured transactions: 
+Mar  4 01:29:58 gw1-ir-imperva transaction1:  Google-1,Google-2,Google-3,Google-64
+Mar  4 01:29:58 gw1-ir-imperva transaction1: Asset id: 1722
+Mar  4 01:29:58 gw1-ir-imperva transaction1: Captured transactions: 
+Mar  4 01:29:58 gw1-ir-imperva transaction1:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:30:15 gw1-nc-cawildlife transaction0: Log time: Sun, 04 Mar 2018 01:30:15 GMT
+Mar  4 01:30:15 gw1-nc-cawildlife transaction0: Asset id: 4279
+Mar  4 01:30:15 gw1-nc-cawildlife transaction0: Captured transactions: 
+Mar  4 01:30:15 gw1-nc-cawildlife transaction0:  O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:30:15 gw1-nc-cawildlife transaction1: Log time: Sun, 04 Mar 2018 01:30:15 GMT
+Mar  4 01:30:15 gw1-nc-cawildlife transaction1: Asset id: 4279
+Mar  4 01:30:15 gw1-nc-cawildlife transaction1: Captured transactions: 
+Mar  4 01:30:15 gw1-nc-cawildlife transaction1:  O365-1325,O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:30:25 gw1-nv-se-o365-nv1 transaction0: Log time: Sun, 04 Mar 2018 01:30:24 GMT
+Mar  4 01:30:25 gw1-nv-se-o365-nv1 transaction1: Log time: Sun, 04 Mar 2018 01:30:24 GMT
+Mar  4 01:30:27 gw1-sy-sy2 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:27 gw1-sy-sy2 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-to-to2 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-to-to2 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-mu-nfr58 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-mu-nfr58 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:27 gw1-nc-hbo transaction0: Log time: Sun, 04 Mar 2018 01:30:19 GMT
+Mar  4 01:30:27 gw1-nc-hbo transaction0: Asset id: 4181
+Mar  4 01:30:27 gw1-nc-hbo transaction0: Captured transactions: 
+Mar  4 01:30:27 gw1-nc-hbo transaction0:  Workd-1,Workd-11,Workd-18,Workd-2,Workd-20
+Mar  4 01:30:27 gw1-nc-hbo transaction1: Log time: Sun, 04 Mar 2018 01:30:19 GMT
+Mar  4 01:30:27 gw1-nc-hbo transaction1: Asset id: 4181
+Mar  4 01:30:27 gw1-nc-hbo transaction1: Captured transactions: 
+Mar  4 01:30:27 gw1-nc-hbo transaction1:  Workd-1,Workd-11,Workd-18,Workd-2,Workd-20
+Mar  4 01:30:26 gw1-ir-nfr19 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-ir-nfr19 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-nc-cityofla transaction0: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:26 gw1-nc-cityofla transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:25 gw1-ir-fpsd2 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:25 gw1-ir-fpsd2 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:28 gw1-nc-nc3 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:28 gw1-nc-nc3 transaction1: Log time: Sun, 04 Mar 2018 01:30:24 GMT
+Mar  4 01:30:26 gw1-nv-nv5 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-nv-nv5 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-nc-nfr45 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:26 gw1-nc-nfr45 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:29 gw1-nv-poc3 transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:29 gw1-nv-poc3 transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:29 gw1-nc-barton transaction0: Log time: Sun, 04 Mar 2018 01:30:23 GMT
+Mar  4 01:30:29 gw1-nc-barton transaction1: Log time: Sun, 04 Mar 2018 01:30:23 GMT
+Mar  4 01:30:29 gw1-sin-nfr5 transaction0: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:29 gw1-sin-nfr5 transaction1: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:30 gw1-nv-nv14 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:30 gw1-nv-nv14 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:31 gw1-nc-nc12 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:31 gw1-nc-nc12 transaction1: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:31 gw1-fr-nfr9 transaction0: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:31 gw1-fr-nfr9 transaction1: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:29 gw1-nc-nc2 transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:29 gw1-nc-nc2 transaction0: Asset id: 4907
+Mar  4 01:30:29 gw1-nc-nc2 transaction0: Captured transactions: 
+Mar  4 01:30:29 gw1-nc-nc2 transaction0:  O365-31,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:30:29 gw1-nc-nc2 transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:29 gw1-nc-nc2 transaction1: Asset id: 4907
+Mar  4 01:30:29 gw1-nc-nc2 transaction1: Captured transactions: 
+Mar  4 01:30:29 gw1-nc-nc2 transaction1:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:30:30 gw1-nv-verisk transaction0: Log time: Sun, 04 Mar 2018 01:30:28 GMT
+Mar  4 01:30:30 gw1-nv-verisk transaction0: Asset id: 18
+Mar  4 01:30:30 gw1-nv-verisk transaction0: Captured transactions: 
+Mar  4 01:30:30 gw1-nv-verisk transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:30:30 gw1-nv-verisk transaction1: Log time: Sun, 04 Mar 2018 01:30:28 GMT
+Mar  4 01:30:30 gw1-nv-verisk transaction1: Asset id: 18
+Mar  4 01:30:30 gw1-nv-verisk transaction1: Captured transactions: 
+Mar  4 01:30:30 gw1-nv-verisk transaction1:  O365-1377,O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-61,O365-934
+Mar  4 01:30:28 gw1-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:28 gw1-nc-umg transaction0: Asset id: 105
+Mar  4 01:30:28 gw1-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:30:28 gw1-nc-umg transaction0: Captured transactions: None
+Mar  4 01:30:28 gw1-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:28 gw1-nc-umg transaction1: Asset id: 105
+Mar  4 01:30:28 gw1-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:30:28 gw1-nc-umg transaction1: Captured transactions: None
+Mar  4 01:30:31 gw1-ir-ir5 transaction0: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:28 gw1-nc-nc6 transaction0: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:28 gw1-nc-nc6 transaction1: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:31 gw1-ir-ir5 transaction1: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:34 gw1-nc-digitalrealty transaction0: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:34 gw1-nc-digitalrealty transaction1: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:33 gw1-nv-nv11 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:33 gw1-nv-nv11 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:31 gw1-nc-demo5 transaction0: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:31 gw1-nc-demo5 transaction1: Log time: Sun, 04 Mar 2018 01:30:26 GMT
+Mar  4 01:30:35 gw1-or-se-o365-or1 transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:35 gw1-or-se-o365-or1 transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:35 gw1-sin-nfr2 transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:35 gw1-sin-nfr2 transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:34 gw1-or-or2 transaction0: Log time: Sun, 04 Mar 2018 01:30:28 GMT
+Mar  4 01:30:34 gw1-or-or2 transaction0: Asset id: 10902
+Mar  4 01:30:34 gw1-or-or2 transaction0: Captured transactions: 
+Mar  4 01:30:34 gw1-or-or2 transaction0:  O365-140,O365-1459,O365-31,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:30:34 gw1-or-or2 transaction1: Log time: Sun, 04 Mar 2018 01:30:28 GMT
+Mar  4 01:30:34 gw1-or-or2 transaction1: Asset id: 10902
+Mar  4 01:30:34 gw1-or-or2 transaction1: Captured transactions: 
+Mar  4 01:30:34 gw1-or-or2 transaction1:  O365-140,O365-1459,O365-31,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:30:33 gw1-ir-arch transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:33 gw1-ir-arch transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:34 gw1-sin transaction0: Log time: Sun, 04 Mar 2018 01:30:28 GMT
+Mar  4 01:30:34 gw1-sin transaction0: Asset id: 1231
+Mar  4 01:30:34 gw1-sin transaction0: Captured transactions: 
+Mar  4 01:30:34 gw1-sin transaction0:  AWS-1,AWS-2
+Mar  4 01:30:34 gw1-sin transaction1: Log time: Sun, 04 Mar 2018 01:30:28 GMT
+Mar  4 01:30:31 gw1-sy-sy1 transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:31 gw1-sy-sy1 transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:34 gw1-sy-sportsbet transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:34 gw1-sy-sportsbet transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:36 demo3 transaction0: Log time: Sun, 04 Mar 2018 01:30:28 GMT
+Mar  4 01:30:36 demo3 transaction1: Log time: Sun, 04 Mar 2018 01:30:28 GMT
+Mar  4 01:30:33 gw1-or-vista transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:33 gw1-or-vista transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:36 gw1-fr-nfr25 transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:36 gw1-fr-nfr25 transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:35 gw1-nc-extremeguitars transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:35 gw1-nc-extremeguitars transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:36 gw1-nc-nc8 transaction0: Log time: Sun, 04 Mar 2018 01:30:30 GMT
+Mar  4 01:30:36 gw1-nc-nc8 transaction1: Log time: Sun, 04 Mar 2018 01:30:30 GMT
+Mar  4 01:30:35 gw1-nv-jennison transaction0: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:35 gw1-nv-jennison transaction1: Log time: Sun, 04 Mar 2018 01:30:25 GMT
+Mar  4 01:30:38 gw1-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:30:29 GMT
+Mar  4 01:30:38 gw1-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:30:29 GMT
+Mar  4 01:30:36 gw1-to-to1 transaction0: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:36 gw1-to-to1 transaction1: Log time: Sun, 04 Mar 2018 01:30:27 GMT
+Mar  4 01:30:37 gw1-to-umg transaction0: Log time: Sun, 04 Mar 2018 01:30:30 GMT
+Mar  4 01:30:37 gw1-to-umg transaction0: Asset id: 105
+Mar  4 01:30:37 gw1-to-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:30:37 gw1-to-umg transaction0: Captured transactions: None
+Mar  4 01:30:37 gw1-to-umg transaction1: Log time: Sun, 04 Mar 2018 01:30:30 GMT
+Mar  4 01:30:37 gw1-to-umg transaction1: Asset id: 105
+Mar  4 01:30:37 gw1-to-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:30:37 gw1-to-umg transaction1: Captured transactions: None
+Mar  4 01:31:04 gw2-sp-bancolombia transaction0: Log time: Sun, 04 Mar 2018 01:31:01 GMT
+Mar  4 01:31:04 gw2-sp-bancolombia transaction1: Log time: Sun, 04 Mar 2018 01:31:01 GMT
+Mar  4 01:31:07 gw2-ir-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:31:06 GMT
+Mar  4 01:31:07 gw2-ir-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:31:06 GMT
+Mar  4 01:31:07 gw2-nc-pivotalventures transaction0: Log time: Sun, 04 Mar 2018 01:31:07 GMT
+Mar  4 01:31:10 gw2-nc-caparks transaction0: Log time: Sun, 04 Mar 2018 01:31:08 GMT
+Mar  4 01:31:10 gw2-nc-caparks transaction1: Log time: Sun, 04 Mar 2018 01:31:08 GMT
+Mar  4 01:31:12 gw2-nc-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:31:08 GMT
+Mar  4 01:31:12 gw2-nc-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:31:08 GMT
+Mar  4 01:31:14 gw2-or-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:31:08 GMT
+Mar  4 01:31:14 gw2-or-homeaway transaction0: Asset id: 811
+Mar  4 01:31:14 gw2-or-homeaway transaction0: Captured transactions: 
+Mar  4 01:31:14 gw2-or-homeaway transaction0:  SForce-1,SForce-1002,SForce-11,SForce-12,SForce-124,SForce-1284,SForce-13,SForce-1372,SForce-14,SForce-1466,SForce-1483,SForce-1487,SForce-1494,SForce-15,SForce-1520,SForce-16,SForce-17,SForce-19,SForce-2,SForce-23,SForce-3,SForce-4,SForce-42,SForce-44,SForce-69,SForce-73,SForce-86,SForce-861,SForce-862,SForce-863,SForce-87,SForce-90
+Mar  4 01:31:14 gw2-or-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:31:08 GMT
+Mar  4 01:31:14 gw2-or-homeaway transaction1: Asset id: 811
+Mar  4 01:31:14 gw2-or-homeaway transaction1: Captured transactions: 
+Mar  4 01:31:14 gw2-or-homeaway transaction1:  SForce-1,SForce-1002,SForce-11,SForce-1283,SForce-1284,SForce-13,SForce-1372,SForce-14,SForce-1483,SForce-1494,SForce-15,SForce-1520,SForce-16,SForce-17,SForce-19,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69,SForce-86,SForce-861,SForce-862,SForce-863,SForce-87,SForce-89,SForce-90
+Mar  4 01:31:14 gw2-nc-marketaxess transaction0: Log time: Sun, 04 Mar 2018 01:31:09 GMT
+Mar  4 01:31:14 gw2-nc-marketaxess transaction1: Log time: Sun, 04 Mar 2018 01:31:09 GMT
+Mar  4 01:31:16 gw3-ir-sareb transaction0: Log time: Sun, 04 Mar 2018 01:31:09 GMT
+Mar  4 01:31:16 gw3-ir-sareb transaction1: Log time: Sun, 04 Mar 2018 01:31:09 GMT
+Mar  4 01:31:17 gw3-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:14 GMT
+Mar  4 01:31:17 gw3-nc-umg transaction0: Asset id: 105
+Mar  4 01:31:17 gw3-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:17 gw3-nc-umg transaction0: Captured transactions: None
+Mar  4 01:31:17 gw3-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:14 GMT
+Mar  4 01:31:17 gw3-nc-umg transaction1: Asset id: 105
+Mar  4 01:31:17 gw3-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:17 gw3-nc-umg transaction1: Captured transactions: None
+Mar  4 01:31:17 gw2-nc-pivotalventures transaction1: Log time: Sun, 04 Mar 2018 01:31:07 GMT
+Mar  4 01:31:16 gw2-nc-sos-prod transaction0: Log time: Sun, 04 Mar 2018 01:31:13 GMT
+Mar  4 01:31:16 gw2-nc-sos-prod transaction0: Asset id: 323
+Mar  4 01:31:16 gw2-nc-sos-prod transaction0: Captured transactions: 
+Mar  4 01:31:16 gw2-nc-sos-prod transaction0:  Skyfence-1,Skyfence-166,Skyfence-3,Skyfence-4,Skyfence-43,Skyfence-45,Skyfence-9
+Mar  4 01:31:16 gw2-nc-sos-prod transaction1: Log time: Sun, 04 Mar 2018 01:31:13 GMT
+Mar  4 01:31:16 gw2-nc-sos-prod transaction1: Asset id: 323
+Mar  4 01:31:16 gw2-nc-sos-prod transaction1: Captured transactions: 
+Mar  4 01:31:16 gw2-nc-sos-prod transaction1:  Skyfence-1,Skyfence-166,Skyfence-3,Skyfence-4,Skyfence-43,Skyfence-45,Skyfence-9
+Mar  4 01:31:16 gw2-nc-cityofla transaction0: Log time: Sun, 04 Mar 2018 01:31:13 GMT
+Mar  4 01:31:16 gw2-nc-cityofla transaction1: Log time: Sun, 04 Mar 2018 01:31:13 GMT
+Mar  4 01:31:17 gw2-nc-cawildlife transaction0: Log time: Sun, 04 Mar 2018 01:31:13 GMT
+Mar  4 01:31:17 gw2-nc-cawildlife transaction0: Asset id: 4279
+Mar  4 01:31:17 gw2-nc-cawildlife transaction0: Captured transactions: 
+Mar  4 01:31:17 gw2-nc-cawildlife transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:31:17 gw2-nc-cawildlife transaction1: Log time: Sun, 04 Mar 2018 01:31:13 GMT
+Mar  4 01:31:17 gw2-nc-cawildlife transaction1: Asset id: 4279
+Mar  4 01:31:17 gw2-nc-cawildlife transaction1: Captured transactions: 
+Mar  4 01:31:17 gw2-nc-cawildlife transaction1:  O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:31:18 gw2-nc-cascade transaction0: Log time: Sun, 04 Mar 2018 01:31:15 GMT
+Mar  4 01:31:18 gw2-nc-cascade transaction0: Asset id: 6514
+Mar  4 01:31:18 gw2-nc-cascade transaction0: Captured transactions: 
+Mar  4 01:31:18 gw2-nc-cascade transaction0:  O365-1174,O365-1249,O365-1263,O365-1325,O365-43,O365-44,O365-445,O365-480,O365-507,O365-52,O365-53,O365-600,O365-934,O365-974
+Mar  4 01:31:18 gw2-nc-cascade transaction1: Log time: Sun, 04 Mar 2018 01:31:15 GMT
+Mar  4 01:31:18 gw2-nc-cascade transaction1: Asset id: 6514
+Mar  4 01:31:18 gw2-nc-cascade transaction1: Captured transactions: 
+Mar  4 01:31:18 gw2-nc-cascade transaction1:  O365-111,O365-1174,O365-1249,O365-1263,O365-1325,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-52,O365-53,O365-600,O365-934,O365-974
+Mar  4 01:31:17 gw2-nv-progentrix transaction0: Log time: Sun, 04 Mar 2018 01:31:17 GMT
+Mar  4 01:31:17 gw2-nv-progentrix transaction1: Log time: Sun, 04 Mar 2018 01:31:17 GMT
+Mar  4 01:31:19 gw5-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:18 GMT
+Mar  4 01:31:19 gw5-nc-umg transaction0: Asset id: 105
+Mar  4 01:31:19 gw5-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:19 gw5-nc-umg transaction0: Captured transactions: None
+Mar  4 01:31:19 gw5-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:18 GMT
+Mar  4 01:31:19 gw5-nc-umg transaction1: Asset id: 105
+Mar  4 01:31:19 gw5-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:19 gw5-nc-umg transaction1: Captured transactions: None
+Mar  4 01:31:19 gw2-nv-jennison transaction0: Log time: Sun, 04 Mar 2018 01:31:11 GMT
+Mar  4 01:31:19 gw2-nv-jennison transaction0: Asset id: 9777
+Mar  4 01:31:19 gw2-nv-jennison transaction0: Captured transactions: 
+Mar  4 01:31:19 gw2-nv-jennison transaction0:  SForce-1,SForce-2
+Mar  4 01:31:19 gw2-nv-jennison transaction1: Log time: Sun, 04 Mar 2018 01:31:11 GMT
+Mar  4 01:31:19 gw2-nv-jennison transaction1: Asset id: 9777
+Mar  4 01:31:19 gw2-nv-jennison transaction1: Captured transactions: 
+Mar  4 01:31:19 gw2-nv-jennison transaction1:  SForce-1,SForce-2
+Mar  3 17:31:19 gw2-nc-biva transaction0: Log time: Sun, 04 Mar 2018 01:31:15 GMT
+Mar  3 17:31:19 gw2-nc-biva transaction0: Asset id: 3886
+Mar  3 17:31:19 gw2-nc-biva transaction0: Captured transactions: 
+Mar  3 17:31:19 gw2-nc-biva transaction0:  O365-104,O365-111,O365-112,O365-1244,O365-1325,O365-1454,O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  3 17:31:19 gw2-nc-biva transaction0: Asset id: 3888
+Mar  3 17:31:19 gw2-nc-biva transaction0: Captured transactions: 
+Mar  3 17:31:19 gw2-nc-biva transaction0:  Google-1,Google-2,Google-3,Google-64
+Mar  3 17:31:19 gw2-nc-biva transaction1: Log time: Sun, 04 Mar 2018 01:31:15 GMT
+Mar  3 17:31:19 gw2-nc-biva transaction1: Asset id: 3886
+Mar  3 17:31:19 gw2-nc-biva transaction1: Captured transactions: 
+Mar  3 17:31:19 gw2-nc-biva transaction1:  O365-104,O365-111,O365-112,O365-1244,O365-1294,O365-1325,O365-1328,O365-273,O365-31,O365-43,O365-44,O365-445,O365-446,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  3 17:31:19 gw2-nc-biva transaction1: Asset id: 3888
+Mar  3 17:31:19 gw2-nc-biva transaction1: Captured transactions: 
+Mar  3 17:31:19 gw2-nc-biva transaction1:  Google-1,Google-2,Google-3,Google-378,Google-64
+Mar  4 01:31:20 gw2-ir-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:31:17 GMT
+Mar  4 01:31:20 gw2-ir-homeaway transaction0: Asset id: 811
+Mar  4 01:31:20 gw2-ir-homeaway transaction0: Captured transactions: 
+Mar  4 01:31:20 gw2-ir-homeaway transaction0:  SForce-1,SForce-1002,SForce-1284,SForce-1483,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69
+Mar  4 01:31:20 gw2-ir-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:31:17 GMT
+Mar  4 01:31:20 gw2-ir-homeaway transaction1: Asset id: 811
+Mar  4 01:31:20 gw2-ir-homeaway transaction1: Captured transactions: 
+Mar  4 01:31:20 gw2-ir-homeaway transaction1:  SForce-1,SForce-1002,SForce-1284,SForce-1483,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69
+Mar  4 01:31:21 gw2-ir-imperva transaction0: Log time: Sun, 04 Mar 2018 01:31:15 GMT
+Mar  4 01:31:21 gw2-ir-imperva transaction0: Asset id: 1722
+Mar  4 01:31:21 gw2-ir-imperva transaction0: Captured transactions: 
+Mar  4 01:31:21 gw2-ir-imperva transaction0:  SForce-1,SForce-1284,SForce-2,SForce-42,SForce-44
+Mar  4 01:31:21 gw2-ir-imperva transaction1: Log time: Sun, 04 Mar 2018 01:31:15 GMT
+Mar  4 01:31:21 gw2-ir-imperva transaction1: Asset id: 1722
+Mar  4 01:31:21 gw2-ir-imperva transaction1: Captured transactions: 
+Mar  4 01:31:21 gw2-ir-imperva transaction1:  SForce-1,SForce-1284,SForce-1466,SForce-2,SForce-42,SForce-44
+Mar  4 01:31:20 gw2-ir-sareb transaction0: Log time: Sun, 04 Mar 2018 01:31:19 GMT
+Mar  4 01:31:20 gw2-ir-sareb transaction1: Log time: Sun, 04 Mar 2018 01:31:19 GMT
+Mar  4 01:31:25 gw2-nc-medix transaction0: Log time: Sun, 04 Mar 2018 01:31:21 GMT
+Mar  4 01:31:25 gw2-nc-medix transaction1: Log time: Sun, 04 Mar 2018 01:31:21 GMT
+Mar  4 01:31:22 gw2-sp-localiza transaction0: Log time: Sun, 04 Mar 2018 01:31:16 GMT
+Mar  4 01:31:22 gw2-sp-localiza transaction1: Log time: Sun, 04 Mar 2018 01:31:16 GMT
+Mar  4 01:31:23 gw3-nc-cawater transaction0: Log time: Sun, 04 Mar 2018 01:31:22 GMT
+Mar  4 01:31:23 gw3-nc-cawater transaction1: Log time: Sun, 04 Mar 2018 01:31:22 GMT
+Mar  4 01:31:23 gw2-nc-fhlbsf transaction0: Log time: Sun, 04 Mar 2018 01:31:21 GMT
+Mar  4 01:31:23 gw2-nc-fhlbsf transaction1: Log time: Sun, 04 Mar 2018 01:31:21 GMT
+Mar  4 01:31:24 gw2-mu-nalg transaction0: Log time: Sun, 04 Mar 2018 01:31:17 GMT
+Mar  4 01:31:24 gw2-mu-nalg transaction1: Log time: Sun, 04 Mar 2018 01:31:17 GMT
+Mar  4 01:31:24 gw2-ir-umg-sp transaction0: Log time: Sun, 04 Mar 2018 01:31:15 GMT
+Mar  4 01:31:24 gw2-ir-umg-sp transaction1: Log time: Sun, 04 Mar 2018 01:31:15 GMT
+Mar  4 01:31:25 gw4-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:17 GMT
+Mar  4 01:31:25 gw4-nc-umg transaction0: Asset id: 105
+Mar  4 01:31:25 gw4-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:25 gw4-nc-umg transaction0: Captured transactions: None
+Mar  4 01:31:25 gw4-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:17 GMT
+Mar  4 01:31:25 gw4-nc-umg transaction1: Asset id: 105
+Mar  4 01:31:25 gw4-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:25 gw4-nc-umg transaction1: Captured transactions: None
+Mar  4 01:31:26 gw2-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:18 GMT
+Mar  4 01:31:26 gw2-ir-umg transaction0: Asset id: 105
+Mar  4 01:31:26 gw2-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:26 gw2-ir-umg transaction0: Captured transactions: None
+Mar  4 01:31:26 gw2-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:18 GMT
+Mar  4 01:31:26 gw2-ir-umg transaction1: Asset id: 105
+Mar  4 01:31:26 gw2-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:26 gw2-ir-umg transaction1: Captured transactions: None
+Mar  4 01:31:27 gw2-or-vista transaction0: Log time: Sun, 04 Mar 2018 01:31:19 GMT
+Mar  4 01:31:27 gw2-or-vista transaction1: Log time: Sun, 04 Mar 2018 01:31:19 GMT
+Mar  4 01:31:27 gw2-nc-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:24 GMT
+Mar  4 01:31:27 gw2-nc-umg transaction0: Asset id: 105
+Mar  4 01:31:27 gw2-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:27 gw2-nc-umg transaction0: Captured transactions: None
+Mar  4 01:31:27 gw2-nc-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:24 GMT
+Mar  4 01:31:27 gw2-nc-umg transaction1: Asset id: 105
+Mar  4 01:31:27 gw2-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:27 gw2-nc-umg transaction1: Captured transactions: None
+Mar  4 01:31:28 gw2-nc-barton transaction0: Log time: Sun, 04 Mar 2018 01:31:22 GMT
+Mar  4 01:31:28 gw2-nc-barton transaction1: Log time: Sun, 04 Mar 2018 01:31:22 GMT
+Mar  4 01:31:31 gw8-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:22 GMT
+Mar  4 01:31:31 gw8-ir-umg transaction0: Asset id: 105
+Mar  4 01:31:31 gw8-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:31 gw8-ir-umg transaction0: Captured transactions: None
+Mar  4 01:31:31 gw8-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:22 GMT
+Mar  4 01:31:31 gw8-ir-umg transaction1: Asset id: 105
+Mar  4 01:31:31 gw8-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:31 gw8-ir-umg transaction1: Captured transactions: None
+Mar  4 01:31:31 gw2-nv-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:31:23 GMT
+Mar  4 01:31:31 gw2-nv-vanguard transaction0: Asset id: 5513
+Mar  4 01:31:31 gw2-nv-vanguard transaction0: Captured transactions: 
+Mar  4 01:31:31 gw2-nv-vanguard transaction0:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:31:31 gw2-nv-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:31:23 GMT
+Mar  4 01:31:31 gw2-nv-vanguard transaction1: Asset id: 5513
+Mar  4 01:31:31 gw2-nv-vanguard transaction1: Captured transactions: 
+Mar  4 01:31:31 gw2-nv-vanguard transaction1:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:31:32 gw2-nc-nutanix transaction0: Log time: Sun, 04 Mar 2018 01:31:28 GMT
+Mar  4 01:31:32 gw2-nc-nutanix transaction1: Log time: Sun, 04 Mar 2018 01:31:28 GMT
+Mar  4 01:31:35 gw2-nv-verisk transaction0: Log time: Sun, 04 Mar 2018 01:31:30 GMT
+Mar  4 01:31:35 gw2-nv-verisk transaction0: Asset id: 18
+Mar  4 01:31:35 gw2-nv-verisk transaction0: Captured transactions: 
+Mar  4 01:31:35 gw2-nv-verisk transaction0:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:31:35 gw2-nv-verisk transaction1: Log time: Sun, 04 Mar 2018 01:31:30 GMT
+Mar  4 01:31:35 gw2-nv-verisk transaction1: Asset id: 18
+Mar  4 01:31:35 gw2-nv-verisk transaction1: Captured transactions: 
+Mar  4 01:31:35 gw2-nv-verisk transaction1:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:31:36 gw2-nc-cawater transaction0: Log time: Sun, 04 Mar 2018 01:31:27 GMT
+Mar  4 01:31:36 gw2-nc-cawater transaction1: Log time: Sun, 04 Mar 2018 01:31:27 GMT
+Mar  4 01:31:36 gw2-sy-sportsbet transaction0: Log time: Sun, 04 Mar 2018 01:31:27 GMT
+Mar  4 01:31:36 gw2-sy-sportsbet transaction1: Log time: Sun, 04 Mar 2018 01:31:27 GMT
+Mar  4 01:31:40 gw2-nc-imperva transaction0: Log time: Sun, 04 Mar 2018 01:31:36 GMT
+Mar  4 01:31:40 gw2-nc-imperva transaction0: Asset id: 1415
+Mar  4 01:31:40 gw2-nc-imperva transaction0: Captured transactions: 
+Mar  4 01:31:40 gw2-nc-imperva transaction0:  SForce-1,SForce-2,SForce-3,SForce-4
+Mar  4 01:31:40 gw2-nc-imperva transaction0: Asset id: 1722
+Mar  4 01:31:40 gw2-nc-imperva transaction0: Captured transactions: 
+Mar  4 01:31:40 gw2-nc-imperva transaction0:  SForce-1,SForce-11,SForce-123,SForce-1284,SForce-13,SForce-1466,SForce-1483,SForce-16,SForce-17,SForce-19,SForce-2,SForce-863
+Mar  4 01:31:40 gw2-nc-imperva transaction1: Log time: Sun, 04 Mar 2018 01:31:36 GMT
+Mar  4 01:31:40 gw2-nc-imperva transaction1: Asset id: 1722
+Mar  4 01:31:40 gw2-nc-imperva transaction1: Captured transactions: 
+Mar  4 01:31:40 gw2-nc-imperva transaction1:  SForce-1,SForce-123,SForce-1284,SForce-16,SForce-17,SForce-19,SForce-2,SForce-3,SForce-4
+Mar  4 01:31:42 gw3-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:37 GMT
+Mar  4 01:31:42 gw3-ir-umg transaction0: Asset id: 105
+Mar  4 01:31:42 gw3-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:42 gw3-ir-umg transaction0: Captured transactions: None
+Mar  4 01:31:42 gw3-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:37 GMT
+Mar  4 01:31:42 gw3-ir-umg transaction1: Asset id: 105
+Mar  4 01:31:42 gw3-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:42 gw3-ir-umg transaction1: Captured transactions: None
+Mar  4 01:31:41 gw4-nv-verisk transaction0: Log time: Sun, 04 Mar 2018 01:31:34 GMT
+Mar  4 01:31:41 gw4-nv-verisk transaction0: Asset id: 18
+Mar  4 01:31:41 gw4-nv-verisk transaction0: Captured transactions: 
+Mar  4 01:31:41 gw4-nv-verisk transaction0:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:31:41 gw4-nv-verisk transaction1: Log time: Sun, 04 Mar 2018 01:31:34 GMT
+Mar  4 01:31:41 gw4-nv-verisk transaction1: Asset id: 18
+Mar  4 01:31:41 gw4-nv-verisk transaction1: Captured transactions: 
+Mar  4 01:31:41 gw4-nv-verisk transaction1:  O365-1377,O365-17,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-61,O365-934
+Mar  4 01:31:43 gw5-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:38 GMT
+Mar  4 01:31:43 gw5-ir-umg transaction0: Asset id: 105
+Mar  4 01:31:43 gw5-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:43 gw5-ir-umg transaction0: Captured transactions: None
+Mar  4 01:31:43 gw5-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:38 GMT
+Mar  4 01:31:43 gw5-ir-umg transaction1: Asset id: 105
+Mar  4 01:31:43 gw5-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:43 gw5-ir-umg transaction1: Captured transactions: None
+Mar  4 01:31:47 gw7-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:44 GMT
+Mar  4 01:31:47 gw7-ir-umg transaction0: Asset id: 105
+Mar  4 01:31:47 gw7-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:47 gw7-ir-umg transaction0: Captured transactions: None
+Mar  4 01:31:47 gw7-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:44 GMT
+Mar  4 01:31:47 gw7-ir-umg transaction1: Asset id: 105
+Mar  4 01:31:47 gw7-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:47 gw7-ir-umg transaction1: Captured transactions: None
+Mar  4 01:31:49 gw4-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:31:40 GMT
+Mar  4 01:31:49 gw4-ir-umg transaction0: Asset id: 105
+Mar  4 01:31:49 gw4-ir-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:49 gw4-ir-umg transaction0: Captured transactions: None
+Mar  4 01:31:49 gw4-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:31:40 GMT
+Mar  4 01:31:49 gw4-ir-umg transaction1: Asset id: 105
+Mar  4 01:31:49 gw4-ir-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:31:49 gw4-ir-umg transaction1: Captured transactions: None
+Mar  4 01:31:58 gw1-sp-nfr50 transaction0: Log time: Sun, 04 Mar 2018 01:31:57 GMT
+Mar  4 01:31:58 gw1-sp-nfr50 transaction1: Log time: Sun, 04 Mar 2018 01:31:57 GMT
+Mar  4 01:31:52 gw3-nv-verisk transaction0: Log time: Sun, 04 Mar 2018 01:31:52 GMT
+Mar  4 01:31:52 gw3-nv-verisk transaction0: Asset id: 18
+Mar  4 01:31:52 gw3-nv-verisk transaction0: Captured transactions: 
+Mar  4 01:31:52 gw3-nv-verisk transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:31:52 gw3-nv-verisk transaction1: Log time: Sun, 04 Mar 2018 01:31:52 GMT
+Mar  4 01:31:52 gw3-nv-verisk transaction1: Asset id: 18
+Mar  4 01:31:52 gw3-nv-verisk transaction1: Captured transactions: 
+Mar  4 01:31:52 gw3-nv-verisk transaction1:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:35:29 gw1-ir-frc transaction0: Log time: Sun, 04 Mar 2018 01:35:27 GMT
+Mar  4 01:35:29 gw1-ir-frc transaction0: Asset id: 141
+Mar  4 01:35:29 gw1-ir-frc transaction0: Captured transactions: 
+Mar  4 01:35:29 gw1-ir-frc transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:35:29 gw1-ir-frc transaction1: Log time: Sun, 04 Mar 2018 01:35:27 GMT
+Mar  4 01:35:29 gw1-ir-frc transaction1: Asset id: 141
+Mar  4 01:35:29 gw1-ir-frc transaction1: Captured transactions: 
+Mar  4 01:35:29 gw1-ir-frc transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:36:16 gw1-nc-Automation3 transaction0: Log time: Sun, 04 Mar 2018 01:36:07 GMT
+Mar  4 01:36:16 gw1-nc-Automation3 transaction1: Log time: Sun, 04 Mar 2018 01:36:07 GMT
+Mar  4 01:36:38 gw1-nc-rpx transaction0: Log time: Sun, 04 Mar 2018 01:36:35 GMT
+Mar  4 01:36:38 gw1-nc-rpx transaction0: Asset id: 4525
+Mar  4 01:36:38 gw1-nc-rpx transaction0: Captured transactions: 
+Mar  4 01:36:38 gw1-nc-rpx transaction0:  O365-10,O365-1252,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:36:38 gw1-nc-rpx transaction1: Log time: Sun, 04 Mar 2018 01:36:35 GMT
+Mar  4 01:36:38 gw1-nc-rpx transaction1: Asset id: 4525
+Mar  4 01:36:38 gw1-nc-rpx transaction1: Captured transactions: 
+Mar  4 01:36:38 gw1-nc-rpx transaction1:  O365-1252,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:37:28 gw1-ir-metrobank-test transaction0: Log time: Sun, 04 Mar 2018 01:37:25 GMT
+Mar  4 01:37:28 gw1-ir-metrobank-test transaction1: Log time: Sun, 04 Mar 2018 01:37:25 GMT
+Mar  4 01:37:58 gw1-nc-nc19 transaction0: Log time: Sun, 04 Mar 2018 01:37:55 GMT
+Mar  4 01:37:58 gw1-nc-nc19 transaction1: Log time: Sun, 04 Mar 2018 01:37:55 GMT
+Mar  4 01:38:27 gw1-ir-metrobank transaction0: Log time: Sun, 04 Mar 2018 01:38:24 GMT
+Mar  4 01:38:27 gw1-ir-metrobank transaction0: Asset id: 789
+Mar  4 01:38:27 gw1-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:38:27 gw1-ir-metrobank transaction0: Captured transactions: None
+Mar  4 01:38:27 gw1-ir-metrobank transaction0: Asset id: 5901
+Mar  4 01:38:27 gw1-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:38:27 gw1-ir-metrobank transaction0:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-16,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-31,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-71,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74
+Mar  4 01:38:27 gw1-ir-metrobank transaction0: Asset id: 7552
+Mar  4 01:38:27 gw1-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:38:27 gw1-ir-metrobank transaction0:  Metro-CAO-1,Metro-CAO-3,Metro-CAO-4,Metro-CAO-5,Metro-CAO-6
+Mar  4 01:38:27 gw1-ir-metrobank transaction1: Log time: Sun, 04 Mar 2018 01:38:24 GMT
+Mar  4 01:38:27 gw1-ir-metrobank transaction1: Asset id: 789
+Mar  4 01:38:27 gw1-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:38:27 gw1-ir-metrobank transaction1: Captured transactions: None
+Mar  4 01:38:27 gw1-ir-metrobank transaction1: Asset id: 5901
+Mar  4 01:38:27 gw1-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:38:27 gw1-ir-metrobank transaction1:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-59,Metro-Retail-60,Metro-Retail-61,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-71,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-75,Metro-Retail-76
+Mar  4 01:38:27 gw1-ir-metrobank transaction1: Asset id: 7552
+Mar  4 01:38:27 gw1-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:38:27 gw1-ir-metrobank transaction1:  Metro-CAO-1,Metro-CAO-8,Metro-CAO-9
+Mar  4 01:38:35 gw3-ir-metrobank transaction0: Log time: Sun, 04 Mar 2018 01:38:25 GMT
+Mar  4 01:38:35 gw3-ir-metrobank transaction0: Asset id: 789
+Mar  4 01:38:35 gw3-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:38:35 gw3-ir-metrobank transaction0: Captured transactions: None
+Mar  4 01:38:35 gw3-ir-metrobank transaction0: Asset id: 5901
+Mar  4 01:38:35 gw3-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:38:35 gw3-ir-metrobank transaction0:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-27,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-56,Metro-Retail-57,Metro-Retail-59,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-75,Metro-Retail-76
+Mar  4 01:38:35 gw3-ir-metrobank transaction0: Asset id: 7552
+Mar  4 01:38:35 gw3-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:38:35 gw3-ir-metrobank transaction0:  Metro-CAO-1
+Mar  4 01:38:35 gw3-ir-metrobank transaction1: Log time: Sun, 04 Mar 2018 01:38:25 GMT
+Mar  4 01:38:35 gw3-ir-metrobank transaction1: Asset id: 789
+Mar  4 01:38:35 gw3-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:38:35 gw3-ir-metrobank transaction1: Captured transactions: None
+Mar  4 01:38:35 gw3-ir-metrobank transaction1: Asset id: 5901
+Mar  4 01:38:35 gw3-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:38:35 gw3-ir-metrobank transaction1:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-60,Metro-Retail-61,Metro-Retail-62,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-78,Metro-Retail-79
+Mar  4 01:38:35 gw3-ir-metrobank transaction1: Asset id: 7552
+Mar  4 01:38:35 gw3-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:38:35 gw3-ir-metrobank transaction1:  Metro-CAO-1
+Mar  4 01:38:46 gw1-nc-web-integration transaction0: Log time: Sun, 04 Mar 2018 01:38:36 GMT
+Mar  4 01:38:46 gw1-nc-web-integration transaction1: Log time: Sun, 04 Mar 2018 01:38:36 GMT
+Mar  4 01:39:36 gw4-ir-metrobank transaction0: Log time: Sun, 04 Mar 2018 01:39:27 GMT
+Mar  4 01:39:36 gw4-ir-metrobank transaction0: Asset id: 5901
+Mar  4 01:39:36 gw4-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:39:36 gw4-ir-metrobank transaction0:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-42,Metro-Retail-5,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-59,Metro-Retail-60,Metro-Retail-61,Metro-Retail-62,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74
+Mar  4 01:39:36 gw4-ir-metrobank transaction0: Asset id: 7552
+Mar  4 01:39:36 gw4-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:39:36 gw4-ir-metrobank transaction0:  Metro-CAO-1
+Mar  4 01:39:36 gw4-ir-metrobank transaction1: Log time: Sun, 04 Mar 2018 01:39:27 GMT
+Mar  4 01:39:36 gw4-ir-metrobank transaction1: Asset id: 5901
+Mar  4 01:39:36 gw4-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:39:36 gw4-ir-metrobank transaction1:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-58,Metro-Retail-59,Metro-Retail-60,Metro-Retail-61,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-78,Metro-Retail-79
+Mar  4 01:39:36 gw4-ir-metrobank transaction1: Asset id: 7552
+Mar  4 01:39:36 gw4-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:39:36 gw4-ir-metrobank transaction1:  Metro-CAO-1
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Log time: Sun, 04 Mar 2018 01:39:27 GMT
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Asset id: 789
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Captured transactions: None
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Asset id: 5901
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:39:35 gw2-ir-metrobank transaction0:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-24,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-56,Metro-Retail-57,Metro-Retail-59,Metro-Retail-63,Metro-Retail-64,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-78,Metro-Retail-79
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Asset id: 7552
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:39:35 gw2-ir-metrobank transaction0: Captured transactions: 
+Mar  4 01:39:35 gw2-ir-metrobank transaction0:  Metro-CAO-1,Metro-CAO-2,Metro-CAO-3,Metro-CAO-4,Metro-CAO-8,Metro-CAO-9
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Log time: Sun, 04 Mar 2018 01:39:27 GMT
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Asset id: 789
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Captured transactions: None
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Asset id: 5901
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:39:35 gw2-ir-metrobank transaction1:  Metro-Retail-1,Metro-Retail-15,Metro-Retail-2,Metro-Retail-28,Metro-Retail-3,Metro-Retail-33,Metro-Retail-4,Metro-Retail-41,Metro-Retail-42,Metro-Retail-5,Metro-Retail-55,Metro-Retail-56,Metro-Retail-57,Metro-Retail-60,Metro-Retail-61,Metro-Retail-63,Metro-Retail-64,Metro-Retail-65,Metro-Retail-66,Metro-Retail-67,Metro-Retail-68,Metro-Retail-69,Metro-Retail-70,Metro-Retail-72,Metro-Retail-73,Metro-Retail-74,Metro-Retail-75,Metro-Retail-76
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Asset id: 7552
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 01:39:35 gw2-ir-metrobank transaction1: Captured transactions: 
+Mar  4 01:39:35 gw2-ir-metrobank transaction1:  Metro-CAO-1,Metro-CAO-2,Metro-CAO-3,Metro-CAO-4,Metro-CAO-8,Metro-CAO-9
+Mar  4 01:39:40 gw2-ir-frc transaction0: Log time: Sun, 04 Mar 2018 01:39:30 GMT
+Mar  4 01:39:40 gw2-ir-frc transaction0: Asset id: 141
+Mar  4 01:39:40 gw2-ir-frc transaction0: Captured transactions: 
+Mar  4 01:39:40 gw2-ir-frc transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:39:40 gw2-ir-frc transaction1: Log time: Sun, 04 Mar 2018 01:39:30 GMT
+Mar  4 01:39:40 gw2-ir-frc transaction1: Asset id: 141
+Mar  4 01:39:40 gw2-ir-frc transaction1: Captured transactions: 
+Mar  4 01:39:40 gw2-ir-frc transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:41:24 gw2-nv-watermark transaction0: Log time: Sun, 04 Mar 2018 01:41:16 GMT
+Mar  4 01:41:24 gw2-nv-watermark transaction0: Asset id: 283
+Mar  4 01:41:24 gw2-nv-watermark transaction0: Captured transactions: 
+Mar  4 01:41:24 gw2-nv-watermark transaction0:  O365-1031,O365-1249,O365-1325,O365-14,O365-140,O365-273,O365-43,O365-44,O365-445,O365-480,O365-507,O365-508,O365-51,O365-510,O365-511,O365-52,O365-53,O365-542,O365-545,O365-600,O365-74,O365-934,O365-973,O365-974
+Mar  4 01:41:24 gw2-nv-watermark transaction1: Log time: Sun, 04 Mar 2018 01:41:16 GMT
+Mar  4 01:41:24 gw2-nv-watermark transaction1: Asset id: 283
+Mar  4 01:41:24 gw2-nv-watermark transaction1: Captured transactions: 
+Mar  4 01:41:24 gw2-nv-watermark transaction1:  O365-1249,O365-1325,O365-14,O365-140,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-510,O365-511,O365-52,O365-53,O365-542,O365-545,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:42:20 gw1-nv-watermark transaction0: Log time: Sun, 04 Mar 2018 01:42:15 GMT
+Mar  4 01:42:20 gw1-nv-watermark transaction0: Asset id: 283
+Mar  4 01:42:20 gw1-nv-watermark transaction0: Captured transactions: 
+Mar  4 01:42:20 gw1-nv-watermark transaction0:  O365-1031,O365-1249,O365-1325,O365-14,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-508,O365-51,O365-510,O365-52,O365-53,O365-542,O365-545,O365-600,O365-934,O365-973,O365-974,O365-992
+Mar  4 01:42:20 gw1-nv-watermark transaction1: Log time: Sun, 04 Mar 2018 01:42:15 GMT
+Mar  4 01:42:20 gw1-nv-watermark transaction1: Asset id: 283
+Mar  4 01:42:20 gw1-nv-watermark transaction1: Captured transactions: 
+Mar  4 01:42:20 gw1-nv-watermark transaction1:  O365-1249,O365-1325,O365-14,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-508,O365-51,O365-510,O365-52,O365-53,O365-542,O365-545,O365-600,O365-67,O365-934,O365-973,O365-974
+Mar  4 01:43:16 gw1-nv-nfr1 transaction0: Log time: Sun, 04 Mar 2018 01:43:10 GMT
+Mar  4 01:43:16 gw1-nv-nfr1 transaction1: Log time: Sun, 04 Mar 2018 01:43:10 GMT
+Mar  4 01:45:12 gw2-sy-adani transaction0: Log time: Sun, 04 Mar 2018 01:45:03 GMT
+Mar  4 01:45:12 gw2-sy-adani transaction0: Asset id: 9501
+Mar  4 01:45:12 gw2-sy-adani transaction0: Captured transactions: 
+Mar  4 01:45:12 gw2-sy-adani transaction0:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:45:12 gw2-sy-adani transaction1: Log time: Sun, 04 Mar 2018 01:45:04 GMT
+Mar  4 01:45:12 gw2-sy-adani transaction1: Asset id: 9501
+Mar  4 01:45:12 gw2-sy-adani transaction1: Captured transactions: 
+Mar  4 01:45:12 gw2-sy-adani transaction1:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:45:32 gw1-or-ntta transaction0: Log time: Sun, 04 Mar 2018 01:45:30 GMT
+Mar  4 01:45:32 gw1-or-ntta transaction0: Asset id: 51
+Mar  4 01:45:32 gw1-or-ntta transaction0: Captured transactions: 
+Mar  4 01:45:32 gw1-or-ntta transaction0:  O365-1294,O365-1325,O365-1328,O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:45:32 gw1-or-ntta transaction0: Asset id: 1451
+Mar  4 01:45:32 gw1-or-ntta transaction0: Captured transactions: 
+Mar  4 01:45:32 gw1-or-ntta transaction0:  Servi-1
+Mar  4 01:45:32 gw1-or-ntta transaction1: Log time: Sun, 04 Mar 2018 01:45:30 GMT
+Mar  4 01:45:32 gw1-or-ntta transaction1: Asset id: 51
+Mar  4 01:45:32 gw1-or-ntta transaction1: Captured transactions: 
+Mar  4 01:45:32 gw1-or-ntta transaction1:  O365-1294,O365-1325,O365-1328,O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:45:32 gw1-or-ntta transaction1: Asset id: 1451
+Mar  4 01:45:32 gw1-or-ntta transaction1: Captured transactions: 
+Mar  4 01:45:32 gw1-or-ntta transaction1:  Servi-1,Servi-46
+Mar  4 01:45:33 gw1-nv-nfr37 transaction0: Log time: Sun, 04 Mar 2018 01:45:25 GMT
+Mar  4 01:45:33 gw1-nv-nfr37 transaction1: Log time: Sun, 04 Mar 2018 01:45:25 GMT
+Mar  4 01:45:48 gw1-fr-fr transaction0: Log time: Sun, 04 Mar 2018 01:45:44 GMT
+Mar  4 01:45:48 gw1-fr-fr transaction1: Log time: Sun, 04 Mar 2018 01:45:45 GMT
+Mar  4 01:46:19 gw2-nv-versartis transaction0: Log time: Sun, 04 Mar 2018 01:46:11 GMT
+Mar  4 01:46:19 gw2-nv-versartis transaction1: Log time: Sun, 04 Mar 2018 01:46:11 GMT
+Mar  4 01:46:27 gw3-nv-watermark transaction0: Log time: Sun, 04 Mar 2018 01:46:22 GMT
+Mar  4 01:46:27 gw3-nv-watermark transaction0: Asset id: 283
+Mar  4 01:46:27 gw3-nv-watermark transaction0: Captured transactions: 
+Mar  4 01:46:27 gw3-nv-watermark transaction0:  O365-1031,O365-104,O365-111,O365-1244,O365-1249,O365-1325,O365-1328,O365-1329,O365-14,O365-140,O365-193,O365-273,O365-31,O365-43,O365-44,O365-445,O365-448,O365-480,O365-507,O365-508,O365-51,O365-510,O365-511,O365-52,O365-53,O365-542,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:46:27 gw3-nv-watermark transaction1: Log time: Sun, 04 Mar 2018 01:46:22 GMT
+Mar  4 01:46:27 gw3-nv-watermark transaction1: Asset id: 283
+Mar  4 01:46:27 gw3-nv-watermark transaction1: Captured transactions: 
+Mar  4 01:46:27 gw3-nv-watermark transaction1:  O365-1249,O365-1325,O365-1328,O365-1329,O365-14,O365-140,O365-193,O365-273,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-508,O365-51,O365-510,O365-511,O365-52,O365-53,O365-542,O365-545,O365-600,O365-67,O365-934,O365-973,O365-974
+Mar  4 01:48:15 gw1-nv-cyberark transaction0: Log time: Sun, 04 Mar 2018 01:48:06 GMT
+Mar  4 01:48:15 gw1-nv-cyberark transaction1: Log time: Sun, 04 Mar 2018 01:48:06 GMT
+Mar  4 01:48:16 gw1-ir-cyberark transaction0: Log time: Sun, 04 Mar 2018 01:48:07 GMT
+Mar  4 01:48:16 gw1-ir-cyberark transaction0: Asset id: 52
+Mar  4 01:48:16 gw1-ir-cyberark transaction0: Captured transactions: 
+Mar  4 01:48:16 gw1-ir-cyberark transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:48:16 gw1-ir-cyberark transaction1: Log time: Sun, 04 Mar 2018 01:48:07 GMT
+Mar  4 01:48:16 gw1-ir-cyberark transaction1: Asset id: 52
+Mar  4 01:48:16 gw1-ir-cyberark transaction1: Captured transactions: 
+Mar  4 01:48:16 gw1-ir-cyberark transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:49:14 gw1-sy-adani transaction0: Log time: Sun, 04 Mar 2018 01:49:06 GMT
+Mar  4 01:49:14 gw1-sy-adani transaction0: Asset id: 9501
+Mar  4 01:49:14 gw1-sy-adani transaction0: Captured transactions: 
+Mar  4 01:49:14 gw1-sy-adani transaction0:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:49:14 gw1-sy-adani transaction1: Log time: Sun, 04 Mar 2018 01:49:06 GMT
+Mar  4 01:49:14 gw1-sy-adani transaction1: Asset id: 9501
+Mar  4 01:49:14 gw1-sy-adani transaction1: Captured transactions: 
+Mar  4 01:49:14 gw1-sy-adani transaction1:  O365-14,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:49:23 gw2-nc-rpx transaction0: Log time: Sun, 04 Mar 2018 01:49:15 GMT
+Mar  4 01:49:23 gw2-nc-rpx transaction0: Asset id: 4525
+Mar  4 01:49:23 gw2-nc-rpx transaction0: Captured transactions: 
+Mar  4 01:49:23 gw2-nc-rpx transaction0:  O365-1252,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:49:23 gw2-nc-rpx transaction1: Log time: Sun, 04 Mar 2018 01:49:15 GMT
+Mar  4 01:49:23 gw2-nc-rpx transaction1: Asset id: 4525
+Mar  4 01:49:23 gw2-nc-rpx transaction1: Captured transactions: 
+Mar  4 01:49:23 gw2-nc-rpx transaction1:  O365-10,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:49:44 gw1-ir-web-integration transaction0: Log time: Sun, 04 Mar 2018 01:49:41 GMT
+Mar  4 01:49:44 gw1-ir-web-integration transaction1: Log time: Sun, 04 Mar 2018 01:49:41 GMT
+Mar  4 01:49:49 gw1-nc-Automation2 transaction0: Log time: Sun, 04 Mar 2018 01:49:42 GMT
+Mar  4 01:49:49 gw1-nc-Automation2 transaction1: Log time: Sun, 04 Mar 2018 01:49:42 GMT
+Mar  4 01:49:49 gw1-nv-customer3 transaction0: Log time: Sun, 04 Mar 2018 01:49:42 GMT
+Mar  4 01:49:49 gw1-nv-customer3 transaction1: Log time: Sun, 04 Mar 2018 01:49:42 GMT
+Mar  4 01:49:50 gw1-or-customer4 transaction0: Log time: Sun, 04 Mar 2018 01:49:45 GMT
+Mar  4 01:49:50 gw1-or-customer4 transaction1: Log time: Sun, 04 Mar 2018 01:49:45 GMT
+Mar  4 01:49:51 gw1-nv-skyokta transaction0: Log time: Sun, 04 Mar 2018 01:49:42 GMT
+Mar  4 01:49:51 gw1-nv-skyokta transaction1: Log time: Sun, 04 Mar 2018 01:49:42 GMT
+Mar  4 01:49:52 gw1-ir-customer1 transaction0: Log time: Sun, 04 Mar 2018 01:49:44 GMT
+Mar  4 01:49:52 gw1-ir-customer1 transaction1: Log time: Sun, 04 Mar 2018 01:49:44 GMT
+Mar  4 01:49:53 gw1-ir-customer2 transaction0: Log time: Sun, 04 Mar 2018 01:49:43 GMT
+Mar  4 01:49:53 gw1-ir-customer2 transaction1: Log time: Sun, 04 Mar 2018 01:49:43 GMT
+Mar  4 01:51:17 gw1-mu-rategain transaction0: Log time: Sun, 04 Mar 2018 01:51:07 GMT
+Mar  4 01:51:17 gw1-mu-rategain transaction0: Asset id: 7143
+Mar  4 01:51:17 gw1-mu-rategain transaction0: Captured transactions: 
+Mar  4 01:51:17 gw1-mu-rategain transaction0:  O365-1325,O365-20,O365-273,O365-31,O365-43,O365-44,O365-445,O365-474,O365-507,O365-52,O365-53,O365-557,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:51:17 gw1-mu-rategain transaction1: Log time: Sun, 04 Mar 2018 01:51:07 GMT
+Mar  4 01:51:17 gw1-mu-rategain transaction1: Asset id: 7143
+Mar  4 01:51:17 gw1-mu-rategain transaction1: Captured transactions: 
+Mar  4 01:51:17 gw1-mu-rategain transaction1:  O365-1294,O365-1325,O365-1328,O365-20,O365-273,O365-31,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-557,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:51:17 gw1-nv-nv17 transaction0: Log time: Sun, 04 Mar 2018 01:51:11 GMT
+Mar  4 01:51:17 gw1-nv-nv17 transaction1: Log time: Sun, 04 Mar 2018 01:51:11 GMT
+Mar  4 01:51:29 gw1-ir-metroperf transaction0: Log time: Sun, 04 Mar 2018 01:51:27 GMT
+Mar  4 01:51:29 gw1-ir-metroperf transaction1: Log time: Sun, 04 Mar 2018 01:51:27 GMT
+Mar  4 01:52:04 gw2-ir-customer1 transaction0: Log time: Sun, 04 Mar 2018 01:51:59 GMT
+Mar  4 01:52:04 gw2-ir-customer1 transaction1: Log time: Sun, 04 Mar 2018 01:51:59 GMT
+Mar  4 01:52:11 gw2-ir-web-integration transaction0: Log time: Sun, 04 Mar 2018 01:52:04 GMT
+Mar  4 01:52:11 gw2-ir-web-integration transaction1: Log time: Sun, 04 Mar 2018 01:52:04 GMT
+Mar  4 01:52:24 gw2-mu-rategain transaction0: Log time: Sun, 04 Mar 2018 01:52:23 GMT
+Mar  4 01:52:24 gw2-mu-rategain transaction1: Log time: Sun, 04 Mar 2018 01:52:23 GMT
+Mar  4 01:52:35 gw6-ir-umg transaction0: Log time: Sun, 04 Mar 2018 01:52:27 GMT
+Mar  4 01:52:35 gw6-ir-umg transaction1: Log time: Sun, 04 Mar 2018 01:52:27 GMT
+Mar  4 01:53:06 gw1-or-zions transaction0: Log time: Sun, 04 Mar 2018 01:53:04 GMT
+Mar  4 01:53:06 gw1-or-zions transaction1: Log time: Sun, 04 Mar 2018 01:53:04 GMT
+Mar  4 01:53:08 gw1-ir-sundaysky transaction0: Log time: Sun, 04 Mar 2018 01:53:05 GMT
+Mar  4 01:53:08 gw1-ir-sundaysky transaction1: Log time: Sun, 04 Mar 2018 01:53:05 GMT
+Mar  4 01:53:25 gw1-nc-sundaysky transaction0: Log time: Sun, 04 Mar 2018 01:53:23 GMT
+Mar  4 01:53:25 gw1-nc-sundaysky transaction1: Log time: Sun, 04 Mar 2018 01:53:23 GMT
+Mar  4 01:54:08 gw1-ir-ir12 transaction0: Log time: Sun, 04 Mar 2018 01:54:04 GMT
+Mar  4 01:54:08 gw1-ir-ir12 transaction1: Log time: Sun, 04 Mar 2018 01:54:04 GMT
+Mar  4 01:54:11 gw1-nv-qmassociates transaction0: Log time: Sun, 04 Mar 2018 01:54:11 GMT
+Mar  4 01:54:11 gw1-nv-qmassociates transaction1: Log time: Sun, 04 Mar 2018 01:54:11 GMT
+Mar  4 01:55:14 gw2-ir-metroperf transaction0: Log time: Sun, 04 Mar 2018 01:55:07 GMT
+Mar  4 01:55:14 gw2-ir-metroperf transaction1: Log time: Sun, 04 Mar 2018 01:55:07 GMT
+Mar  4 01:56:12 gw1-ir-esc transaction0: Log time: Sun, 04 Mar 2018 01:56:07 GMT
+Mar  4 01:56:12 gw1-ir-esc transaction1: Log time: Sun, 04 Mar 2018 01:56:07 GMT
+Mar  4 01:57:31 gw2-or-zions transaction0: Log time: Sun, 04 Mar 2018 01:57:30 GMT
+Mar  4 01:57:31 gw2-or-zions transaction1: Log time: Sun, 04 Mar 2018 01:57:30 GMT
+Mar  4 01:58:24 gw2-nv-qmassociates transaction0: Log time: Sun, 04 Mar 2018 01:58:15 GMT
+Mar  4 01:58:24 gw2-nv-qmassociates transaction1: Log time: Sun, 04 Mar 2018 01:58:15 GMT
+Mar  4 01:58:47 gw1-nv-nv12 transaction0: Log time: Sun, 04 Mar 2018 01:58:43 GMT
+Mar  4 01:58:47 gw1-nv-nv12 transaction1: Log time: Sun, 04 Mar 2018 01:58:43 GMT
+Mar  4 01:58:48 gw1-nv-nv19 transaction0: Log time: Sun, 04 Mar 2018 01:58:47 GMT
+Mar  4 01:58:48 gw1-nv-nv19 transaction1: Log time: Sun, 04 Mar 2018 01:58:47 GMT
+Mar  4 01:58:50 gw1-sin-nfr16 transaction0: Log time: Sun, 04 Mar 2018 01:58:47 GMT
+Mar  4 01:58:50 gw1-sin-nfr16 transaction1: Log time: Sun, 04 Mar 2018 01:58:47 GMT
+Mar  4 01:58:50 gw1-nv-nfr12 transaction0: Log time: Sun, 04 Mar 2018 01:58:48 GMT
+Mar  4 01:58:50 gw1-nv-nfr12 transaction1: Log time: Sun, 04 Mar 2018 01:58:48 GMT
+Mar  4 01:58:52 gw1-ca-ca2 transaction0: Log time: Sun, 04 Mar 2018 01:58:50 GMT
+Mar  4 01:58:52 gw1-ca-ca2 transaction1: Log time: Sun, 04 Mar 2018 01:58:50 GMT
+Mar  4 01:58:53 gw1-fr-nfr15 transaction0: Log time: Sun, 04 Mar 2018 01:58:46 GMT
+Mar  4 01:58:53 gw1-fr-nfr15 transaction1: Log time: Sun, 04 Mar 2018 01:58:46 GMT
+Mar  4 01:58:52 gw1-ir-ir7 transaction0: Log time: Sun, 04 Mar 2018 01:58:52 GMT
+Mar  4 01:58:52 gw1-ir-ir7 transaction1: Log time: Sun, 04 Mar 2018 01:58:52 GMT
+Mar  4 01:58:53 gw1-ca-ca1 transaction0: Log time: Sun, 04 Mar 2018 01:58:49 GMT
+Mar  4 01:58:53 gw1-ca-ca1 transaction1: Log time: Sun, 04 Mar 2018 01:58:49 GMT
+Mar  4 01:58:55 gw1-ir-nfr7 transaction0: Log time: Sun, 04 Mar 2018 01:58:47 GMT
+Mar  4 01:58:55 gw1-ir-nfr7 transaction1: Log time: Sun, 04 Mar 2018 01:58:47 GMT
+Mar  4 01:58:54 gw1-ir-ir11 transaction0: Log time: Sun, 04 Mar 2018 01:58:52 GMT
+Mar  4 01:58:54 gw1-ir-ir11 transaction1: Log time: Sun, 04 Mar 2018 01:58:52 GMT
+Mar  4 01:58:55 gw1-sin-nfr54 transaction0: Log time: Sun, 04 Mar 2018 01:58:50 GMT
+Mar  4 01:58:55 gw1-sin-nfr54 transaction1: Log time: Sun, 04 Mar 2018 01:58:50 GMT
+Mar  4 01:58:56 gw1-ir-ir3 transaction0: Log time: Sun, 04 Mar 2018 01:58:46 GMT
+Mar  4 01:58:56 gw1-ir-ir3 transaction1: Log time: Sun, 04 Mar 2018 01:58:46 GMT
+Mar  4 01:58:55 gw1-nc-nutanix transaction0: Log time: Sun, 04 Mar 2018 01:58:52 GMT
+Mar  4 01:58:55 gw1-nc-nutanix transaction1: Log time: Sun, 04 Mar 2018 01:58:52 GMT
+Mar  4 01:58:56 gw1-ir-nv8 transaction0: Log time: Sun, 04 Mar 2018 01:58:54 GMT
+Mar  4 01:58:56 gw1-ir-nv8 transaction1: Log time: Sun, 04 Mar 2018 01:58:54 GMT
+Mar  4 01:58:57 gw1-sin-nfr42 transaction0: Log time: Sun, 04 Mar 2018 01:58:50 GMT
+Mar  4 01:58:57 gw1-sin-nfr42 transaction1: Log time: Sun, 04 Mar 2018 01:58:50 GMT
+Mar  4 01:58:57 gw1-sp-nfr36 transaction0: Log time: Sun, 04 Mar 2018 01:58:51 GMT
+Mar  4 01:58:57 gw1-sp-nfr36 transaction1: Log time: Sun, 04 Mar 2018 01:58:51 GMT
+Mar  4 01:58:58 gw1-or-fpps transaction0: Log time: Sun, 04 Mar 2018 01:58:54 GMT
+Mar  4 01:58:58 gw1-or-fpps transaction1: Log time: Sun, 04 Mar 2018 01:58:54 GMT
+Mar  4 01:59:01 gw1-fr-nfr41 transaction0: Log time: Sun, 04 Mar 2018 01:58:59 GMT
+Mar  4 01:59:01 gw1-fr-nfr41 transaction1: Log time: Sun, 04 Mar 2018 01:58:59 GMT
+Mar  4 01:59:03 gw1-mu-mu4 transaction0: Log time: Sun, 04 Mar 2018 01:58:59 GMT
+Mar  4 01:59:03 gw1-mu-mu4 transaction1: Log time: Sun, 04 Mar 2018 01:58:59 GMT
+Mar  4 01:59:02 gw1-nv-nv18 transaction0: Log time: Sun, 04 Mar 2018 01:59:01 GMT
+Mar  4 01:59:02 gw1-nv-nv18 transaction1: Log time: Sun, 04 Mar 2018 01:59:01 GMT
+Mar  4 01:59:04 gw1-nc-medix transaction0: Log time: Sun, 04 Mar 2018 01:58:57 GMT
+Mar  4 01:59:04 gw1-nc-medix transaction0: Asset id: 7005
+Mar  4 01:59:04 gw1-nc-medix transaction0: Captured transactions: 
+Mar  4 01:59:04 gw1-nc-medix transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:59:04 gw1-nc-medix transaction1: Log time: Sun, 04 Mar 2018 01:58:57 GMT
+Mar  4 01:59:04 gw1-nc-medix transaction1: Asset id: 7005
+Mar  4 01:59:04 gw1-nc-medix transaction1: Captured transactions: 
+Mar  4 01:59:04 gw1-nc-medix transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:59:04 gw1-sin-nfr22 transaction0: Log time: Sun, 04 Mar 2018 01:59:02 GMT
+Mar  4 01:59:04 gw1-sin-nfr22 transaction1: Log time: Sun, 04 Mar 2018 01:59:02 GMT
+Mar  4 01:59:04 gw1-nc-sos-prod transaction0: Log time: Sun, 04 Mar 2018 01:59:03 GMT
+Mar  4 01:59:04 gw1-nc-sos-prod transaction0: Asset id: 323
+Mar  4 01:59:04 gw1-nc-sos-prod transaction0: Captured transactions: 
+Mar  4 01:59:04 gw1-nc-sos-prod transaction0:  Skyfence-1,Skyfence-166,Skyfence-3,Skyfence-4,Skyfence-45,Skyfence-9
+Mar  4 01:59:04 gw1-nc-sos-prod transaction1: Log time: Sun, 04 Mar 2018 01:59:03 GMT
+Mar  4 01:59:04 gw1-nc-sos-prod transaction1: Asset id: 323
+Mar  4 01:59:04 gw1-nc-sos-prod transaction1: Captured transactions: 
+Mar  4 01:59:04 gw1-nc-sos-prod transaction1:  Skyfence-1,Skyfence-166,Skyfence-3,Skyfence-4,Skyfence-43,Skyfence-45
+Mar  4 01:59:05 gw1-nc-nfr43 transaction0: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:05 gw1-nc-nfr43 transaction1: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:06 gw1-nc-nc7 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:06 gw1-nc-nc7 transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:06 gw1-mu-mu1 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:06 gw1-mu-mu1 transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:06 gw1-nc-sup1 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:06 gw1-nc-sup1 transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:06 gw1-nc-nc9 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:06 gw1-nc-nc9 transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:06 gw1-fr-nfr29 transaction0: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:06 gw1-fr-nfr29 transaction1: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:07 gw1-nc-nc21 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:07 gw1-nc-nc21 transaction1: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:08 gw1-ir-sup3 transaction0: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:08 gw1-ir-sup3 transaction1: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:07 gw1-mu-nfr55 transaction0: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:07 gw1-mu-nfr55 transaction0: Asset id: 9366
+Mar  4 01:59:07 gw1-mu-nfr55 transaction0: Captured transactions: 
+Mar  4 01:59:07 gw1-mu-nfr55 transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:59:07 gw1-mu-nfr55 transaction1: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:07 gw1-mu-nfr55 transaction1: Asset id: 9366
+Mar  4 01:59:07 gw1-mu-nfr55 transaction1: Captured transactions: 
+Mar  4 01:59:07 gw1-mu-nfr55 transaction1:  O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:59:08 gw1-or-nfr44 transaction0: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:08 gw1-or-nfr44 transaction1: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:09 gw1-nc-nfr18 transaction0: Log time: Sun, 04 Mar 2018 01:58:59 GMT
+Mar  4 01:59:09 gw1-nc-nfr18 transaction1: Log time: Sun, 04 Mar 2018 01:58:59 GMT
+Mar  4 01:59:08 gw1-nc-nfr33 transaction0: Log time: Sun, 04 Mar 2018 01:59:03 GMT
+Mar  4 01:59:08 gw1-nc-nfr33 transaction1: Log time: Sun, 04 Mar 2018 01:59:03 GMT
+Mar  4 01:59:09 gw1-fr-nfr4 transaction0: Log time: Sun, 04 Mar 2018 01:59:01 GMT
+Mar  4 01:59:09 gw1-fr-nfr4 transaction1: Log time: Sun, 04 Mar 2018 01:59:01 GMT
+Mar  4 01:59:09 gw1-nv-nv7 transaction0: Log time: Sun, 04 Mar 2018 01:59:07 GMT
+Mar  4 01:59:09 gw1-nv-nv7 transaction1: Log time: Sun, 04 Mar 2018 01:59:07 GMT
+Mar  4 01:59:09 gw1-sy-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:09 gw1-sy-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:10 gw1-ir-ir2 transaction0: Log time: Sun, 04 Mar 2018 01:59:02 GMT
+Mar  4 01:59:10 gw1-ir-ir2 transaction1: Log time: Sun, 04 Mar 2018 01:59:02 GMT
+Mar  4 01:59:10 gw1-nc-my-qa transaction0: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:10 gw1-nc-my-qa transaction1: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:10 gw1-sp-localiza transaction0: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:10 gw1-sp-localiza transaction1: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:10 gw1-fr-nfr27 transaction0: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:10 gw1-fr-nfr27 transaction0: Asset id: 6740
+Mar  4 01:59:10 gw1-fr-nfr27 transaction0: Captured transactions: 
+Mar  4 01:59:10 gw1-fr-nfr27 transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973
+Mar  4 01:59:10 gw1-fr-nfr27 transaction1: Log time: Sun, 04 Mar 2018 01:59:04 GMT
+Mar  4 01:59:10 gw1-fr-nfr27 transaction1: Asset id: 6740
+Mar  4 01:59:10 gw1-fr-nfr27 transaction1: Captured transactions: 
+Mar  4 01:59:10 gw1-fr-nfr27 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973
+Mar  4 01:59:09 gw1-nv-nv10 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:09 gw1-nv-nv10 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:10 gw1-fr-nfr20 transaction0: Log time: Sun, 04 Mar 2018 01:59:02 GMT
+Mar  4 01:59:10 gw1-fr-nfr20 transaction1: Log time: Sun, 04 Mar 2018 01:59:02 GMT
+Mar  3 17:59:10 gw1-nc-biva transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  3 17:59:10 gw1-nc-biva transaction0: Asset id: 3886
+Mar  3 17:59:10 gw1-nc-biva transaction0: Captured transactions: 
+Mar  3 17:59:10 gw1-nc-biva transaction0:  O365-1249,O365-1325,O365-31,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-542,O365-600,O365-934,O365-973,O365-974
+Mar  3 17:59:10 gw1-nc-biva transaction0: Asset id: 3888
+Mar  3 17:59:10 gw1-nc-biva transaction0: Captured transactions: 
+Mar  3 17:59:10 gw1-nc-biva transaction0:  Google-1,Google-2,Google-3,Google-378,Google-64,Google-65
+Mar  3 17:59:10 gw1-nc-biva transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  3 17:59:10 gw1-nc-biva transaction1: Asset id: 3886
+Mar  3 17:59:10 gw1-nc-biva transaction1: Captured transactions: 
+Mar  3 17:59:10 gw1-nc-biva transaction1:  O365-1249,O365-1325,O365-273,O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-52,O365-53,O365-542,O365-600,O365-934,O365-973,O365-974
+Mar  3 17:59:10 gw1-nc-biva transaction1: Asset id: 3888
+Mar  3 17:59:10 gw1-nc-biva transaction1: Captured transactions: 
+Mar  3 17:59:10 gw1-nc-biva transaction1:  Google-1,Google-2,Google-3,Google-378,Google-64,Google-65
+Mar  4 01:59:10 gw1-or-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:10 gw1-or-homeaway transaction0: Asset id: 811
+Mar  4 01:59:10 gw1-or-homeaway transaction0: Captured transactions: 
+Mar  4 01:59:10 gw1-or-homeaway transaction0:  SForce-1,SForce-1002,SForce-11,SForce-12,SForce-1284,SForce-13,SForce-1372,SForce-14,SForce-1466,SForce-1483,SForce-15,SForce-1520,SForce-16,SForce-17,SForce-19,SForce-2,SForce-23,SForce-3,SForce-4,SForce-42,SForce-44,SForce-69,SForce-72,SForce-73,SForce-861,SForce-862,SForce-863,SForce-87
+Mar  4 01:59:10 gw1-or-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:10 gw1-or-homeaway transaction1: Asset id: 811
+Mar  4 01:59:10 gw1-or-homeaway transaction1: Captured transactions: 
+Mar  4 01:59:10 gw1-or-homeaway transaction1:  SForce-1,SForce-1002,SForce-11,SForce-1284,SForce-13,SForce-1372,SForce-14,SForce-1466,SForce-1483,SForce-1494,SForce-15,SForce-1520,SForce-16,SForce-17,SForce-19,SForce-2,SForce-23,SForce-3,SForce-4,SForce-42,SForce-44,SForce-69,SForce-70,SForce-72,SForce-73,SForce-861,SForce-862,SForce-863,SForce-87
+Mar  4 01:59:10 gw1-ir-nfr40 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:10 gw1-ir-nfr40 transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:10 gw1-ir-ir1 transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:10 gw1-ir-ir1 transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:11 gw1-ir-fpre3 transaction0: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:11 gw1-ir-fpre3 transaction1: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:11 gw1-nc-nc20 transaction0: Log time: Sun, 04 Mar 2018 01:59:07 GMT
+Mar  4 01:59:11 gw1-nc-nc20 transaction1: Log time: Sun, 04 Mar 2018 01:59:07 GMT
+Mar  4 01:59:11 gw1-nc-nc16 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:11 gw1-nc-nc16 transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:11 gw1-ir-homeaway transaction0: Log time: Sun, 04 Mar 2018 01:59:07 GMT
+Mar  4 01:59:11 gw1-ir-homeaway transaction0: Asset id: 811
+Mar  4 01:59:11 gw1-ir-homeaway transaction0: Captured transactions: 
+Mar  4 01:59:11 gw1-ir-homeaway transaction0:  SForce-1,SForce-1002,SForce-1284,SForce-1483,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69,SForce-70
+Mar  4 01:59:11 gw1-ir-homeaway transaction1: Log time: Sun, 04 Mar 2018 01:59:07 GMT
+Mar  4 01:59:11 gw1-ir-homeaway transaction1: Asset id: 811
+Mar  4 01:59:11 gw1-ir-homeaway transaction1: Captured transactions: 
+Mar  4 01:59:11 gw1-ir-homeaway transaction1:  SForce-1,SForce-1002,SForce-1284,SForce-1483,SForce-1520,SForce-2,SForce-23,SForce-42,SForce-44,SForce-69,SForce-72,SForce-73
+Mar  4 01:59:11 gw1-ir-fpsd3 transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:11 gw1-ir-fpsd3 transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:12 gw1-nc-cascade transaction0: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:12 gw1-nc-cascade transaction0: Asset id: 6514
+Mar  4 01:59:12 gw1-nc-cascade transaction0: Captured transactions: 
+Mar  4 01:59:12 gw1-nc-cascade transaction0:  O365-1249,O365-1263,O365-43,O365-44,O365-445,O365-480,O365-507,O365-51,O365-52,O365-53,O365-557,O365-600,O365-934,O365-971,O365-974
+Mar  4 01:59:12 gw1-nc-cascade transaction1: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:12 gw1-nc-cascade transaction1: Asset id: 6514
+Mar  4 01:59:12 gw1-nc-cascade transaction1: Captured transactions: 
+Mar  4 01:59:12 gw1-nc-cascade transaction1:  O365-1249,O365-43,O365-44,O365-445,O365-480,O365-507,O365-52,O365-53,O365-557,O365-600,O365-934,O365-971,O365-974
+Mar  4 01:59:12 gw1-ir-fpsd transaction0: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:12 gw1-ir-fpsd transaction0: Asset id: 9636
+Mar  4 01:59:12 gw1-ir-fpsd transaction0: Captured transactions: 
+Mar  4 01:59:12 gw1-ir-fpsd transaction0:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:59:12 gw1-ir-fpsd transaction0: Asset id: 10928
+Mar  4 01:59:12 gw1-ir-fpsd transaction0: Captured transactions: 
+Mar  4 01:59:12 gw1-ir-fpsd transaction0:  Google-1,Google-2,Google-3,Google-64
+Mar  4 01:59:13 gw1-nc-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:59:03 GMT
+Mar  4 01:59:13 gw1-nc-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:59:03 GMT
+Mar  4 01:59:12 gw1-ir-fpsd transaction1: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:12 gw1-ir-fpsd transaction1: Asset id: 9636
+Mar  4 01:59:12 gw1-ir-fpsd transaction1: Captured transactions: 
+Mar  4 01:59:12 gw1-ir-fpsd transaction1:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:59:12 gw1-ir-fpsd transaction1: Asset id: 10928
+Mar  4 01:59:12 gw1-ir-fpsd transaction1: Captured transactions: 
+Mar  4 01:59:12 gw1-ir-fpsd transaction1:  Google-1,Google-2,Google-3,Google-64
+Mar  4 01:59:12 gw1-ir-fpsd transaction1: Asset id: 10929
+Mar  4 01:59:12 gw1-ir-fpsd transaction1: Captured transactions: 
+Mar  4 01:59:12 gw1-ir-fpsd transaction1:  linke-1,linke-2
+Mar  4 01:59:12 gw1-nc-nfr17 transaction0: Log time: Sun, 04 Mar 2018 01:59:07 GMT
+Mar  4 01:59:12 gw1-nc-nfr17 transaction0: Asset id: 11423
+Mar  4 01:59:12 gw1-nc-nfr17 transaction0: Captured transactions: 
+Mar  4 01:59:12 gw1-nc-nfr17 transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:59:12 gw1-nc-nfr17 transaction1: Log time: Sun, 04 Mar 2018 01:59:07 GMT
+Mar  4 01:59:12 gw1-nc-nfr17 transaction1: Asset id: 11423
+Mar  4 01:59:12 gw1-nc-nfr17 transaction1: Captured transactions: 
+Mar  4 01:59:12 gw1-nc-nfr17 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:59:12 gw1-sp-nfr30 transaction0: Log time: Sun, 04 Mar 2018 01:59:11 GMT
+Mar  4 01:59:12 gw1-sp-nfr30 transaction1: Log time: Sun, 04 Mar 2018 01:59:11 GMT
+Mar  4 01:59:13 gw1-nc-nfr48 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:13 gw1-nc-nfr48 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:13 gw1-sp-nfr59 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:13 gw1-sp-nfr59 transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:13 gw1-nc-nfr31 transaction0: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:13 gw1-nc-nfr31 transaction1: Log time: Sun, 04 Mar 2018 01:59:05 GMT
+Mar  4 01:59:13 gw1-nv-nv13 transaction0: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:13 gw1-nv-nv13 transaction1: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:13 gw1-nv-progentrix transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:13 gw1-nv-progentrix transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:13 gw1-nv-nv3 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:13 gw1-nv-nv3 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:12 gw4-sp-arcor transaction0: Log time: Sun, 04 Mar 2018 01:59:03 GMT
+Mar  4 01:59:12 gw4-sp-arcor transaction0: Asset id: 6063
+Mar  4 01:59:12 gw4-sp-arcor transaction0: Captured transactions: 
+Mar  4 01:59:12 gw4-sp-arcor transaction0:  O365-1377,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-61,O365-934
+Mar  4 01:59:12 gw4-sp-arcor transaction1: Log time: Sun, 04 Mar 2018 01:59:03 GMT
+Mar  4 01:59:14 gw1-nc-marketaxess transaction0: Log time: Sun, 04 Mar 2018 01:59:11 GMT
+Mar  4 01:59:14 gw1-nc-marketaxess transaction1: Log time: Sun, 04 Mar 2018 01:59:11 GMT
+Mar  4 01:59:15 gw1-sp-nfr57 transaction0: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:15 gw1-sp-nfr57 transaction1: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:14 gw1-ir-fpre2 transaction0: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:14 gw1-ir-fpre2 transaction1: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:15 gw1-mu-mu3 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:15 gw1-mu-mu3 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:13 gw1-fr-nfr26 transaction0: Log time: Sun, 04 Mar 2018 01:59:13 GMT
+Mar  4 01:59:13 gw1-fr-nfr26 transaction1: Log time: Sun, 04 Mar 2018 01:59:13 GMT
+Mar  4 01:59:15 gw1-nc-nfr11 transaction0: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:15 gw1-nc-nfr11 transaction1: Log time: Sun, 04 Mar 2018 01:59:06 GMT
+Mar  4 01:59:15 gw1-nc-nc13 transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:15 gw1-nc-nc13 transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:14 gw1-ir-fpre1 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:14 gw1-ir-fpre1 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:14 gw1-mu-mu2 transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:14 gw1-mu-mu2 transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:16 gw1-nc-nc24 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:16 gw1-nc-nc24 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:15 gw1-nv-nv15 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:15 gw1-nv-nv15 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:15 gw1-nv-nv16 transaction0: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:15 gw1-nv-nv16 transaction1: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:16 gw1-nc-fp transaction0: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:16 gw1-nc-fp transaction1: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:16 gw1-fr-nfr21 transaction0: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:16 gw1-fr-nfr21 transaction1: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:17 gw1-nv-nfr38 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:17 gw1-nv-nfr38 transaction1: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:19 gw1-nc-nc17 transaction0: Log time: Sun, 04 Mar 2018 01:59:17 GMT
+Mar  4 01:59:19 gw1-nc-nc17 transaction1: Log time: Sun, 04 Mar 2018 01:59:17 GMT
+Mar  4 01:59:17 gw1-nc-nfr32 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:17 gw1-nc-nfr32 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:16 gw1-ir-ir6 transaction0: Log time: Sun, 04 Mar 2018 01:59:13 GMT
+Mar  4 01:59:16 gw1-ir-ir6 transaction1: Log time: Sun, 04 Mar 2018 01:59:13 GMT
+Mar  4 01:59:17 gw1-nc-nc10 transaction0: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:17 gw1-nc-nc10 transaction1: Log time: Sun, 04 Mar 2018 01:59:08 GMT
+Mar  4 01:59:16 gw1-nc-caparks transaction0: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:16 gw1-nc-caparks transaction1: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:16 gw1-mu-nalg transaction0: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:16 gw1-mu-nalg transaction1: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:18 gw1-nv-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:18 gw1-nv-vanguard transaction0: Asset id: 5513
+Mar  4 01:59:18 gw1-nv-vanguard transaction0: Captured transactions: 
+Mar  4 01:59:18 gw1-nv-vanguard transaction0:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:59:17 gw1-fr-nfr56 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:17 gw1-fr-nfr56 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:18 gw1-nv-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:18 gw1-nv-vanguard transaction1: Asset id: 5513
+Mar  4 01:59:18 gw1-nv-vanguard transaction1: Captured transactions: 
+Mar  4 01:59:18 gw1-nv-vanguard transaction1:  SForce-1,SForce-1284,SForce-2
+Mar  4 01:59:18 gw1-nc-pivotalventures transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:18 gw1-nc-pivotalventures transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:18 gw1-nc-nfr39 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:18 gw1-nc-nfr39 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:18 gw1-sin-nfr3 transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:18 gw1-sin-nfr3 transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:17 gw1-ir-nfr35 transaction0: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:17 gw1-ir-nfr35 transaction1: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:18 gw1-nc-nc18 transaction0: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:18 gw1-nc-nc18 transaction1: Log time: Sun, 04 Mar 2018 01:59:09 GMT
+Mar  4 01:59:22 gw1-ir-nfr49 transaction0: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:22 gw1-ir-nfr49 transaction1: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:22 gw1-ir transaction0: Log time: Sun, 04 Mar 2018 01:59:14 GMT
+Mar  4 01:59:22 gw1-ir transaction1: Log time: Sun, 04 Mar 2018 01:59:14 GMT
+Mar  4 01:59:19 gw1-nc-nc15 transaction0: Log time: Sun, 04 Mar 2018 01:59:11 GMT
+Mar  4 01:59:19 gw1-nc-nc15 transaction1: Log time: Sun, 04 Mar 2018 01:59:11 GMT
+Mar  4 01:59:18 gw1-ir-nfr8 transaction0: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:18 gw1-ir-nfr8 transaction1: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:20 gw1-ir-digitalrealty transaction0: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:20 gw1-ir-digitalrealty transaction1: Log time: Sun, 04 Mar 2018 01:59:10 GMT
+Mar  4 01:59:22 gw1-sp-bancolombia transaction0: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:22 gw1-sp-bancolombia transaction1: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:22 gw1-nc-nfr28 transaction0: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:22 gw1-nc-nfr28 transaction1: Log time: Sun, 04 Mar 2018 01:59:15 GMT
+Mar  4 01:59:23 gw1-ir-nfr53 transaction0: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:23 gw1-ir-nfr53 transaction1: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:19 gw1-ir-nfr51 transaction0: Log time: Sun, 04 Mar 2018 01:59:18 GMT
+Mar  4 01:59:19 gw1-ir-nfr51 transaction1: Log time: Sun, 04 Mar 2018 01:59:18 GMT
+Mar  4 01:59:20 gw1-nc-nc22 transaction0: Log time: Sun, 04 Mar 2018 01:59:14 GMT
+Mar  4 01:59:20 gw1-nc-nc22 transaction1: Log time: Sun, 04 Mar 2018 01:59:14 GMT
+Mar  4 01:59:20 gw1-nc-nc4 transaction0: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:20 gw1-nc-nc4 transaction1: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:20 gw1-ir-ir8 transaction0: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:20 gw1-ir-ir8 transaction1: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:21 gw1-ir-hbo transaction0: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:21 gw1-ir-hbo transaction0: Asset id: 4181
+Mar  4 01:59:21 gw1-ir-hbo transaction0: Captured transactions: 
+Mar  4 01:59:21 gw1-ir-hbo transaction0:  Workd-1,Workd-11,Workd-18,Workd-2
+Mar  4 01:59:21 gw1-ir-hbo transaction1: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:21 gw1-ir-hbo transaction1: Asset id: 4181
+Mar  4 01:59:21 gw1-ir-hbo transaction1: Captured transactions: 
+Mar  4 01:59:21 gw1-ir-hbo transaction1:  Workd-1,Workd-11,Workd-18,Workd-2
+Mar  4 01:59:21 gw1-ir-automation transaction0: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:21 gw1-ir-automation transaction1: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:21 gw1-ir-sup2 transaction0: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:21 gw1-ir-sup2 transaction0: Asset id: 916
+Mar  4 01:59:21 gw1-ir-sup2 transaction0: Captured transactions: 
+Mar  4 01:59:21 gw1-ir-sup2 transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:59:21 gw1-ir-sup2 transaction1: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:21 gw1-ir-sup2 transaction1: Asset id: 916
+Mar  4 01:59:21 gw1-ir-sup2 transaction1: Captured transactions: 
+Mar  4 01:59:21 gw1-ir-sup2 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-971
+Mar  4 01:59:24 gw1-nv-nv1 transaction0: Log time: Sun, 04 Mar 2018 01:59:18 GMT
+Mar  4 01:59:24 gw1-nv-nv1 transaction1: Log time: Sun, 04 Mar 2018 01:59:18 GMT
+Mar  4 01:59:24 gw1-nv-nv1 transaction1: Asset id: 11379
+Mar  4 01:59:24 gw1-nv-nv1 transaction1: Captured transactions: 
+Mar  4 01:59:24 gw1-nv-nv1 transaction1:  Google-1,Google-2,Google-3
+Mar  4 01:59:23 gw1-nc-se-0365-nc1 transaction0: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:23 gw1-nc-se-0365-nc1 transaction1: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:24 gw1-or-or1 transaction0: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:24 gw1-or-or1 transaction0: Asset id: 8962
+Mar  4 01:59:24 gw1-or-or1 transaction0: Captured transactions: 
+Mar  4 01:59:24 gw1-or-or1 transaction0:  O365-273,O365-4,O365-43,O365-44,O365-445,O365-5,O365-507,O365-52,O365-53,O365-584,O365-600,O365-934,O365-974
+Mar  4 01:59:24 gw1-or-or1 transaction0: Asset id: 11256
+Mar  4 01:59:24 gw1-or-or1 transaction0: Captured transactions: 
+Mar  4 01:59:24 gw1-or-or1 transaction0:  Google-1,Google-120,Google-2,Google-3,Google-557,Google-559,Google-64
+Mar  4 01:59:24 gw1-or-or1 transaction1: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:24 gw1-or-or1 transaction1: Asset id: 8962
+Mar  4 01:59:24 gw1-or-or1 transaction1: Captured transactions: 
+Mar  4 01:59:24 gw1-or-or1 transaction1:  O365-1328,O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-580,O365-582,O365-584,O365-590,O365-600,O365-934,O365-974
+Mar  4 01:59:24 gw1-or-or1 transaction1: Asset id: 11256
+Mar  4 01:59:24 gw1-or-or1 transaction1: Captured transactions: 
+Mar  4 01:59:24 gw1-or-or1 transaction1:  Google-1,Google-120,Google-2,Google-3,Google-557,Google-559,Google-64
+Mar  4 01:59:24 gw1-sy-nfr23 transaction0: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:24 gw1-sy-nfr23 transaction1: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:24 gw1-nc-nc5 transaction0: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:24 gw1-nc-nc5 transaction1: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:24 gw1-nc-nfr47 transaction0: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:24 gw1-nc-nfr47 transaction1: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:24 gw1-sin-nfr10 transaction0: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:24 gw1-sin-nfr10 transaction0: Asset id: 10022
+Mar  4 01:59:24 gw1-sin-nfr10 transaction0: Captured transactions: 
+Mar  4 01:59:24 gw1-sin-nfr10 transaction0:  O365-1249,O365-31,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:59:24 gw1-sin-nfr10 transaction1: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:24 gw1-sin-nfr10 transaction1: Asset id: 10022
+Mar  4 01:59:24 gw1-sin-nfr10 transaction1: Captured transactions: 
+Mar  4 01:59:24 gw1-sin-nfr10 transaction1:  O365-31,O365-43,O365-44,O365-445,O365-480,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 01:59:24 gw1-nv-nv9 transaction0: Log time: Sun, 04 Mar 2018 01:59:23 GMT
+Mar  4 01:59:24 gw1-nv-nv9 transaction0: Asset id: 10731
+Mar  4 01:59:24 gw1-nv-nv9 transaction0: Captured transactions: 
+Mar  4 01:59:24 gw1-nv-nv9 transaction0:  Google-1,Google-136,Google-2,Google-20,Google-3,Google-47,Google-64,Google-65
+Mar  4 01:59:24 gw1-nv-nv9 transaction1: Log time: Sun, 04 Mar 2018 01:59:23 GMT
+Mar  4 01:59:24 gw1-nv-nv9 transaction1: Asset id: 10731
+Mar  4 01:59:24 gw1-nv-nv9 transaction1: Captured transactions: 
+Mar  4 01:59:24 gw1-nv-nv9 transaction1:  Google-1,Google-136,Google-2,Google-20,Google-3,Google-47,Google-64,Google-65
+Mar  4 01:59:26 gw1-nv-nfr24 transaction0: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:26 gw1-nv-nfr24 transaction1: Log time: Sun, 04 Mar 2018 01:59:16 GMT
+Mar  4 01:59:26 gw1-nc-nc1 transaction0: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:26 gw1-nc-nc1 transaction0: Asset id: 9640
+Mar  4 01:59:26 gw1-nc-nc1 transaction0: Captured transactions: 
+Mar  4 01:59:26 gw1-nc-nc1 transaction0:  Google-1,Google-2,Google-3,Google-64,Google-65
+Mar  4 01:59:26 gw1-nc-nc1 transaction1: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:26 gw1-nc-nc1 transaction1: Asset id: 9640
+Mar  4 01:59:26 gw1-nc-nc1 transaction1: Captured transactions: 
+Mar  4 01:59:26 gw1-nc-nc1 transaction1:  Google-1,Google-2,Google-3,Google-63,Google-64,Google-65
+Mar  4 01:59:26 gw1-to-nfr60 transaction0: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:26 gw1-to-nfr60 transaction1: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:26 gw1-ir-ir4 transaction0: Log time: Sun, 04 Mar 2018 01:59:22 GMT
+Mar  4 01:59:26 gw1-ir-ir4 transaction1: Log time: Sun, 04 Mar 2018 01:59:22 GMT
+Mar  4 01:59:27 gw1-nc-nc11 transaction0: Log time: Sun, 04 Mar 2018 01:59:18 GMT
+Mar  4 01:59:27 gw1-nc-nc11 transaction1: Log time: Sun, 04 Mar 2018 01:59:18 GMT
+Mar  4 01:59:27 gw1-nv-nfr6 transaction0: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:27 gw1-nv-nfr6 transaction1: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:27 gw1-nv-verisk-dev transaction0: Log time: Sun, 04 Mar 2018 01:59:22 GMT
+Mar  4 01:59:27 gw1-nv-verisk-dev transaction1: Log time: Sun, 04 Mar 2018 01:59:22 GMT
+Mar  4 01:59:28 gw1-nc-cawater transaction0: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:28 gw1-nc-cawater transaction1: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:28 gw1-nv-nv8 transaction0: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:28 gw1-nv-nv8 transaction1: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:27 gw1-nc-nc23 transaction0: Log time: Sun, 04 Mar 2018 01:59:24 GMT
+Mar  4 01:59:27 gw1-nc-nc23 transaction1: Log time: Sun, 04 Mar 2018 01:59:24 GMT
+Mar  4 01:59:29 gw1-sin-nfr13 transaction0: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:29 gw1-sin-nfr13 transaction1: Log time: Sun, 04 Mar 2018 01:59:21 GMT
+Mar  4 01:59:28 gw1-nc-se-o365-nc2 transaction0: Log time: Sun, 04 Mar 2018 01:59:24 GMT
+Mar  4 01:59:28 gw1-nc-se-o365-nc2 transaction1: Log time: Sun, 04 Mar 2018 01:59:24 GMT
+Mar  4 01:59:28 gw1-nv-nv4 transaction0: Log time: Sun, 04 Mar 2018 01:59:18 GMT
+Mar  4 01:59:28 gw1-nv-nv4 transaction1: Log time: Sun, 04 Mar 2018 01:59:18 GMT
+Mar  4 01:59:28 gw1-fr-nfr52 transaction0: Log time: Sun, 04 Mar 2018 01:59:19 GMT
+Mar  4 01:59:28 gw1-fr-nfr52 transaction1: Log time: Sun, 04 Mar 2018 01:59:20 GMT
+Mar  4 01:59:29 gw1-nv-nv2 transaction0: Log time: Sun, 04 Mar 2018 01:59:26 GMT
+Mar  4 01:59:29 gw1-nv-nv2 transaction1: Log time: Sun, 04 Mar 2018 01:59:26 GMT
+Mar  4 01:59:28 gw1-nc-nc14 transaction0: Log time: Sun, 04 Mar 2018 01:59:26 GMT
+Mar  4 01:59:28 gw1-nc-nc14 transaction1: Log time: Sun, 04 Mar 2018 01:59:26 GMT
+Mar  4 01:59:30 gw1-nv-versartis transaction0: Log time: Sun, 04 Mar 2018 01:59:29 GMT
+Mar  4 01:59:30 gw1-nv-versartis transaction0: Asset id: 223
+Mar  4 01:59:30 gw1-nv-versartis transaction0: Captured transactions: 
+Mar  4 01:59:30 gw1-nv-versartis transaction0:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 01:59:30 gw1-nv-versartis transaction1: Log time: Sun, 04 Mar 2018 01:59:29 GMT
+Mar  4 01:59:30 gw1-nv-versartis transaction1: Asset id: 223
+Mar  4 01:59:30 gw1-nv-versartis transaction1: Captured transactions: 
+Mar  4 01:59:30 gw1-nv-versartis transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973
+Mar  4 01:59:30 gw1-nc-emf transaction0: Log time: Sun, 04 Mar 2018 01:59:22 GMT
+Mar  4 01:59:30 gw1-nc-emf transaction1: Log time: Sun, 04 Mar 2018 01:59:22 GMT
+Mar  4 01:59:31 gw1-nc-imperva transaction0: Log time: Sun, 04 Mar 2018 01:59:28 GMT
+Mar  4 01:59:31 gw1-nc-imperva transaction1: Log time: Sun, 04 Mar 2018 01:59:28 GMT
+Mar  4 01:59:31 gw1-nv-watermark-dev transaction0: Log time: Sun, 04 Mar 2018 01:59:24 GMT
+Mar  4 01:59:31 gw1-nv-watermark-dev transaction1: Log time: Sun, 04 Mar 2018 01:59:24 GMT
+Mar  4 01:59:31 gw1-ir-sareb transaction0: Log time: Sun, 04 Mar 2018 01:59:31 GMT
+Mar  4 01:59:31 gw1-ir-sareb transaction1: Log time: Sun, 04 Mar 2018 01:59:31 GMT
+Mar  4 01:59:31 gw1-nc-arcor-dev transaction0: Log time: Sun, 04 Mar 2018 01:59:24 GMT
+Mar  4 01:59:31 gw1-nc-arcor-dev transaction1: Log time: Sun, 04 Mar 2018 01:59:24 GMT
+Mar  4 01:59:31 gw1-ir-umg-sp transaction0: Log time: Sun, 04 Mar 2018 01:59:26 GMT
+Mar  4 01:59:31 gw1-ir-umg-sp transaction1: Log time: Sun, 04 Mar 2018 01:59:26 GMT
+Mar  4 01:59:33 gw1-sin-nfr34 transaction0: Log time: Sun, 04 Mar 2018 01:59:27 GMT
+Mar  4 01:59:33 gw1-sin-nfr34 transaction1: Log time: Sun, 04 Mar 2018 01:59:27 GMT
+Mar  4 01:59:34 gw1-ir-vanguard transaction0: Log time: Sun, 04 Mar 2018 01:59:27 GMT
+Mar  4 01:59:34 gw1-ir-vanguard transaction1: Log time: Sun, 04 Mar 2018 01:59:27 GMT
+Mar  4 01:59:35 gw1-ir-fp transaction0: Log time: Sun, 04 Mar 2018 01:59:25 GMT
+Mar  4 01:59:35 gw1-ir-fp transaction1: Log time: Sun, 04 Mar 2018 01:59:25 GMT
+Mar  4 01:59:34 gw1-sin-nfr46 transaction0: Log time: Sun, 04 Mar 2018 01:59:28 GMT
+Mar  4 01:59:34 gw1-sin-nfr46 transaction1: Log time: Sun, 04 Mar 2018 01:59:28 GMT
+Mar  4 01:59:38 gw1-to-to3 transaction0: Log time: Sun, 04 Mar 2018 01:59:37 GMT
+Mar  4 01:59:38 gw1-to-to3 transaction1: Log time: Sun, 04 Mar 2018 01:59:37 GMT
+Mar  4 01:59:39 gw1-nc-autodisc transaction0: Log time: Sun, 04 Mar 2018 01:59:32 GMT
+Mar  4 01:59:39 gw1-nc-autodisc transaction1: Log time: Sun, 04 Mar 2018 01:59:32 GMT
+Mar  4 01:59:42 gw1-to-poc2 transaction0: Log time: Sun, 04 Mar 2018 01:59:40 GMT
+Mar  4 01:59:42 gw1-to-poc2 transaction1: Log time: Sun, 04 Mar 2018 01:59:40 GMT
+Mar  4 01:59:46 gw1-nc-fhlbsf transaction0: Log time: Sun, 04 Mar 2018 01:59:39 GMT
+Mar  4 01:59:46 gw1-nc-fhlbsf transaction1: Log time: Sun, 04 Mar 2018 01:59:39 GMT
+Mar  4 01:59:47 gw1-sin-sin1 transaction0: Log time: Sun, 04 Mar 2018 01:59:40 GMT
+Mar  4 01:59:47 gw1-sin-sin1 transaction1: Log time: Sun, 04 Mar 2018 01:59:40 GMT
+Mar  4 01:59:49 gw1-ir-imperva transaction0: Log time: Sun, 04 Mar 2018 01:59:48 GMT
+Mar  4 01:59:49 gw1-ir-imperva transaction0: Asset id: 499
+Mar  4 01:59:49 gw1-ir-imperva transaction0: Captured transactions: 
+Mar  4 01:59:49 gw1-ir-imperva transaction0:  Google-1,Google-2,Google-3,Google-64
+Mar  4 01:59:49 gw1-ir-imperva transaction1: Log time: Sun, 04 Mar 2018 01:59:48 GMT
+Mar  4 01:59:49 gw1-ir-imperva transaction1: Asset id: 499
+Mar  4 01:59:49 gw1-ir-imperva transaction1: Captured transactions: 
+Mar  4 01:59:49 gw1-ir-imperva transaction1:  Google-1,Google-2,Google-3,Google-64
+Mar  4 01:59:49 gw1-ir-imperva transaction1: Asset id: 1415
+Mar  4 01:59:49 gw1-ir-imperva transaction1: Captured transactions: 
+Mar  4 01:59:49 gw1-ir-imperva transaction1:  SForce-1,SForce-2,SForce-3,SForce-4
+Mar  4 02:00:17 gw1-nc-cawildlife transaction0: Log time: Sun, 04 Mar 2018 02:00:15 GMT
+Mar  4 02:00:17 gw1-nc-cawildlife transaction0: Asset id: 4279
+Mar  4 02:00:17 gw1-nc-cawildlife transaction0: Captured transactions: 
+Mar  4 02:00:17 gw1-nc-cawildlife transaction0:  O365-273,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 02:00:17 gw1-nc-cawildlife transaction1: Log time: Sun, 04 Mar 2018 02:00:15 GMT
+Mar  4 02:00:17 gw1-nc-cawildlife transaction1: Asset id: 4279
+Mar  4 02:00:17 gw1-nc-cawildlife transaction1: Captured transactions: 
+Mar  4 02:00:17 gw1-nc-cawildlife transaction1:  O365-1325,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 02:00:26 gw1-sin-nfr2 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:26 gw1-sin-nfr2 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-nv-se-o365-nv1 transaction0: Log time: Sun, 04 Mar 2018 02:00:24 GMT
+Mar  4 02:00:27 gw1-nv-se-o365-nv1 transaction1: Log time: Sun, 04 Mar 2018 02:00:24 GMT
+Mar  4 02:00:28 gw1-sy-sy2 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:28 gw1-sy-sy2 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-to-to2 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-to-to2 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-mu-nfr58 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-mu-nfr58 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:28 gw1-nc-hbo transaction0: Log time: Sun, 04 Mar 2018 02:00:19 GMT
+Mar  4 02:00:28 gw1-nc-hbo transaction1: Log time: Sun, 04 Mar 2018 02:00:19 GMT
+Mar  4 02:00:26 gw1-sy-sportsbet transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:26 gw1-sy-sportsbet transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:28 demo3 transaction0: Log time: Sun, 04 Mar 2018 02:00:28 GMT
+Mar  4 02:00:28 demo3 transaction1: Log time: Sun, 04 Mar 2018 02:00:28 GMT
+Mar  4 02:00:28 gw1-ir-nfr19 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:28 gw1-ir-nfr19 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:28 gw1-nc-cityofla transaction0: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:28 gw1-nc-cityofla transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:28 gw1-fr-nfr25 transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:28 gw1-fr-nfr25 transaction1: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:29 gw1-nc-nc3 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:29 gw1-nc-nc3 transaction1: Log time: Sun, 04 Mar 2018 02:00:24 GMT
+Mar  4 02:00:27 gw1-ir-fpsd2 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-ir-fpsd2 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-nv-jennison transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-nv-jennison transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-nv-nv5 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:27 gw1-nv-nv5 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:28 gw1-nc-nfr45 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:28 gw1-nc-nfr45 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:29 gw1-ir-umg transaction0: Log time: Sun, 04 Mar 2018 02:00:29 GMT
+Mar  4 02:00:29 gw1-ir-umg transaction1: Log time: Sun, 04 Mar 2018 02:00:29 GMT
+Mar  4 02:00:30 gw1-nv-poc3 transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:30 gw1-nv-poc3 transaction1: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:30 gw1-nc-barton transaction0: Log time: Sun, 04 Mar 2018 02:00:23 GMT
+Mar  4 02:00:30 gw1-nc-barton transaction1: Log time: Sun, 04 Mar 2018 02:00:23 GMT
+Mar  4 02:00:30 gw1-sin-nfr5 transaction0: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:30 gw1-sin-nfr5 transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:32 gw1-nv-nv14 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:32 gw1-nv-nv14 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:28 gw1-to-to1 transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:28 gw1-to-to1 transaction1: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:31 gw1-nv-verisk transaction0: Log time: Sun, 04 Mar 2018 02:00:28 GMT
+Mar  4 02:00:31 gw1-nv-verisk transaction0: Asset id: 18
+Mar  4 02:00:31 gw1-nv-verisk transaction0: Captured transactions: 
+Mar  4 02:00:31 gw1-nv-verisk transaction0:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 02:00:31 gw1-nv-verisk transaction1: Log time: Sun, 04 Mar 2018 02:00:28 GMT
+Mar  4 02:00:31 gw1-nv-verisk transaction1: Asset id: 18
+Mar  4 02:00:31 gw1-nv-verisk transaction1: Captured transactions: 
+Mar  4 02:00:31 gw1-nv-verisk transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 02:00:32 gw1-fr-nfr9 transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:32 gw1-fr-nfr9 transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:32 gw1-nc-nc12 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:32 gw1-nc-nc12 transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:30 gw1-nc-nc2 transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:30 gw1-nc-nc2 transaction0: Asset id: 4907
+Mar  4 02:00:30 gw1-nc-nc2 transaction0: Captured transactions: 
+Mar  4 02:00:30 gw1-nc-nc2 transaction0:  O365-1249,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 02:00:30 gw1-nc-umg transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:30 gw1-nc-umg transaction0: Asset id: 105
+Mar  4 02:00:30 gw1-nc-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 02:00:30 gw1-nc-umg transaction0: Captured transactions: None
+Mar  4 02:00:30 gw1-nc-nc2 transaction1: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:30 gw1-nc-nc2 transaction1: Asset id: 4907
+Mar  4 02:00:30 gw1-nc-nc2 transaction1: Captured transactions: 
+Mar  4 02:00:30 gw1-nc-nc2 transaction1:  O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934,O365-973,O365-974
+Mar  4 02:00:30 gw1-nc-umg transaction1: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:30 gw1-nc-umg transaction1: Asset id: 105
+Mar  4 02:00:30 gw1-nc-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 02:00:30 gw1-nc-umg transaction1: Captured transactions: None
+Mar  4 02:00:32 gw1-ir-ir5 transaction0: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:32 gw1-ir-ir5 transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:30 gw1-nc-nc6 transaction0: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:30 gw1-nc-nc6 transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:35 gw1-nc-digitalrealty transaction0: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:35 gw1-nc-digitalrealty transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:35 gw1-nv-nv11 transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:35 gw1-nv-nv11 transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:33 gw1-nc-demo5 transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:33 gw1-nc-demo5 transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:36 gw1-or-se-o365-or1 transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:36 gw1-or-se-o365-or1 transaction1: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:36 gw1-or-or2 transaction0: Log time: Sun, 04 Mar 2018 02:00:28 GMT
+Mar  4 02:00:36 gw1-or-or2 transaction0: Asset id: 10902
+Mar  4 02:00:36 gw1-or-or2 transaction0: Captured transactions: 
+Mar  4 02:00:36 gw1-or-or2 transaction0:  O365-140,O365-1459,O365-43,O365-44,O365-445,O365-480,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 02:00:36 gw1-or-or2 transaction1: Log time: Sun, 04 Mar 2018 02:00:28 GMT
+Mar  4 02:00:36 gw1-or-or2 transaction1: Asset id: 10902
+Mar  4 02:00:36 gw1-or-or2 transaction1: Captured transactions: 
+Mar  4 02:00:36 gw1-or-or2 transaction1:  O365-140,O365-1459,O365-43,O365-44,O365-445,O365-507,O365-52,O365-53,O365-600,O365-934
+Mar  4 02:00:35 gw1-ir-arch transaction0: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:35 gw1-ir-arch transaction1: Log time: Sun, 04 Mar 2018 02:00:25 GMT
+Mar  4 02:00:35 gw1-sin transaction0: Log time: Sun, 04 Mar 2018 02:00:28 GMT
+Mar  4 02:00:35 gw1-sin transaction1: Log time: Sun, 04 Mar 2018 02:00:28 GMT
+Mar  4 02:00:32 gw1-sy-sy1 transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:32 gw1-sy-sy1 transaction1: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:35 gw1-or-vista transaction0: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:35 gw1-or-vista transaction1: Log time: Sun, 04 Mar 2018 02:00:26 GMT
+Mar  4 02:00:37 gw1-nc-extremeguitars transaction0: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:37 gw1-nc-extremeguitars transaction1: Log time: Sun, 04 Mar 2018 02:00:27 GMT
+Mar  4 02:00:38 gw1-nc-nc8 transaction0: Log time: Sun, 04 Mar 2018 02:00:30 GMT
+Mar  4 02:00:38 gw1-nc-nc8 transaction1: Log time: Sun, 04 Mar 2018 02:00:30 GMT
+Mar  4 02:00:39 gw1-to-umg transaction0: Log time: Sun, 04 Mar 2018 02:00:30 GMT
+Mar  4 02:00:39 gw1-to-umg transaction0: Asset id: 105
+Mar  4 02:00:39 gw1-to-umg transaction0: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 02:00:39 gw1-to-umg transaction0: Captured transactions: None
+Mar  4 02:00:39 gw1-to-umg transaction1: Log time: Sun, 04 Mar 2018 02:00:30 GMT
+Mar  4 02:00:39 gw1-to-umg transaction1: Asset id: 105
+Mar  4 02:00:39 gw1-to-umg transaction1: Warning: some captured transaction don't have ID, please add ID to all the transactions in the mappings file!
+Mar  4 02:00:39 gw1-to-umg transaction1: Captured transactions: None
