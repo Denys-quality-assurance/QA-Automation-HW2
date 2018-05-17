@@ -5,8 +5,8 @@ import java.util.regex.Pattern;
 
 /*
  * class IDsCounter
- * version 1.01
  * search for matches in the ID list, count the amount of matches, delete the counted ID
+ * 
  * author Denys Matolikov
  */
 
