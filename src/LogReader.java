@@ -18,14 +18,16 @@ import java.util.TreeMap;
 public class LogReader {
 	
 	//reading files and creating map newLog   	
-	public static TreeMap<Date, String> readingFiles_creatingMap(String from, DateFormat formatLog) {
+	public static TreeMap<Date, String> readingFiles_creatingMap(String from, DateFormat formatYear) {
             	
     	//add the source folder
     	File dir = new File(from);														
     	//create a list of files in the source folder
     	File[] filesInDir = dir.listFiles();   	
     	//transaction date
-    	Date date;	
+    	Date date;
+    	//transaction year
+    	String year = null;
     	//line with a list of transaction IDs
     	String logID = null;
     	//create an ordered map
@@ -34,9 +36,12 @@ public class LogReader {
     	int numberOfFiles = filesInDir.length;
     	//number of the file being processed
     	int fileNumber = 1;
-    	//regex for searching data and separator in string
+    	//regex for searching of date and separator in string
     	RegexStrings regexStrings;
-    	
+
+    	System.out.println("Proces is started! Please, wait for the end of process");      	
+    	System.out.println("==================================================");
+
     		//for each of the files in the directory
 		    for (File file : filesInDir){													
 		        //output file name (for tracking the process)
@@ -53,9 +58,13 @@ public class LogReader {
 		                while ((line = reader.readLine()) != null) {
 		                	//line - target for regex searching
 		                	regexStrings = new RegexStrings(line);
-		                	if (line.contains(":  ")){   
-		                    		//use regex to grab data from the line
-		                			date = formatLog.parse(regexStrings.comparedDate);				
+		                	
+		                	if (line.contains("Log time:")){
+		                		//use regex to grab year from the line
+	                			year = regexStrings.comparedYear;
+		                	} else if (line.contains(":  ")){   
+		                    		//use regex to grab date from the line, make the correct year on the date
+		                			date = formatYear.parse(year +" "+regexStrings.comparedDate);
 		                    		//comparedSeparator returns all the data after semicolon and two whitespaces, and remove a new line character
 		                			logID = regexStrings.comparedSeparator.replaceAll(System.getProperty("line.separator"),"");
 		                             	
@@ -72,7 +81,7 @@ public class LogReader {
 		                            //add date and logID to the map 
 		                     		newLog.put(date, logID);								 						
 		                               	
-		    	                    }
+		    	                    } 
 		                    }
 		                    reader.close();
 

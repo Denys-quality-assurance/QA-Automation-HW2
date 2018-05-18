@@ -19,19 +19,21 @@ public class Logger {
     	//create an ordered map
     	TreeMap<Date, String> newLog = new TreeMap<Date, String>();						
     	//specify the date format for log.txt
-    	DateFormat formatLog = new SimpleDateFormat("MMM  d HH:mm:ss", Locale.ENGLISH); 	
+    	DateFormat formatDay = new SimpleDateFormat("MMM  d HH:mm:ss", Locale.ENGLISH); 	
     	//specify the date format for Week_log.txt
-    	DateFormat formatWeek = new SimpleDateFormat("dd-MM-YYYY", Locale.ENGLISH); 	
+    	DateFormat formatWeek = new SimpleDateFormat("dd-MM-YYYY", Locale.ENGLISH);
+    	//specify the date format for year determination 
+    	DateFormat formatYear = new SimpleDateFormat("yyyy MMM  d HH:mm:ss", Locale.ENGLISH); 
 
     	
     	//reading files from the folder and creating TreeMap<Date, String> newLog    	
-    	newLog=LogReader.readingFiles_creatingMap (from, formatLog);
+    	newLog=LogReader.readingFiles_creatingMap (from, formatYear);
 
      	//counting the number of transactions for two-week periods        
     	TreeMap<Date, HashMap<String, Integer>> WeekLog = WeekLogCreator.creation(newLog);       
         
 	    //writing Log.txt file and information in the console   
-	    LogWriter.writingLogFile(newLog, toForAll, formatLog);
+	    LogWriter.writingLogFile(newLog, toForAll, formatDay);
 	    
 		//writing Week_Log.txt file and information in the console   
 	    LogWriter.writingWeekLogFile(WeekLog,toForWeek,formatWeek);    

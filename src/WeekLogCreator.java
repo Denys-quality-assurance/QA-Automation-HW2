@@ -39,7 +39,7 @@ public class WeekLogCreator {
 				if (item.getKey().before(FinishDateOf2WeekPeriod)){
 					//extraction string of transactions list by current date from newLog with addition "," at the end of the line
 					String transactions = ","+item.getValue()+",";
-					//search for matches in the ID list, count the amount of matches, delete the counted ID
+					//searching for matches in the ID list, count the amount of matches, delete the counted ID
 					IDsCounter.id_Search_Count_Delete(transactions, IDsNumber);																					
 					//if the current date from newLog does not enter the framework of a two-week period        		
 				} else {
@@ -59,7 +59,7 @@ public class WeekLogCreator {
 						} while (!item.getKey().before(FinishDateOf2WeekPeriod));
 						//extraction string of transactions list by current date from newLog with addition "," at the end of the line
 						String transactions = ","+item.getValue()+",";
-						//search for matches in the ID list, count the amount of matches, delete the counted ID
+						//searching for matches in the ID list, count the amount of matches, delete the counted ID
 						IDsCounter.id_Search_Count_Delete(transactions, IDsNumber);		
 						//add current start date of a two-week period and IDsNumber to the map 
 						WeekLog.put(StartDateOf2WeekPeriod, IDsNumber);

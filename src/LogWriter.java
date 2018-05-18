@@ -18,7 +18,7 @@ import java.util.TreeMap;
 public class LogWriter {
 	
     //writing Log.txt file and information in the console 
-	public static void writingLogFile(TreeMap<Date, String> newLog, String toForAll, DateFormat formatLog){
+	public static void writingLogFile(TreeMap<Date, String> newLog, String toForAll, DateFormat formatDay){
 
 		try {
 			BufferedWriter writerAllLog;
@@ -29,7 +29,7 @@ public class LogWriter {
 	        //The entrySet() method is used to return a Set view of the mappings contained in this map. The set's iterator returns the entries in ascending key order.
 	        for(Map.Entry<Date, String> item : newLog.entrySet()){					 
 	        	//System.getProperty("line.separator") returns the OS dependent line separator
-	        	writerAllLog.write(formatLog.format(item.getKey())+" : "+ item.getValue() + System.getProperty("line.separator")); 
+	        	writerAllLog.write(formatDay.format(item.getKey())+" : "+ item.getValue() + System.getProperty("line.separator")); 
 		        }
 		    writerAllLog.close();
 		   	} catch (IOException e) {
@@ -75,6 +75,6 @@ public class LogWriter {
 	System.out.println("==================================================");
 	System.out.println("Week_log.txt is created");
 	System.out.println("==================================================");
-	System.out.println("Proces is done!"); 
+	System.out.println("Process completed!"); 
 }
 }
