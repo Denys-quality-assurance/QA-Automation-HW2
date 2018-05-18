@@ -17,16 +17,22 @@ public class IDsCounter {
     	
 		//until all IDs have been deleted from the transaction list 
 		while (transactions.length()>1){ 
-			//pattern to search the name of the first ID in a string 
+			//pattern to search the name of the first ID with commas in a string 
+			Pattern Search = Pattern.compile("(^,(.*?),)");
+			//pattern to search the name of the first ID (without commas) in a string 
 			Pattern nameSearch = Pattern.compile("^,(.*?),");
 			//Matcher object match string of IDs against the pattern
-			Matcher matcher = nameSearch.matcher(transactions);			
+			Matcher matcher = Search.matcher(transactions);	
+			Matcher matcherName = nameSearch.matcher(transactions);	
 			//search of match
 			matcher.find();
-			//idName returns the input subsequence matched by the previous match
-			String idName = matcher.group(1);
+			matcherName.find();			
+			//returns the input subsequence matched by the previous match
+			String idNameWithCommas = matcher.group(1);
+			String idName = matcherName.group(1);
+			
 			//pattern to search in a string is the name of the first ID
-			nameSearch = Pattern.compile(idName);
+			nameSearch = Pattern.compile(idNameWithCommas);
 			//Matcher object match string of IDs against the name of the first ID
 			matcher = nameSearch.matcher(transactions);
 			//count - number of matches in the current transactions list
@@ -35,7 +41,7 @@ public class IDsCounter {
 				//counting matches in the ID list: while matches are found
 				while (matcher.find()){
 					count +=1;
-					} 
+				} 
 				
 		    	//for each of the items in the map IDsNumber
 				//counting the amount of matches, taking into account the repetition of the current ID in the map IDsNumber
@@ -43,7 +49,7 @@ public class IDsCounter {
                  	//if such idName is already brought in map
                     if (item1.getKey().equals(idName)) {			 
                  		//add new value
-                 		count=(item1.getValue()+count);		
+                 		count=(item1.getValue()+count);
                  		break;
                  		}
                  	}
@@ -54,7 +60,7 @@ public class IDsCounter {
             matcher = nameSearch.matcher(transactions);
 			//replacement of ",idName," by a comma "," in transactions list: while matches are found            
             while (matcher.find()){
-	            transactions=transactions.replaceAll(","+idName+",",",");
+	            transactions=transactions.replaceAll(idNameWithCommas,",");
             }
 		}           
 	}	

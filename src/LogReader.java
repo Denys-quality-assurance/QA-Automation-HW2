@@ -34,7 +34,8 @@ public class LogReader {
     	int numberOfFiles = filesInDir.length;
     	//number of the file being processed
     	int fileNumber = 1;
-    	
+    	//regex for searching data and separator in string
+    	RegexStrings regexStrings;
     	
     		//for each of the files in the directory
 		    for (File file : filesInDir){													
@@ -49,12 +50,14 @@ public class LogReader {
 		        		//line in which the line-by-line reading from the files is stored
 		                String line = null;													
 		                //until found the zero line (to the end of the file)
-		                while ((line = reader.readLine()) != null) {						
+		                while ((line = reader.readLine()) != null) {
+		                	//line - target for regex searching
+		                	regexStrings = new RegexStrings(line);
 		                	if (line.contains(":  ")){   
-		                    		//translate the first 15 characters of the line to the date
-		                    		date = formatLog.parse(line.substring(0,15));				
-		                    		//from line we leave everything from the third character after ":  " and remove a new line character
-		                    		logID = line.substring(line.indexOf(":  ")+3).replaceAll(System.getProperty("line.separator"),"");      
+		                    		//use regex to grab data from the line
+		                			date = formatLog.parse(regexStrings.comparedDate);				
+		                    		//comparedSeparator returns all the data after semicolon and two whitespaces, and remove a new line character
+		                			logID = regexStrings.comparedSeparator.replaceAll(System.getProperty("line.separator"),"");
 		                             	
 		                    		//The Map.entrySet method returns a collection-view of the map, whose elements are of this class.
 		                    		//entrySet() method is used to return a Set view of the mappings contained in this map. The set's iterator returns the entries in ascending key order
