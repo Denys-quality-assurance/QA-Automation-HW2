@@ -18,7 +18,7 @@ public class IDsCounter {
 		//until all IDs have been deleted from the transaction list 
 		while (transactions.length()>1){ 
 			//pattern to search the name of the first ID with commas in a string 
-			Pattern Search = Pattern.compile("(^,(.*?),)");
+			Pattern Search = Pattern.compile("(^,(?:.*?),)");
 			//pattern to search the name of the first ID (without commas) in a string 
 			Pattern nameSearch = Pattern.compile("^,(.*?),");
 			//Matcher object match string of IDs against the pattern

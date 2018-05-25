@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 
 public class RegexStrings {
 	//Regex searches date in string: "Feb<Tab><Tab>04 00:00:01"
-    String dateRegex = "^[A-Z][a-z]{2}[ \\t]{2}[0-9]{1,2}\\s+\\d{2}:\\d{2}:\\d{2}";
+    String dateRegex = "^[A-Z][a-z]{2}[ \\s]{2}[0-9]{1,2}\\s+\\d{2}:\\d{2}:\\d{2}";
     //Regex searches separator in string: ":< >< >......"
     String logIdSeparator = ":[ \\s]{2}[^\\n]+";
     //Regex searches date with year in string: "Log time: Sun, 04 Feb 2018"
